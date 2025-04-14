@@ -5,3 +5,5 @@ Extracting API and Web Scraping:
 [![Extracting CIK Numbers](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CRyaMsybhwvNcKln116PmMDgZHxUlede?usp=sharing)
 
 Linkedin Scraping:  
+  
+[![Extracting CIK Numbers](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hHESXGQoK85RRaHqCNlMbkbvA7w3JyVI?usp=sharing)
