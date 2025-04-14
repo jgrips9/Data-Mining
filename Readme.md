@@ -9,7 +9,9 @@ Linkedin Scraping:
 [![Extracting CIK Numbers](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hHESXGQoK85RRaHqCNlMbkbvA7w3JyVI?usp=sharing)
 
 Schedule Consultation with CCSS:  
-https://outlook.office365.com/book/CCSSConsultationgs@cornellprod.onmicrosoft.com/s/4hZyp0FGKEC1nWQahSz0IA2?ae=true&login_hint
+https://outlook.office365.com/book/CCSSConsultationgs@cornellprod.onmicrosoft.com/s/4hZyp0FGKEC1nWQahSz0IA2?ae=true&login_hint  
+
+  
 
 CCSS Workshop recording Web Scraping in Python:  
 https://vod.video.cornell.edu/media/Web+Scraping+in+Python.mp4/1_8mshn2vi/370569902  
