@@ -1,0 +1,1096 @@
+      UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+  Form 10-Q
+  (Mark One)
+  ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+  For the quarterly period ended September 30, 2024
+  OR
+  ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+  For the transition period from _______ to ________
+  Commission file number: 001-36492
+  AGEAGLE AERIAL SYSTEMS INC.
+(Exact name of registrant as specified in its charter)
+  Nevada   88-0422242
+(State or other jurisdiction
+of incorporation or organization)   (I.R.S. Employer
+Identification No.)
+      8201 E. 34th Street N, Suite 1307 Wichita, Kansas   67226
+(Address of principal executive offices)   (Zip Code)
+  Registrant’s telephone number, including area code: (620) 325-6363
+  Securities registered pursuant to Section 12(b) of the Act:
+  Title of Each Class   Trading Symbol(s)   Name of Each Exchange on Which Registered
+Common Stock, par value $0.001 per share   UAVS   NYSE American LLC
+  Securities registered pursuant to Section 12(g) of the Act: None.
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer,” “emerging growth company” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+  Large accelerated filer ☐ Accelerated filer ☐
+Non-accelerated filer ☒ Smaller reporting company ☒
+    Emerging growth company ☐
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+  As of November 19, 2024, there were 4,718,308 (after split 50:1) shares of Common Stock, par value $0.001 per share, issued and outstanding.
+            AGEAGLE AERIAL SYSTEMS INC.
+  TABLE OF CONTENTS
+    EXPLANITARY NOTE 3
+      PART I FINANCIAL INFORMATION 4
+      ITEM 1. FINANCIAL STATEMENTS: 4
+        Condensed Consolidated Balance Sheets as of September 30, 2024 (unaudited) and December 31, 2023 4
+        Condensed Consolidated Statements of Operations and Comprehensive Loss for the Three and Nine Months Ended September 30, 2024 (unaudited) and 2023 (unaudited and restated) 5
+        Condensed Consolidated Statements of Changes in Stockholders’ Equity for the Three and Nine Months Ended September 30, 2024 and 2023 (unaudited) 6
+        Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 (unaudited) 10
+        Notes to Condensed Consolidated Financial Statements (unaudited) 11
+      ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 39
+      ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 47
+      ITEM 4. CONTROLS AND PROCEDURES 47
+      PART II OTHER INFORMATION 48
+      ITEM 1. LEGAL PROCEEDINGS 48
+      ITEM 1A. RISK FACTORS 48
+      ITEM 2. RECENT SALES OF UNREGISTERED EQUITY SECURITIES AND USE OF PROCEEDS 48
+      ITEM 3. DEFAULTS UPON SENIOR SECURITIES 48
+      ITEM 4. MINE SAFETY DISCLOSURES 48
+      ITEM 5. OTHER INFORMATION 48
+      ITEM 6. EXHIBITS 48
+      SIGNATURES 49
+  2
+    EXPLANATARY NOTE
+  AgEagle Aerial Systems Inc. (the “Company”, “we”, “us”, and “our”) filed its Annual Report on Form 10-K for the fiscal year ended December 31, 2023 with the U.S. Securities and Exchange Commission (“SEC”) on April 1, 2024 (the “Original Form 10-K”) and filed quarterly reports on Form 10-Q for the three, six, and nine months ended March 31, 2023, June 30, 2023, and September 30, 2023 on May 15, 2023, August 14, 2023, and November 13, 2023, respectively, (collectively referred to has the “Original 2023 Form 10-Qs”) and filed quarterly reports for the three and six months ended March 31, 2024 and June 30, 2024 on May 15, 2024 and August 14, 2024, respectively, (collectively referred to has the “Original 2024 Form 10-Qs”). Subsequent to the filing of the Original Form 10-K and the Original 2023 and 2024 Form 10-Qs for the year end and interim periods during our fiscal year 2023 and fiscal year 2024, we identified an error that was present in all aforementioned filings.
+  On November 7, 2024, the audit committee of the Company’s board of directors concluded, after discussion with the Company’s management, that the previously issued consolidated financial statements as of and for the years ended December 31, 2023 and 2022 and the Form 10-Qs for the quarterly periods March 31, 2023, June 30, 2023, September 30, 2023, March 31, 2024 and June 30, 2024 should no longer be relied upon due to the errors discussed below and require restatement.
+  We plan to file an amendment to the Original Form 10-K, correcting the error present at December 31, 2023 and 2022 and restate all of the quarterly financial information in the Original 2023 Form 10-Qs in the amendment to the Original Form 10-K.
+  This Form 10-Q restates the quarterly financial statements periods in the Original 2024 Form 10-Qs and their comparative prior periods. See Note 12 included in this Form 10-Q to the accompanying quarterly consolidated financial statements for further details of the correction of the errors and a summary of the impact on the quarterly consolidated financial statements for all periods impacted by the error, which was isolated to the consolidated statements of operations and comprehensive loss.
+  Background of Restatement
+  Subsequent to the filing of our Original Form 10-K and Original Form 2024 and 2023 10-Qs, management identified an error in the computation of net loss attributable to common stockholders and total comprehensive loss as presented on our consolidated statements of operations and comprehensive loss included in the Original Form 10-K and Original Form 2024 and 2023 10-Qs. The error in the computation of net loss attributable to common stockholders resulted in an understatement of net loss per common share basic and diluted as presented on our consolidated statements of operations and an overstatement of comprehensive loss for the quarterly periods included in the Original 2024 and Original 2023 Form 10-Qs and the fiscal year ends included in the Original Form 10-K.
+  The net loss attributable to common stockholders erroneously excluded accrued cumulative dividends on outstanding Series F preferred stock and deemed dividends resulting from the triggering of down round features embedded within outstanding equity-linked financial instruments. Pursuant to ASC 260 Earnings Per Share, income (loss) available to common stockholders shall be computed by deducting dividends accumulated for the period on cumulative preferred stock. Also, the value of the effect of a down round feature shall be recognized in an equity-classified freestanding financial instrument when the down round feature is triggered. That effect shall be treated as a dividend and as an increase to net loss available to common stockholders in computation of earnings per share.
+  Further, the accrued cumulative dividends and deemed dividends were included as a component of other comprehensive loss. However, pursuant to ASC 220 – Income Statement – Reporting Comprehensive Income items required to be reported as direct adjustments to additional paid-in capital and retained earnings are not considered to be components of other comprehensive income (loss).
+  3
+    PART I – FINANCIAL INFORMATION
+  Item 1. Financial Statements.
+  AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+ 
+    As of  
+    September 30, 2024
+(unaudited)
+    December 31,
+2023  
+ASSETS                
+CURRENT ASSETS:                
+Cash   $ 265,126     $ 819,024  
+Accounts receivable, net     2,156,425       2,057,546  
+Inventories, net     5,885,358       6,936,980  
+Prepaid and other current assets     512,483       548,561  
+Note receivable     —       185,000  
+Total current assets     8,819,392       10,547,111  
+                  Property and equipment, net     544,928       799,892  
+Right-of-use assets     2,863,417       3,525,406  
+Intangible assets, net     2,141,477       2,615,281  
+Goodwill     7,402,644       7,402,644  
+Other assets     266,009       265,567  
+Total assets   $ 22,037,867     $ 25,155,901  
+                  LIABILITIES AND STOCKHOLDERS’ EQUITY                
+Accounts payable   $ 3,557,286     $ 3,062,794  
+Accrued liabilities     2,014,228       1,944,352  
+Convertible note     4,850,828       4,504,500  
+Other short-term loan     763,500       —  
+Contract liabilities     861,411       226,316  
+Current portion of lease liabilities     950,709       901,925  
+Current portion of COVID loan     362,478       391,545  
+Total current liabilities     13,360,440       11,031,432  
+                  Long-term portion of lease liabilities     2,006,920       2,721,743  
+Long-term portion of COVID loan     297,349       489,037  
+Defined benefit plan obligation     139,989       216,133  
+Total liabilities     15,804,698       14,458,345  
+                  COMMITMENTS AND CONTINGENCIES (NOTE 10)                
+                  STOCKHOLDERS’ EQUITY:                
+Preferred Stock, $0.001 par value, 25,000,000 shares authorized:                
+Preferred Stock, Series F Convertible, $0.001 par value, 35,000 shares authorized, 3,700 shares issued and outstanding as of September 30, 2024, and 6,075 shares issued and outstanding as of December 31, 2023     4       6  
+                  Common Stock, $0.001 par value, 250,000,000 shares authorized, 17,320,462 and 7,026,297 shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively     17,321       7,026  
+Additional paid-in capital     191,117,514       176,167,312  
+Accumulated deficit     (184,995,827 )     (165,583,091 )
+Accumulated other comprehensive income     94,157       106,303  
+Total stockholders’ equity     6,233,169       10,697,556  
+Total liabilities and stockholders’ equity   $ 22,037,867     $ 25,155,901  
+  See accompanying notes to these condensed consolidated financial statements.
+  4
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+(UNAUDITED)
+      For the Three Months Ended
+September 30,
+    For the Nine Months Ended
+September 30,  
+    2024     2023 (Restated)     2024     2023 (Restated)  
+Revenues   $ 3,284,984     $ 3,483,932     $ 10,571,969     $ 10,819,213  
+Cost of sales     1,650,717       2,269,858       5,428,705       6,594,973  
+Gross Profit     1,634,267       1,214,074       5,143,264       4,224,240  
+                                  Operating expenses:                                
+General and administrative     1,889,733       3,357,550       6,931,496       10,435,834  
+Research and development     969,402       1,368,394       3,181,638       4,320,216  
+Sales and marketing     636,292       978,243       1,825,645       2,911,963  
+Impairment charge     —       1,500,000       —       1,579,287  
+Total operating expenses     3,495,427       7,204,187       11,938,779       19,247,300  
+Loss from operations     (1,861,160 )     (5,990,113 )     (6,795,515 )     (15,023,060 )
+                                  Other income (expense):                                
+Interest expense     (1,563,817 )     (399,651 )     (5,698,269 )     (994,751 )
+Loss on debt extinguishment     —       (1,523,867 )     —       (1,523,867 )
+Gain/loss on disposal of fixed assets     11,000       —       (2,988 )     —  
+Other expense, net     (45,777 )     (106,497 )     (208,277 )     (368,532 )
+Total other expense, net     (1,598,594 )     (2,030,015 )     (5,909,534 )     (2,887,150 )
+Net loss before provision for income taxes     (3,459,754 )     (8,020,128 )     (12,705,049 )     (17,910,210 )
+Provision for income taxes     —       —       —       —  
+Net loss   $ (3,459,754 )   $ (8,020,128 )   $ (12,705,049 )   $ (17,910,210 )
+Accrued dividends on Series F Preferred Stock
+    (47,879 )     (49,122 )     (158,862 )     (170,277 )
+Deemed dividends on Series F Preferred Stock and Warrants     (1,450,232 )     —       (6,707,687 )     (4,910,894 )
+Net loss attributable to common stockholders     (4,957,865 )     (8,069,250 )     (19,571,598 )     (22,991,381 )
+                                  Net loss per common share - basic and diluted   $ (16.03 )   $ (72.64 )   $ (81.44 )   $ (232.29 )
+                                  Weighted average number of shares outstanding during the period – Basic and Diluted(i)     309,350 (i)     111,083 (ii)     240,309 (i)     98,976 (ii)
+                                  Comprehensive loss:                                
+Net loss   $ (3,459,754 )   $ (8,020,128 )   $ (12,705,049 )   $ (17,910,210 )
+Amortization of unrecognized periodic pension costs     —       (742 )     —       43,302  
+Foreign currency cumulative translation adjustment     140,349       (7,027 )     (12,146 )     116,757  
+Total comprehensive loss , net of tax   $ (3,319,405 )   $ (8,027,897 )   $ (12,717,195 )   $ (17,750,151 )
+  (i) Adjusted for the effect of a 1 to 50 reverse stock split that became effective on October 14, 2024 (see Note 13) for the three- and nine-months periods ended September 30, 2024.
+(ii) Adjusted for the effect of a 1 to 50 reverse stock split that became effective on October 14, 2024 (see Note 13) and adjusted for the effect of 1 to 20 reverse stock split that became effective on February 9, 2024.
+  See accompanying notes to these condensed consolidated financial statements.
+  5
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2024
+(UNAUDITED)
+      Par $0.001 Preferred Stock, Series F Convertible Shares     Preferred Stock, Series F Convertible Amount    
+Par
+$0.001
+Common Stock
+    Common Stock Amount     Additional Paid-In Capital     Accumulated Other Comprehensive Income (Loss)     Accumulated Deficit     Total
+Stockholders’ Equity  
+Balance as of June 30, 2024     4,295     $ 4           13,838,705     $ 13,840     $ 188,192,663     $ (46,192 )   $ (180,085,841 )   $ 8,074,474  
+Issuance of Preferred Stock, Series F Convertible, net of issuance cost     1,000       1       —       —       999,999       —       —       1,000,000  
+Conversion of Preferred Stock, Series F Convertible shares to Common Stock     (1,595 )     (1 )     3,481,757       3,481       (3,480 )     —       —       —  
+Dividends on Series F Preferred Stock     —       —       —       —       (47,879 )     —       —       (47,879 )
+Stock-based compensation expense     —       —       —       —       16,675       —       —       16,675  
+Reduction of Conversion Price on Convertible note     —       —       —       —       609,537       —       —       609,537  
+Deemed dividend on Series F Preferred Stock and Warrants     —       —       —       —       1,450,232       —       (1,450,232 )     —  
+Issuance costs for sale of Preferred Stock     —       —       —       —       (100,233 )     —       —       (100,233 )
+Foreign currency cumulative translation adjustment     —       —       —       —       —       140,349       —       140,349  
+Net loss     —       —       —       —       —       —       (3,459,754 )     (3,459,754 )
+Balance as of September 30, 2024     3,700     $ 4       17,320,462     $ 17,321     $ 191,117,514     $ 94,157     $ (184,995,827 )   $ 6,233,169  
+  6
+        Par $0.001 Preferred Stock, Series F Convertible Shares     Preferred Stock, Series F Convertible Amount    
+Par
+$0.001
+Common Stock
+    Common Stock Amount     Additional Paid-In Capital     Accumulated Other Comprehensive Income (Loss)     Accumulated Deficit     Total
+Stockholders’ Equity  
+Balance as of December 31, 2023     6,075     $ 6       140,520,163     $ 140,521     $ 176,033,817     $ 106,303     $ (165,583,091 )   $ 10,697,556  
+Effect on existing shares due to Reverse Split on February 9, 2024     —       —       (133,493,864 )     (133,495 )     133,495       —       —       —  
+Issuance of Preferred Stock, Series F Convertible, net of issuance cost     4,100       4       —       —       4,024,996       —       —       4,025,000  
+Conversion of Preferred Stock, Series F Convertible shares to Common Stock     (6,475 )     (6 )     9,350,474       9,350       (9,344 )     —       —       —  
+Conversion of Convertible Note principal to Common Stock     —       —       79,828       80       99,920       —       —       100,000  
+Dividends on Series F Preferred Stock     —       —       —       —       (158,862 )     —       —       (158,862 )
+Exercise of warrants issued with Series F     —       —       829,500       830       496,871       —       —       497,701  
+Stock-based compensation expense     —       —       —       —       63,791       —       —       63,791  
+Issuance of Restricted Common Stock     —       —       34,361       35       (35 )     —       —       —  
+Conversion Price of Promissory Note on Exchange Agreement     —       —       —       —       4,098,388       —       —       4,098,388  
+Deemed dividend on Series F Preferred Stock     —       —       —       —       6,707,687       —       (6,707,687 )     —  
+Issuance costs for sale of Preferred Stock     —       —       —       —       (373,210 )     —       —       (373,210 )
+Foreign currency cumulative translation adjustment     —       —       —       —       —       (12,146 )     —       (12,146 )
+Net loss     —       —       —       —       —       —       (12,705,049 )     (12,705,049 )
+Balance as of September 30, 2024     3,700     $ 4       17,320,462     $ 17,321     $ 191,117,514     $ 94,157     $ (184,995,827 )   $ 6,233,169  
+  See accompanying notes to condensed consolidated financial statements.
+  7
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2023
+(UNAUDITED)
+      Par $0.001 Preferred Stock, Series F Convertible Shares     Preferred Stock, Series F Convertible Amount     Par
+$0.001 Common Stock     Common Stock Amount     Additional Paid-In Capital     Accumulated Other Comprehensive Income     Accumulated Deficit     Total
+Stockholders’ Equity  
+Balance as of June 30, 2023     7,025     $ 7       109,491,375     $ 109,492     $ 167,247,840     $ 177,911     $ (126,354,420 )   $ 41,180,830  
+Effect on existing shares due to Reverse Split on February 9, 2024     —       —       (104,016,806 )     (104,017 )     104,017       —       —       —  
+Conversion of Preferred Stock, Series F Convertible shares to Common Stock     (750 )     (1 )     150,000       150       (149 )     —       —       —  
+Dividends on Series F Preferred Stock     —       —       —       —       (49,122 )     —       —       (49,122 )
+Conversion of warrants issued with promissory note and incremental value modification     —       —       250,000       250       190,250       —       —       190,500  
+Issuance of Restricted Common Stock     —               19,373       19       (19 )     —       —       —  
+Stock-based compensation expense     —       —       —       —       142,845       —       —       142,845  
+Amortization of unrecognized periodic pension costs     —       —       —       —       —       (742 )     —       (742 )
+Foreign currency cumulative translation adjustment     —       —       —       —       —       (7,027 )     —       (7,027 )
+Net loss     —       —       —       —       —       —       (8,020,128 )     (8,020,128 )
+Balance as of September 30, 2023     6,275     $ 6       5,893,942     $ 5,894     $ 167,635,662     $ 170,142     $ (134,374,548 )   $ 33,437,156  
+  8
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2023
+(UNAUDITED)
+      Par $0.001 Preferred Stock, Series F Convertible Shares     Preferred Stock, Series F Convertible Amount    
+Par
+$0.001
+Common Stock
+Shares
+    Common Stock Amount     Additional Paid-In Capital     Accumulated Other Comprehensive Income     Accumulated Deficit     Total
+Stockholders’ Equity  
+Balance as of December 31, 2022     5,863     $ 6       88,466,613     $ 88,467     $ 154,679,363     $ 10,083     $ (111,553,444 )   $ 43,224,475  
+                                                                  Effect on existing shares due to Reverse Split on February 9, 2024     —       —       (84,043,282 )     (84,043 )     84,043       —       —       —  
+Sales of common stock, net of issuance costs     —       —       836,000       836       3,816,564       —       —       3,817,400  
+Issuance of Preferred Stock, Series F Convertible, net of issuance cost     3,000       3       —       —       2,999,997       —       —       3,000,000  
+Conversion of Preferred Stock, Series F Convertible shares to Common Stock     (2,588 )     (3 )     365,238       365       (362 )     —       —       —  
+Dividends on Series F Preferred Stock     —       —       —       —       (170,277 )     —       —       (170,277 )
+Deemed dividend on Series F Preferred Stock and warrant     —       —       —       —       4,910,894       —       (4,910,894 )     —  
+Conversion of warrants issued with promissory note and incremental value modification     —       —       250,000       250       190,250       —       —       190,500  
+Issuance of Restricted Common Stock     —       —       19,373       19       (19 )     —       —       —  
+Stock-based compensation expense     —       —       —       —       1,125,209       —       —       1,125,209  
+Amortization of unrecognized periodic pension costs     —       —       —       —       —       43,302       —       43,302  
+Foreign currency cumulative translation adjustment     —       —       —       —       —       116,757       —       116,757  
+Net loss     —       —       —       —       —       —       (17,910,210 )     (17,910,210 )
+Balance as of September 30, 2023     6,275     $ 6       5,893,942     $ 5,894     $ 167,635,662     $ 170,142     $ (134,374,548 )   $ 33,437,156  
+  See accompanying notes to condensed consolidated financial statements.
+  9
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+      For the Nine Months Ended
+September 30,
+      2024     2023  
+CASH FLOWS FROM OPERATING ACTIVITIES:                
+Net loss   $ (12,705,049 )   $ (17,910,210 )
+Adjustments to reconcile net loss to net cash used in operating activities:                
+Stock-based compensation     63,791       1,125,209  
+Depreciation and amortization     815,285       3,027,644  
+Loss on disposal of fixed assets     2,988       —  
+Interest added to convertible note payable     771,445       —  
+Interest expense for reduction in convertible note conversion price     4,098,388       —  
+Defined benefit plan obligation     (73,099 )     (188,653 )
+Amortization of debt discount and warrant modification     768,000       612,712  
+Loss on debt extinguishment     —       1,523,867  
+Goodwill impairment     —       1,500,000  
+Lease impairment charge     —       79,287  
+Changes in operating assets and liabilities:                
+Accounts receivable, net     (41,322 )     223,208  
+Inventories, net     1,035,334       660,208  
+Prepaid expenses and other assets     151,675       237,815  
+Accounts payable     366,162       264,123  
+Accrued expenses and other liabilities     745,348       (28,133 )
+Contract liabilities     (240,646 )     (169,352 )
+Other     185,000       212,606  
+Net cash used in operating activities     (4,056,700 )     (8,829,669 )
+                  CASH FLOWS FROM INVESTING ACTIVITIES:                
+Purchases of property and equipment     (34,985 )     (95,004 )
+Proceeds of sales of asset     11,000       —  
+Capitalization of platform development costs     —       (297,596 )
+Capitalization of internal use software costs     (72,102 )     (171,516 )
+Net cash used in investing activities     (96,087 )     (564,116 )
+                  CASH FLOWS FROM FINANCING ACTIVITIES:                
+Sales of common stock, net of issuance costs     —       3,817,400  
+Sale of Series F preferred stock     4,025,000       3,000,000  
+Repayments on COVID loans     (212,392 )     (87,052 )
+Payment to convertible note     (325,117 )     —  
+Conversion of warrants issued with Series F shares     497,701       —  
+Other short-term loan, net of payment     (4,500 )     —  
+Issuance costs for sale of preferred stock     (373,210 )     —  
+Net cash provided by financing activities     3,607,482       6,730,348  
+                  Effects of foreign exchange rates on cash flows     (8,593 )     (86,257 )
+                  Net change in cash     (553,898 )     (2,749,694 )
+Cash at beginning of period     819,024       4,349,837  
+Cash at end of period   $ 265,126     $ 1,600,143  
+                  SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:                
+Interest cash paid   $ 852,141     $ —  
+Income taxes paid   $ —     $ —  
+NON-CASH INVESTING AND FINANCING ACTIVITIES:                
+Conversion of Preferred Stock, Series F Convertible to Common Stock   $ 9,350     $ 7,305  
+Issuance of Restricted Common Stock   $ 35     $ 388  
+Accrued dividends on Series F Preferred Stock   $ 158,862     $ 170,277  
+Deemed dividend on Series F Preferred stock and warrant   $ 6,707,687     $ 4,910,894  
+  See accompanying notes to condensed consolidated financial statements.
+  10
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 1 – Description of the Business and Basis of Presentation
+  Description of Business – AgEagle™ Aerial Systems Inc. (“AgEagle” or the “Company”, “we”, “our”), through its wholly-owned subsidiaries, AgEagle Aerial, Inc., DBA MicaSense™, Inc. (“MicaSense”), Measure Global, Inc. (“Measure”), senseFly SA, and senseFly Inc. (collectively “senseFly”), is actively engaged in designing and delivering best-in-class drones, sensors and software that solve important problems for its customers in a wide range of industry verticals, including energy/utilities, infrastructure, agriculture and government.
+  Founded in 2010, AgEagle was originally formed to pioneer proprietary, professional-grade, fixed-winged drones and aerial imagery-based data collection and analytics solutions for the agriculture industry. Today, the Company is earning distinction as a globally respected market leader offering customer-centric, advanced, autonomous unmanned aerial systems (“UAS”) which drive revenue at the intersection of flight hardware, sensors and software for industries that include agriculture, military/defense, public safety, surveying/mapping and utilities/engineering, among others. AgEagle has also achieved numerous regulatory firsts, including earning governmental approvals for its commercial and tactical drones to fly Beyond Visual Line of Sight (“BVLOS”) and/or Operations Over People in the United States, Canada, Brazil and the European Union and being awarded Blue UAS certification from the Defense Innovation Unit of the U.S. Department of Defense.
+  The Company is currently headquartered in Wichita, Kansas, where we house our sensor manufacturing operations, and we operate drone distribution and coordinate global customer service operations out of Raleigh, North Carolina. In addition, the Company operates engineering and drone manufacturing operations in Lausanne, Switzerland in support of our international business activities.
+  Reverse Stock Split - On February 8, 2024, the Company filed a Certificate of Amendment to its Articles of Incorporation, as amended to date effecting a 1-for-20 reverse stock split (the “Reverse Stock Split”) of the Company’s common stock, par value $0.001 per share (the “Common Stock”) (the “Reverse Split Amendment”). The Reverse Split Amendment was approved by the Board of the Directors of the Company (the “Board”) and became effective on February 9, 2024. All share and per share data and amounts have been retroactively adjusted as of the earliest period presented in the interim unaudited consolidated financial statements to reflect the effect of the Reverse Stock Split. See also Note 13 Subsequent Events for additional Reverse Stock Split effective October 14, 2024.
+  Basis of Presentation – The condensed consolidated financial statements of the Company are presented in United States dollars and have been prepared in accordance with accounting principles generally accepted in United States of America (“US GAAP”). In the opinion of management, the Company has made all necessary adjustments, which include normal recurring adjustments, for a fair statement of the Company’s consolidated financial position and results of operations for the periods presented. Certain information and disclosures included in the annual consolidated financial statements prepared in accordance with US GAAP have been condensed or omitted pursuant to the U.S. Securities and Exchange Commission (“SEC”) rules. These condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes for the year ended December 31, 2023, included in the Company’s Annual Report on Form 10-K, as filed with the SEC on April 1, 2024. The Company has identified a computation error of net loss attributable to common stockholders resulting in an understatement of net loss per common share basic and diluted as presented on our consolidated statements of operations and comprehensive loss that is presented in the previously filed 10-K and will be amending the previous filed 10-K. The results for the three and nine-month periods ended September 30, 2024 and 2023, are not necessarily indicative of the results to be expected for a full year, any other interim periods or any future year or periods.
+  The condensed consolidated financial statements include the accounts of AgEagle and its wholly-owned subsidiaries, AgEagle Aerial, Inc., Measure Global, Inc. and senseFly. All significant intercompany balances and transactions have been eliminated in consolidation.
+  A description of certain of the Company’s accounting policies and other financial information is included in the Company’s audited consolidated financial statements filed with the SEC on Form 10-K for the year ended December 31, 2023. The summary of significant accounting policies presented below is designed to assist in understanding the Company’s condensed consolidated financial statements. Such condensed consolidated financial statements and accompanying notes are the representations of the Company’s management, who are responsible for their integrity and objectivity.
+  11
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 1 – Description of the Business and Basis of Presentation-Continued
+  Liquidity and Going Concern – In pursuit of the Company’s long-term growth strategy and acquisitions, the Company has sustained continued operating losses. During the nine months ended September 30, 2024, the Company incurred a net loss of $12,705,049 and used cash in operating activities of $4,056,700. As of September 30, 2024, the Company has a working capital deficit of $4,541,048 and an accumulated deficit of $184,995,827. While the Company has historically been successful in raising capital to meet its working capital needs, the ability to continue raising such capital is not guaranteed. There is substantial doubt about the Company’s ability to continue as a going concern as the Company will require additional liquidity to continue its operations and meet its financial obligations for 12 months from the date these condensed consolidated financial statements are issued. The Company is evaluating strategies to obtain the required additional funding for future operations and the restructuring of operations to grow revenues and reduce expenses.
+  If the Company is unable to generate significant sales growth in the near term and raise additional capital, there is a risk that the Company could default on additional obligations; and could be required to discontinue or significantly reduce the scope of its operations if no other means of financing operations are available. The condensed consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amount and classification of liabilities or any other adjustment that might be necessary should the Company be unable to continue as a going concern.
+  Note 2 – Summary of Significant Accounting Policies
+  The summary of significant accounting policies presented below is designed to assist in understanding the Company’s condensed consolidated financial statements. Such condensed consolidated financial statements and accompanying notes are the representations of the Company’s management, who are responsible for their integrity and objectivity. These accounting policies conform to US GAAP in all material respects and have been consistently applied in preparing the accompanying condensed consolidated financial statements.
+  Risks and Uncertainties – Global economic challenges, including natural disasters, such as hurricanes, tornadoes, floods, earthquakes and other adverse weather and climate conditions; unforeseen public health crises, such as pandemics and epidemics; political crises, such as terrorist attacks, war, labor unrest, and other political instability; or other catastrophic events, such as disasters occurring at our manufacturing facilities, could disrupt our operations or the operations of one or more of our vendors. The aforementioned risks and their respective impacts on the UAV industry and the Company’s operational and financial performance remains uncertain and outside of the Company’s control. Specifically, because of the aforementioned continuing risks, the Company’s ability to access components and parts needed in order to manufacture its proprietary drones and sensors, and to perform quality testing have been, and continue to be, impacted. If either the Company or any of its third parties in the supply chain for materials used in our manufacturing and assembly processes continue to be adversely impacted, the Company’s supply chain may be disrupted, limiting its ability to manufacture and assemble products.
+  Use of Estimates – The preparation of condensed consolidated financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. Significant estimates include the reserve for obsolete inventory, valuation of intangible assets, and valuation of goodwill.
+  Fair Value Measurements and Disclosures – Accounting Standards Codification (“ASC”) Topic 820, Fair Value Measurement (“ASC 820”), requires companies to determine fair value based on the price that would be received to sell the asset or paid to transfer the liability to a market participant. ASC 820 emphasizes that fair value is a market-based measurement, not an entity-specific measurement.
+  12
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 2 – Summary of Significant Accounting Policies-Continued
+  The guidance requires that assets and liabilities carried at fair value be classified and disclosed in one of the following categories:
+    ● Level 1: Quoted market prices in active markets for identical assets or liabilities.
+        ● Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+        ● Level 3: Unobservable inputs that are not corroborated by market data.
+  For short-term classes of our financial instruments, which include cash, accounts receivable, prepaid expenses, notes receivable, accounts payable and accrued expenses, their carrying amounts approximate fair value due to their short-term nature. The outstanding loan related to the COVID Loans is carried at face value, which approximates fair value. As of September 30, 2024 and December 31, 2023, the Company did not have any financial assets or liabilities measured and recorded at fair value on the Company’s condensed consolidated balance sheets on a recurring basis.
+  Inventories – Inventories, which consist of raw materials, finished goods and work-in-process, are stated at the lower of cost or net realizable value, with cost being determined by the average-cost method, which approximates the first-in, first-out method. Cost components include direct materials and direct labor. At each balance sheet date, the Company evaluates its inventories for excess quantities and obsolescence. This evaluation primarily includes an analysis of forecasted demand in relation to the inventory on hand, among consideration of other factors. The physical condition (e.g., age and quality) of the inventories is also considered in establishing its valuation. Based upon the evaluation, provisions are made to reduce excess or obsolete inventories to their estimated net realizable values. Once established, write-downs are considered permanent adjustments to the cost basis of the respective inventories. These adjustments are estimates, which could vary significantly, either favorably or unfavorably, from the amounts that the Company may ultimately realize upon the disposition of inventories if future economic conditions, customer inventory levels, product discontinuances, sales return levels or competitive conditions differ from the Company’s estimates and expectations.
+  Cash Concentrations - The Company maintains its cash balances at financial institutions that are insured by the Federal Deposit Insurance Corporation up to $250,000. The Company has significant cash balances at financial institutions which throughout the year regularly exceed the federally insured limit of $250,000. Any loss incurred or a lack of access to such funds could have a significant adverse impact on the Company’s financial condition, results of operations, and cash flows.
+  Accounts Receivable and Credit Policy – Trade receivables due from customers are uncollateralized customer obligations due under normal and customary trade terms. Trade receivables are stated at the amount billed to the customer. As of September 30, 2024 and December 31, 2023, the Company had an accounts receivable balance of $2,156,425 and $2,057,546, respectively. The Company generally does not charge interest on overdue customer account balances. Payments of trade receivables are allocated to the specific invoices identified on the customer’s remittance advice or, if unspecified, are applied to the earliest unpaid invoices. The Company estimates an allowance for credit losses based upon an evaluation of the current status of trade receivables, historical experience, and other factors as necessary. It is reasonably possible that the Company’s estimate of the allowance for credit losses will change.
+  13
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 2 – Summary of Significant Accounting Policies-Continued
+  Allowance for Credit Losses - We establish allowances for credit losses on accounts receivable, under ASC 326-20-55-37. The adequacy of these allowances is assessed quarterly through consideration of factors such as customer credit ratings, bankruptcy filings, published or estimated credit default rates, age of the receivable, expected loss rates and collateral exposures. Collateral exposure is the excess of the carrying value of a financial asset over the fair value of the related collateral. We determine the creditworthiness of our customers by assigning internal credit ratings based upon publicly available information and information obtained directly from the customers. As of September 30, 2024 and December 31, 2023, the Company had an allowance for credit losses of $0 and $158,689, respectively.
+  Our net accounts receivable represents amounts billed and due from customers. Based on historical perspective, nearly all of our accounts receivable as of September 30, 2024 would be collected in calendar year 2024 because the majority of our accounts receivable are due from value added resellers (“VARs”) and sovereign governments, including the U.S. Department of Defense. However, under the new guidance, the Company has elected to recognize credit losses based on our collection history and our customers payment terms.
+  Revenue Recognition – The Company’s revenues are derived primarily through the sales of drones, sensors and related accessories, and software subscriptions. The Company utilized ASC Topic 606 and its related amendments, Revenue from Contracts with Customers, which requires revenue to be recognized in a manner that depicts the transfer of goods or services to customers in amounts that reflect the consideration to which the entity expects to be entitled in exchange for those goods or services.
+  Generally, we recognize revenue when it satisfies its obligation by providing the benefits of the service to the customer, either over time or at a point in time. A performance obligation is satisfied over time if one of the following criteria are met:
+    a. the customer simultaneously receives and consumes the benefits as the entity performs; or
+  b. the entity’s performance creates or enhances an asset that the customer controls as the asset is created or enhanced; or
+  c. the entity’s performance does not create an asset with an alternative use to the entity, and the entity has an enforceable right to payment for performance completed to date.
+  Revenue recognition under ASC 606 as described below creates following revenue streams:
+    ● Sensor Sales – sales are recognized on products when the related goods have been shipped, title has passed to the customer, and there are no undeliverable elements or uncertainties. Amounts incurred related to shipping and handling are included in cost of revenue.
+        ● Drone Sales - sales are recognized on products when the related goods have been shipped, title has passed to the customer, and there are no undeliverable elements or uncertainties. Amounts incurred related to shipping and handling are included in cost of revenue.
+        ● Software Sales – are subscription sales of our software that are recognized equally over the membership period as the services are provided.
+  The Company recognizes revenue on sales to customers, dealers, and distributors upon satisfaction of performance obligations which occurs once controls transfer to customers, which is when product is shipped or delivered depending on specific shipping terms and, where applicable, a customer acceptance has been obtained. The fee is not considered to be fixed or determinable until all material contingencies related to the sales have been resolved. The Company records revenue in the condensed consolidated statements of operations and comprehensive loss net of any sales and use, value added, or certain excise taxes imposed by governmental authorities on specific sales transactions and net of any discounts, allowances and returns.
+  Under fixed-price contracts, the Company agrees to perform the specified work for a pre-determined price. To the extent the Company’s actual costs vary from the estimates upon which the price was negotiated, it will generate more or less profit or could incur a loss. The Company accounts for a contract after it has been approved by all parties to the arrangement, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable.
+  14
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 2 – Summary of Significant Accounting Policies-Continued
+  The Company’s software subscriptions to its platforms, HempOverview and Ground Control, are offered on a subscription basis. These subscription fees are recognized equally over the membership period as the services are provided.
+  Additionally, customer payments received in advance of the Company completing performance obligations are recorded as contract liabilities. Customer deposits represent customer prepayments and are recognized as revenue when the term of the sale or performance obligation is completed. As of September 30, 2024 and December 31, 2023, contract liabilities represent amounts of $861,411 and $226,316, respectively.
+  Internal- Use Software Costs – Internal-use software costs are accounted for in accordance with ASC Topic 350-40, Internal-Use Software. The costs incurred in the preliminary stages of development are expensed as research and development costs as incurred. Once an application has reached the development stage, internal and external costs incurred to develop internal-use software are capitalized and amortized on a straight-line basis over the estimated useful life of the software (typically three to five years). Maintenance and enhancement costs, including those costs in the post-implementation stages, are typically expensed as incurred, unless such costs relate to substantial upgrades and enhancements to the software that result in added functionality, in which case the costs are capitalized and amortized on a straight-line basis over the estimated useful life of the software. The Company reviews the carrying value for impairment whenever facts and circumstances exist that would suggest that assets might be impaired or that the useful lives should be modified. Amortization expense related to capitalized internal-use software development costs is included in general and administrative expenses on the condensed consolidated statements of operations and comprehensive loss.
+  As of September 30, 2024 and December 31 2023, capitalized software costs for internal-use software related to the Company’s implementation of its enterprise resource planning software, totaled $370,785 and $582,148, respectively, net of accumulated amortization and are included in intangible assets, net on the condensed consolidated balance sheets.
+  Goodwill and Intangible Assets – The assets and liabilities of acquired businesses are recorded under the acquisition method of accounting at their estimated fair values at the date of acquisition. Goodwill represents costs in excess of fair values assigned to the underlying identifiable net assets of acquired businesses. Intangible assets from acquired businesses are recognized at fair value on the acquisition date and consist of customer programs, trademarks, customer relationships, technology and other intangible assets. Customer programs include values assigned to major programs of acquired businesses and represent the aggregate value associated with the customer relationships, contracts, technology and trademarks underlying the associated program and are amortized on a straight-line basis over a period of expected cash flows used to measure fair value, which ranges from four to five years.
+  As of September 30, 2024 and December 31, 2023, the goodwill balance was $7,402,644. The Company tests its goodwill for impairment, at least annually, unless events or changes in circumstances indicate the carrying value of goodwill may be impaired, the Company may look to perform such test sooner versus on an annual basis. Such events or changes in circumstances may include a significant deterioration in overall economic conditions, changes in the business climate of our industry, a decline in the Company’s market capitalization, decline in operating performance indicators, competition, or a reorganization of our business. The Company’s goodwill has been allocated to and is tested for impairment at a level referred to as the business segment. The level at which the Company test goodwill for impairment requires it to determine whether the operations below the business segment constitute a self-sustaining business for which discrete financial information is available and segment management regularly reviews the operating results which is referred to as a reporting unit.
+  15
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 2 – Summary of Significant Accounting Policies-Continued
+  As of September 30, 2024 and December 31, 2023, our intangible assets balance was $2,141,477 and $2,615,281, respectively. Finite-lived intangibles are amortized to expense over the applicable useful lives, ranging from three to ten years, based on the nature of the asset and the underlying pattern of economic benefit as reflected by future net cash inflows. We perform an impairment test of finite-lived intangibles whenever events or changes in circumstances indicate their carrying value may be impaired. If events or changes in circumstances indicate the carrying value of a finite-lived intangible may be impaired, the sum of the undiscounted future cash flows expected to result from the use of the asset group would be compared to the asset group’s carrying value. If the asset group’s carrying amount exceeds the sum of the undiscounted future cash flows, we would determine the fair value of the asset group and record an impairment loss in net earnings.
+  Foreign Currency – The Company translates assets and liabilities of its foreign subsidiary, senseFly S.A., predominately in Swiss Franc to their U.S. dollar equivalents at exchange rates in effect as of the balance sheet date. Translation adjustments are not included in determining net income but are recorded in accumulated other comprehensive loss on the condensed consolidated balance sheets. The Company translates the condensed consolidated statements of operations and comprehensive loss of its foreign subsidiary at average exchange rates for the applicable period. Foreign currency transaction gains and losses, arising primarily from changes in exchange rates on foreign currency denominated revenues, certain purchases and intercompany transactions are recorded in other income (expense), net in the condensed consolidated statements of operations and comprehensive loss.
+  Shipping Costs – All shipping costs billed directly to the customer are directly offset to shipping costs resulting in a net expense to the Company, which is included in cost of sales in the accompanying condensed consolidated statements of operations and comprehensive loss. For the three months ended September 30, 2024 and 2023, shipping costs totaled $51,510 and $68,966, respectively, and for the nine months ended shipping cost totaled $211,781 and $191,447, respectively.
+  Advertising Costs – Advertising costs are charged to operations as incurred and presented in sales and marketing expenses in the condensed consolidated statements of operations and comprehensive loss. For the three months ended September 30, 2024 and 2023, advertising costs were $4,412 and $44,701, respectively; and for the nine month ended were $10,489 and $113,119, respectively.
+  Loss Per Common Share and Potentially Dilutive Securities – Basic loss per share is computed by dividing net loss by the weighted average number of common shares outstanding for the period. Diluted loss per share is computed by dividing net loss by the weighted average number of common shares outstanding plus Common Stock, equivalents (if dilutive) related to warrants, options, and convertible instruments. For the three and nine months ended September 30, 2024 and 2023, the Company has excluded all common equivalent shares outstanding for restricted stock units (“RSUs”), warrants and options to purchase Common Stock and convertible instruments from the calculation of diluted net loss per share, because these securities are anti-dilutive for the periods presented. As of September 30, 2024, the Company had 366,229 unvested RSUs, 8,740,340 warrants, and 2,750 options outstanding to purchase shares of Common Stock and 9,162,952 of issuable shares upon the conversion of Series F preferred stock. As of December 31, 2023, the Company had 9,630 unvested RSUs, 3,233,546 warrants and 125,264 options outstanding to purchase shares of Common Stock, and 25,100,000 of issuable shares upon the conversion of Series F preferred stock
+  Segment Reporting – In accordance with ASC Topic 280, Segment Reporting, the Company identifies operating segments as components of an entity for which discrete financial information is available and is regularly reviewed by the chief operating decision maker in making decisions regarding resource allocation and performance assessment. The Company defines the term “chief operating decision maker” to be its chief executive officer.
+  16
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 2 – Summary of Significant Accounting Policies-Continued
+  The Company has determined that it operates in four segments:
+    ● Drones, which comprises revenues earned from contractual arrangements to develop, manufacture and /or modify complex drone related products, and to provide associated engineering, technical and other services according to customer specifications.
+        ● Sensors, which comprises the revenue earned through the sale of sensors, cameras, and related accessories.
+        ● Software as a service (“SaaS”), which comprises revenue earned through the offering of online-based subscriptions.
+        ● Corporate, which comprises corporate costs only.
+  New Accounting Pronouncements – In March 2024, the Securities and Exchange Commission (“SEC”) has released a final rule that requires registrants to provide comprehensive climate-related disclosures in their annual reports and registration statements, including those for IPOs, beginning with annual reports for the year ending December 31, 2027, for smaller reporting companies (“SRC”). Registrants must disclose climate-related financial metrics and impacts on their financial estimates and assumptions in a footnote to the audited financial statements. The disclosures will also need to be addressed as part of management’s internal control over financial reporting (“ICFR”) and will be subject to the financial statement and ICFR audit (if applicable) of an independent registered public accounting firm. We are currently evaluating the impacts of the improvements to our disclosure.
+  In December 2023, Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). The ASU focuses on income tax disclosures around effective tax rates and cash income taxes paid. ASU 2023-09 requires public business entities to disclose, on an annual basis, a rate reconciliation presented in both dollars and percentages. The guidance requires the rate reconciliation to include specific categories and provides further guidance on disaggregation of those categories based on a quantitative threshold equal to 5% or more of the amount determined by multiplying pretax income (loss) from continuing operations by the applicable statutory rate. For entities reconciling to the US statutory rate of 21%, this would generally require disclosing any reconciling items that impact the rate by 1.05% or more. ASU 2023-09 is effective for public business entities for annual periods beginning after December 15, 2024 (generally, calendar year 2025) and effective for all other business entities one year later. Entities should adopt this guidance on a prospective basis, though retrospective application is permitted. The adoption of ASU 2023-09 is expected to have a financial statement disclosure impact only and is not expected to have a material impact on the Company’s condensed consolidated financial statements.
+  In November 2023, the FASB issued ASU 2023-07, Segment Reporting – Improvements to Reportable Segment Disclosures. The ASU will now require public entities to disclose its significant segment expenses categories and amounts for each reportable segment. Under the ASU, a significant segment expense is an expense that is:
+    ● significant to the segment,
+        ● regularly provided to or easily computed from information regularly provided to the chief operating decision maker and
+        ● included in the reported measure of segment profit or loss.
+  The ASU is effective for public entities for fiscal years beginning after December 15, 2023, and interim periods in fiscal years beginning after December 15, 2024 (calendar year public entity will adopt the ASU in its 2024 Form 10-K). The ASU should be adopted retrospectively unless it’s impracticable to do so. Early adoption of the ASU is permitted, including in an interim period. The adoption of ASU 2023-07 is expected to have a financial statement disclosure impact only and is not expected to have a material impact on the Company’s condensed consolidated financial statements.
+  17
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 3 – Balance Sheets
+  Accounts Receivable, Net
+  As of September 30, 2024 and December 31, 2023, accounts receivable, net consist of the following:
+      September 30, 2024     December 31, 2023  
+Accounts receivable   $ 2,156,425     $ 2,216,235  
+Less: Allowance for credit losses*     —       (158,689 )
+Accounts receivable, net   $ 2,156,425     $ 2,057,546  
+  * Allowance for credit losses - Accounts receivable, net represent amounts billed and due from customers. Substantially all accounts receivable on September 30, 2024 are expected to be collected in 2024.
+  Inventories, Net
+  As of September 30, 2024 and December 31, 2023, inventories, net consist of the following:
+      September 30, 2024     December 31, 2023  
+Raw materials   $ 3,695,961     $ 4,648,966  
+Work in process     957,346       903,217  
+Finished goods     1,629,947       1,806,239  
+Gross inventories     6,283,254       7,358,422  
+Less: Provision for obsolescence     (397,896 )     (421,442 )
+Inventories, net   $ 5,885,358     $ 6,936,980  
+  Prepaid and Other Current Assets
+  As of September 30, 2024 and December 31, 2023, prepaid and other current assets consist of the following:
+      September 30, 2024     December 31, 2023  
+Prepaid inventories   $ 125,801     $ 12,738  
+Prepaid software licenses and annual fees     113,858       182,510  
+Prepaid rent     48,993       51,497  
+Prepaid insurance     74,374       166,210  
+Prepaid value-added tax charges     98,512       63,209  
+Prepaid other and other current assets     50,945       72,397  
+Prepaid and other current assets   $ 512,483     $ 548,561  
+  18
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 3 – Balance Sheets-Continued
+  Property and Equipment, Net
+  As of September 30, 2024 and December 31, 2023, property and equipment, net consist of the following:
+      Estimated              
+Type  
+Useful Life
+(Years)
+    September 30, 2024     December 31, 2023  
+Leasehold improvements     3     $ 89,272     $ 136,382  
+Production tools and equipment     5       912,052       1,003,726  
+Computer and office equipment     3-5       376,863       407,747  
+Furniture     5       59,712       74,420  
+Drone equipment     3       130,163       170,109  
+Total property and equipment             1,568,062       1,792,384  
+Less: Accumulated depreciation             (1,023,134 )     (992,492 )
+Total Property and equipment, net           $ 544,928     $ 799,892  
+  During the three months ended September 30, 2024 and 2023, depreciation expense was $83,315 and $93,614 respectively, for the nine months ended September 30, 2024 and 2023, depreciation expense was $269,642 and $293,538, respectively, which has been included in general and administrative expenses on the accompanying condensed consolidated statements of operations and comprehensive loss.
+  Intangible Assets, Net
+  As of September 30, 2024 and December 31, 2023, intangible assets, net, other than goodwill, consist of following:
+  Name   Estimated
+Life
+(Years)     Balance as of
+December 31,
+2023     Additions     Amortization     Balance as of
+September 30,
+2024  
+Intellectual property/technology     5-7     $           606,354     $ —     $ (111,371 )   $            494,983  
+Customer base     3-10       999,774       —       (105,858 )     893,916  
+Trade names and trademarks     5-10       427,005       —       (45,212 )     381,793  
+Internal use software costs     3       582,148       72,102       (283,465 )     370,785  
+Total intangibles assets, net           $ 2,615,281     $ 72,102     $ (545,906 )   $ 2,141,477  
+  As of September 30, 2024, the weighted average remaining amortization period in years is 2.59 years. For the three and nine months ended September 30, 2024 and 2023, amortization expense was $184,656 and $919,774, respectively and $545,906 and $2,734,106, respectively.
+  For the following years ending, the future amortization expense consists of the following:
+      For the Years Ending December 31,  
+    (rest of year)
+2024
+    2025     2026     2027     2028     Thereafter     Total  
+Intellectual property/technology   $      37,124     $ 148,495     $ 148,495     $ 148,495     $ 12,374     $ —     $ 494,983  
+Customer base     35,286       141,145       141,145       141,145       141,145       294,050       893,916  
+Trade names and trademarks     15,071       60,283       60,283       60,283       60,283       125,590       381,793  
+Internal use software costs     97,061       215,286       48,523       9,915       —       —       370,785  
+Total intangible assets, net   $ 184,542     $ 565,209     $ 398,446     $ 359,838     $ 213,802     $ 419,640     $ 2,141,477  
+  19
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 3 – Balance Sheets-Continued
+  Accrued Liabilities
+  As of September 30, 2024 and December 31, 2023, accrued liabilities consist of the following:
+      September 30, 2024     December 31, 2023  
+Accrued purchases   $ —     $ 290,126  
+Accrued compensation and related liabilities     724,168       278,794  
+Provision for warranty expense     308,216       303,217  
+Accrued dividends     671,089       512,227  
+Accrued professional fees     180,852       211,086  
+Accrued interest     108,446       326,945  
+Other     21,456       21,957  
+Total accrued liabilities   $ 2,014,227     $ 1,944,352  
+  Note 4 – COVID Loans
+  The Company assumed the obligations for two COVID Loans originally made by the SBA to senseFly S.A. on July 27, 2020 (“senseFly COVID Loans”). As of senseFly Acquisition Date, the fair value of the COVID Loan was $1,440,046 (“senseFly COVID Loans”). For the three and nine months ended September 30, 2024, senseFly S.A. made the required payments on the senseFly COVID Loans, including principal and accrued interest, aggregating approximately $0 and $212,391, respectively. As of September 30, 2024, the Company’s outstanding obligations under the senseFly COVID Loans are $659,827. On August 25, 2023, the Company modified one (1) of its existing agreements to extend the repayment period of the COVID Loan from a maturity date of December 2023 to June 2025. The other COVID loan remains unchanged.
+  As of September 30, 2024, scheduled principal payments due under the senseFly COVID Loans are as follows:
+  Year ending December 31,      
+2024 (rest of year)   $ 166,724  
+2025     195,754  
+2026     98,073  
+2027     199,276  
+Total   $ 659,827  
+  20
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 5 – Promissory Note and Exchange Agreement
+  On December 6, 2022, the Company entered into a Securities Purchase Agreement (the “Promissory Note Purchase Agreement”) with an institutional investor, Alpha Capital Anstalt (“Alpha”), which is an existing shareholder of the Company. Pursuant to the terms of the Promissory Note Purchase Agreement, the Company has agreed to issue to the Investor (i) an 8% original issue discount promissory note (the “Note”) in the aggregate principal amount of $3,500,000, and (ii) a common stock purchase warrant (the “Promissory Note Warrant”) to purchase up to 250,000 shares of the Company’s Common Stock (the “Shares”) at an exercise price of $8.80 per share, subject to standard anti-dilution adjustments. The Note is an unsecured obligation of the Company. It has an original issue discount of 4% and bears interest at 8% per annum. The Company received net proceeds of $3,285,000 net of the original issue discount of $140,000 and $75,000 of issuance costs. The Promissory Note Warrant was not exercisable for the first six months after issuance and has a five-year term from the initial exercise date of June 6, 2023.
+  Beginning June 1, 2023, and on the first business day of each month thereafter, the Company was to pay 1/20th of the original principal amount of the Note plus any accrued but unpaid interest, with any remaining principal plus accrued interest payable in full upon the maturity date of December 31, 2024 or the occurrence of an Event of Default (as defined in the Note).
+  On August 14, 2023, the Company and Alpha entered into a Note Amendment Agreement due to the Company not making the Monthly Amortization Payments for the months of June – August 2023. Pursuant to the Note Amendment Agreement, the parties agreed to amend the Note as follows:
+    (i) defer payment of the Monthly Amortization Payments for June 2023, July 2023 and August 2023 in the aggregate amount of $525,000 (the “Deferred Payments”), and the September Monthly Amortization Payment, in the amount of $175,000, until September 15, 2023. The Company was not able to meet the payment requirements of the Note Amendment Agreement
+        (ii) increase the principal amount of the Note by $595,000 so that the current principal amount of the Note was $4,095,000.
+  On September 15, 2023, the Company and Investor entered into a Warrant Exchange Agreement pursuant to which the Company agreed to issue to the Investor 5,000,000 shares of common stock in exchange for the Warrant for no consideration. The Company accounted for the incremental value using the Black-Scholes pricing model of the Promissory Note Warrant modification of $190,500 as an increase in additional paid-in capital and interest expense on the condensed consolidated statements of operations and comprehensive loss.
+  As result of the default on the payment for September 15, 2023, October 1, 2023 and November 1, 2023, the principal increased by $409,500 for a total balance of $4,504,500.
+  On October 5, 2023, the Company and Alpha entered into a Second Note Amendment Agreement (the “Second Amendment”), which provides for the following:
+    (i) the Deferred Payments were due and payable on December 15, 2023;
+        (ii) the Amortization Payments (defined in the Note) scheduled for September 15, 2023, October 1, 2023, and November 1, 2023, were deferred and made part of the Amortization Payments commencing in January 2024; and
+        (iii) 50% of any net proceeds above $2,000,000 from any equity financing between the date of the Second Amendment and December 15, 2023, were to be used to prepay the Note. The Second Amendment also partially waived the Event of Default in Section 3 (a)(vii) of the Note as a result of the resignation of a majority of the officers listed therein.
+  As of December 15, 2023, the Company was unable to meet its payment obligation as prescribed in the Second Amendment.
+  On February 8, 2024, the Company and Alpha entered into a Securities Exchange Agreement (the “Exchange Agreement”), pursuant to which the parties agreed to exchange the Note Payable Purchase Agreement, as amended, executed December 2022, for a Convertible Note due January 8, 2025 in the principal amount of $4,849,491 (the “Convertible Note”), convertible into Common Stock at the initial conversion price of $2.00 per share of Common Stock, subject to adjustment based on the effectiveness of the Company’s Reverse Stock Split which became effective on February 9, 2024. On February 16, 2024, the conversion price was adjusted downward to $1.25 pursuant to the terms of the Convertible Note and is subject to adjustment pursuant to dilutive protection terms included in the Convertible Note. The principal amount of the Convertible Note did not change and includes: (i) the initial principal amount of the Original Note of $3,500,000, (ii) the additional $595,000 in principal added pursuant to the 1st Amendment, (iii) $192,111 in accrued interest at the rate of 8% from December 6, 2022 through August 13, 2023 on the original principal amount of $3,500,000, (iv) $152,880 in accrued interest at the rate of 8% from August 14, 2023 through February 8, 2024 on the original principal amount of $4,095,000, and (v) an additional principal amount of $409,500. The Convertible Note accrues interest at 12% per annum versus 8% on the Note Payable Purchase Agreement. The interest rate increased to the lesser of 18% per annum or the maximum rate permitted under applicable law upon an Event of Default as defined under the Convertible Note. Commencing April 1, 2024, and on the first business day of each calendar month thereafter, the Company shall pay $484,949, plus any accrued but unpaid interest, with any remaining principal plus accrued interest payable in full upon the Maturity Date.
+  21
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 5 – Promissory Note and Exchange Agreement- Continued
+  On February 16, 2024, the Company received a notification from Alpha to convert $100,000 into 79,828 shares of common stock at an exercise price of $1.2527, reducing the principal balance to $4,749,491.
+  On April 12, 2024, the Company received an Investor Notice from Alpha for the aggregate purchase of 1,050 shares of Series F Convertible Preferred convertible into 1,418,919 shares of Common Stock, in the aggregate, at a conversion price of $0.74 for an aggregate purchase price of $1,050,000, the investor retained $569,091 as a payment to the Promissory Note which consisted of the scheduled principal payment of $484,950 for the month of April and $84,141 of interest, as result, the company received $480,909.
+  During the three months ended September 30, 2024, the Company recorded interest of $568,549 of which $426,454 was added to the principal balance due to the Company’s failure to make payments in the third quarter, for the nine months the Company recorded $778,874 of interest expense related to the Note Payable Purchase Agreement and Convertible Note in the condensed consolidated statements of operations and comprehensive loss. As of September 30, 2024, there is $108,446 of accrued interest included in accrued expenses and the total principal outstanding is $4,850,828.
+  As of September 30, 2024, scheduled principal payments due under the fourth Amended Note are as follows:
+  Year Ending December 31,      
+2024   $ 4,850,828  
+Total   $ 4,850,828  
+  On March 6, 2024, the conversion price of the Convertible Debt was reduced from $1.25 to $0.60 pursuant to dilution protection provisions and due to the reduction in warrant exercise prices to $0.60 to induce exercise (see Note 7). The Company recognized interest expense in the amount of $3,488,851 for the incremental value of the conversion feature due to the reduced conversion price. The incremental value was determined using a Black-Scholes pricing model pre and post modification and the following inputs: expected term 0.92 years, risk free rate of 4.83%, volatility of 89.6%, and dividend rate of 0%.
+  On August 27, 2024, Alpha exercised its Additional Investment Right for the aggregate purchase of 500 shares of Series F Convertible Preferred, convertible into 1,238,237 shares of Common Stock. The previous conversion price of $0.60 was reduced to $0.4038 as a result of this reduction the Company recorded interest expense of $609,537 for the incremental value of the conversion feature due to the reduced conversion price. The incremental value was determined using a Black-Scholes pricing model pre and post modification and the following inputs: expected term 0.50 years, risk free rate of 4.34%, volatility of 101.70%, and dividend rate of 0%.
+  Note 6 – Other Short-Term Loan
+  On June 21, 2024, the Company entered into an agreement for the purchase and sale of future receipts with a commercial lender pursuant to which the Buyer purchased $1,890,000 of future receipts. The Company recorded the sale of future receipts at the discount price of $1,312,500, for net proceeds of $1,250,000 cash, net of $62,500 origination fee. The Future Receipts Agreement was effective as of June 20, 2024. The Company recorded a debt discount of $640,000 which will be amortized over the life of the loan into interest expense. The purchased amount is remitted in weekly instalments in the amount of $67,500 until the purchased amount has been satisfied. The Company intends to use the proceeds for working capital and general corporate purposes. At the issuance of this agreement the Company agreed the lender to retain $378,000 related to the balance due for the agreement of the purchase and sales of future receipts completed on January 24, 2024, referenced in the paragraph below – from the same lender.
+  22
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 6 – Other Short-Term Loan – Continued
+  On January 24, 2024, the Company entered into an agreement for the purchase and sale of future receipts (the “Future Receipts Agreement”) with an unrelated commercial lender (the “Buyer”) pursuant to which the Buyer purchased $1,512,000 (“Purchased Amount”) in future receipts of the Company at the discount price of $1,050,000, for net proceeds of $1,000,000 cash, net of $50,000 origination fee. At issuance, the Company recorded a debt discount of $512,000 which will be amortized over the life of the loan into interest expense. The Company is required to repay the Purchased Amount with weekly instalments in the amount of $54,000 until the Purchased Amount has been satisfied. The Company may prepay the Purchased Amount within 30 calendar days by tendering the amount of $1,312,500.
+  In the event the Company is unable to make timely weekly payments due to a business slow down, or if the full Purchased Amount is never remitted due to bankruptcy or other cessation of operations in the ordinary course of business, and the Company has not breached the Future Receipts Agreement, it would not be an event of default. The Company would not owe anything to Buyer and would not be in breach of or default under this Future Receipts Agreement.
+  During the three and nine months ended September 30, 2024, the Company recorded $384,000 and $768,000 of amortization related to the debt discount as interest expense related to the purchase and sales of future receipts dated June 20,2024. As of September 30, 2024, the total balance outstanding under the short-term loan is $1,147,500, an unamortized debt discount of $384,000, resulting in a net discounted balance of $763,500.
+      Purchased Amount     Payments     Unamortized Debt Discount     Balance, Net of Discount  
+                          Current portion of other short-term loan liability – January 24, 2024   $ 1,512,000     $ (1,512,000 )   $ —     $ —  
+Current portion of other short-term loan liability – June 20, 2024     1,890,000       (742,500 )     (384,000 )     763,500  
+Total   $ 3,402,000     $ (2,254,500 )   $ (384,000 )   $ 763,500  
+  Note 7 – Stockholders’ Equity
+  Common Stock and Warrant Transaction
+  On February 16, 2024, the Company received a notification from an investor to convert $100,000 of principal outstanding on a Convertible Note (see Note 6) into 79,828 shares of common stock at a conversion price of $1.25.
+  On March 6, 2024, the Company entered into a warrant exercise agreement with several institutional investors holding warrants issued to such Investors pursuant a securities purchase agreement, dated as of June 5, 2023, in connection with a private placement. The Exercise Agreement provides that for those Investors who exercise their Existing Warrants they will receive a reduction in the Exercise Price to $0.60 per share of Common Stock. The shares of Common Stock issuable upon exercise of the Existing Warrants were registered pursuant to a registration statement on Form S-1 File No. 333-273332 and declared effective on July 27, 2023. The Company received up to $497,701 from the exercise of 829,500 warrants converted to 829,500 shares of common stock. The reduction in exercise price (“March 2024 Down Round Trigger”) triggered several anti-dilution protections embedded in outstanding Preferred Series F Convertible Stock and Common Stock Warrants (see below).
+  23
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity – Continued
+  On June 5, 2023, the Company entered into a Securities Purchase Agreement (the “Purchase Agreement”) with certain accredited investors (the “Investors”). Pursuant to the terms of the Purchase Agreement, the Company agreed to issue and sell to Investors (i) 836,000 shares of Common Stock (the “Offering Shares”) at $5.00 per share and (ii) warrants to purchase up to 1,254,000 shares of common stock (the “Warrants”), exercisable at $7.60 per share (the “Warrant Shares” together with the Warrants and Offering Shares, the “Securities”) and raised gross sales proceeds of $4,180,000. The Warrant is for a term of 5.5 years commencing on the closing date but is not exercisable for the first six months after closing. As a result, pursuant to the Purchase Agreement the Company issued 836,000 shares of Common Stock for proceeds of $3,817,400, net of issuance costs from the offering and warrants to purchase up to 1,254,000 shares of common stock exercisable at $7.60 per share. The Warrants issued did not include any anti-dilution price protections from subsequent equity sales. This Purchase Agreement resulted in the June 2023 Down Round Trigger (see below).
+  Preferred Series F Convertible Stock
+  Purchase History
+  On June 26, 2022, the Company entered into a Securities Purchase Agreement (the “Series F Agreement”) with Alpha. Pursuant to the terms of the Series F Agreement, the Board of Directors of the Company (the “Board”) designated a new series of Preferred Stock, the Series F 5% Preferred Convertible Stock (“Series F”), and authorized the sale and issuance of up to 35,000 shares of Series F.
+  On March 9, 2023, the Company received an Investor Notice from Alpha to purchase an additional 3,000 shares of Series F Convertible Preferred (the “Additional Series F Preferred”) convertible into 2,381 shares of the Company’s Common Stock per $1,000 Stated Value per share of Series F Preferred Stock, at an initial conversion price of $8.40, post slit per share and associated Common Stock warrant to purchase up to 357,136 shares of Common Stock, post-split, at an initial exercise price of $8.40, post-split (the “Additional Warrant”) for an aggregate purchase price of $3,000,000. The Additional Warrant is exercisable upon issuance and has a three-year term. On March 10, 2023, the Company issued and sold the Additional Series F Preferred and the Additional Warrant. This issuance triggered anti-dilution provisions embedded in Series F and Common Stock warrants outstanding.
+  On March 6, 2024, in connection with the Assigned Rights, the Company received Investor Notices from Alpha and the Assignees for the aggregate purchase of 1,000 shares of Series F Convertible Preferred convertible into 829,394 shares of Common Stock at an initial conversion price of $1.2057 and warrants to purchase up to 829,394 shares of Common Stock at an initial exercise price of $1.2057 per share for an aggregate purchase price of $1,000,000. The conversion price and exercise price are subject to adjustment based on anti-dilution protection provisions in connection with subsequent equity issuances embedded in the Securities Purchase Agreement. The Warrants were immediately exercisable upon issuance and have a three-year term. The reduction in exercise price (“March 2024 Down Round Trigger”) triggered several anti-dilution protections embedded in outstanding Preferred Series F Convertible Stock (“Series F”) and Common Stock Warrants (“Series F Warrants”) issued with Series F (see below).
+  On April 12, 2024, the Company received an Investor Notice from Alpha for the aggregate purchase of 1,050 shares of Series F Convertible Preferred convertible into 1,418,919 shares of Common Stock, at a conversion price of $0.74 and 1,418,919 of common stock warrants with an exercise price of $0.74 exercisable for three years for an aggregate purchase price of $1,050,000.
+  24
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity-Continued
+  On May 31, 2024, the Company entered into an Assignment Agreement with Alpha pursuant to which, among other things, Alpha transferred and assigned to certain institutional and accredited investors, the rights and obligations to purchase up to $525,000 of Series F Convertible Preferred and accompanying warrants pursuant to the Additional Investment Right provided in the SPA. Also, in connection with the Assigned Rights, the Company received Investor Notices from Alpha and certain of the Assignees for the aggregate purchase of 1,050 shares of Series F Convertible Preferred convertible into 1,632,970 shares of Common Stock at a conversion price of $0.643 and 1,632,970 of common stock warrants with at an exercise price of $0.643 and exercisable for a period of three years for an aggregate purchase price of $1,050,000.
+  On July 25, 2024, the Company received an Investor Notice from Alpha for the aggregate purchase of 500 shares of Series F Convertible Preferred convertible into 1,079,914 shares of Common Stock, in the aggregate, at a conversion price of $0.463 and warrants to purchase up to 1,079,914 shares of Common Stock at an exercise price of $0.463 for an aggregate purchase price of $500,000.
+  On August 27, 2024, the Company received an Investor Notice from Alpha for the aggregate purchase of 500 shares of Series F Convertible Preferred convertible into 1,238,237 shares of Common Stock, in the aggregate, at a conversion price of $0.4038 and warrants to purchase up to 1,238,237 shares of Common Stock at an exercise price of $0.4038 for an aggregate purchase price of $500,000. The purchase transaction triggered several anti-dilution protections embedded in the outstanding Series F and Series F warrants as the conversion price and exercise price of the Series and Series F Warrants issued in the purchase were less than the conversion and exercise price after the March 2024 Down Round Trigger of $.60 (the “August 2024 Down Round Trigger”). See below for further disclosures of the financial statement impact for these triggers.
+  Conversions
+  For the three and nine months ended September 30, 2024, Alpha and other investors converted 1,595 and 6,475 shares of Series F into 3,481,757 and 9,350,474 shares of Common Stock, respectively. As a result, for the same periods, the Company recorded $47,879 and $158,862 cumulative dividends, which are included in accrued expenses on the condensed consolidated balance sheets, at the rate per share (as a percentage of the $1,000 stated par value per share of Series F) of 5% per annum, beginning on the first conversation date of June 30, 2022.
+  During the three and nine months ended September 30, 2023, Alpha converted 750 and 2,588 shares of Series F into 3,000,000 and 7,304,762 shares of Common Stock, respectively. As a result, for the same periods, the Company recorded $49,122 and $170,277 cumulative dividends, respectively, which are included in accrued expenses on the condensed consolidated balance sheets, at the rate per share (as a percentage of the $1,000 stated par value per share of Series F) of 5% per annum, beginning on the first conversation date of June 30, 2022.
+  As of September 30, 2024, there are 3,700 Preferred Series F outstanding.
+  Down Round Triggers, Anti-dilution, and Deemed Dividends
+  The reduced warrant exercise price of $0.60 on March 6, 2024, the March 2024 Down Round Trigger, triggered anti-dilution protection provisions in connection with subsequent equity issuances embedded in the Series F and Common Stock warrants issued with the Series F. The March 2024 Down Round Trigger resulted in the Company recognizing a deemed dividend on the Series F and Series F Warrants of $5,102,674 and $147,030, respectively, and an aggregate deemed dividend of $5,249,704 for the incremental fair value to the Series F and the Series F Warrant holders resulting from the reduction in conversion price and exercise price.
+  On May 31, 2024, the Company entered into an Assignment Agreement with Alpha pursuant to which, among other things, Alpha transferred and assigned to certain institutional and accredited investors, the rights and obligations to purchase up to $525,000 of Series F Convertible Preferred and accompanying warrants pursuant to the Additional Investment Right provided in the SPA. The Assignment Agreement also provides that Alpha will receive a reduction in the Exercise Price (as defined in the Existing Warrants) from $7.60 to $0.60 per share of Common Stock for certain warrants previously issued to Alpha on June 5, 2023. As result, the Company recorded a deemed dividend on the Series F Warrants of $7,751 which represents the difference between fair value of the
+  Series F Warrants under the original terms before the Down Round Trigger and the fair value of the Series F Warrants after the Down Round Trigger at the reduced exercise price.
+  25
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity – Continued
+  The fair value of the Series F Warrants was determined using a Black-Scholes pricing model and the following assumptions: expected life of 4 years, volatility of 247.07%, risk free rate of 4.61%, and dividend rate of 0%.
+  On August 27, 2024, Alpha exercised its Additional Investment Right for the aggregate purchase of 500 shares of Series F Convertible Preferred convertible into 1,238,237 shares of Common Stock, in the aggregate, at a conversion price of $0.4038 and warrants to purchase up to 1,238,237 shares of Common Stock at an exercise price of $0.4038 per share for an aggregate purchase price of $500,000. The Assignment Agreement also provides that Alpha will receive a reduction in the Exercise Price (as defined in the Existing Warrants) from $0.60 to $0.4038 per share of Common Stock for certain warrants previously issued to Alpha on June 5, 2023. As a result, the Company recorded a deemed dividend of $1,450,232.
+  The August 2024 Down Round Triggered anti-dilution protection provisions in connection with subsequent equity issuances embedded in the Series F and Serries F Warrants and reduced the conversion and exercise price of on outstanding Series F and Series F Warrants from $.60 to $.4038. As a result, the Company recognized a deemed dividend of $1,233,686 and $216,546 on the Series F and Series F Warrants, respectively, an aggregate deemed dividend of $1,450,232 for the incremental fair value to the Series F and the Series F Warrant holders resulting from the reduction in conversion price and exercise price.
+  The fair value of the Series F and Series F Warrants was determined using a Black-Scholes pricing model and the following assumptions: expected life of 1-3 years, volatility of 101.70 – 119.75%, risk free rate of 3.72 - 4.34%, and dividend rate of 0%.
+  The March 2023 Down Round Triggered anti-dilution protection provisions in connection with subsequent equity issuances embedded in the Series F and Serries F Warrants and reduced the conversion and exercise price of on outstanding Series F and Series F Warrants from $8.80 to $8.40. As a result, the Company recognized an aggregate deemed dividend of $255,976 which has been reflected in stockholders’ equity and increased the net loss available to common stockholders in the earning per share calculation as presented on the accompanying condensed consolidated statements of operations and comprehensive loss.
+  The March 2023 Down Round Trigger resulted in the Company recognizing a deemed dividend on the Series F and Series F Warrants of $217,750 and $38,226, respectively, or aggregate deemed dividend of $255,976, for the incremental value to the Series F and Series F Warrant holders resulting from the reduction in conversion price and exercise price.
+  The June 2023 Down Round Triggered anti-dilution protection provisions in connection with subsequent equity issuances embedded in the Series F and Serries F Warrants and reduced the conversion and exercise price of any outstanding Series F and Series F Warrants from $8.40 to $5.00. As a result, the Company recognized an aggregate deemed dividend of $4,654,918 which has been reflected in stockholders’ equity and increased the net loss available to common stockholders in the earning per share calculation as presented on the accompanying condensed consolidated statements of operations and comprehensive loss.
+  The June 2023 Down Round Trigger resulted in the Company recognizing a deemed dividend on the Series F and Series F Warrants of $3,867,095 and $787,823, respectively, for the incremental value to the Series F and Series F Warrant holders resulting from the reduction in conversion price and exercise price.
+  26
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity-Continued
+  Stock-based Compensation
+  The Company determines the fair value of awards granted under the 2017 Omnibus Equity Incentive Plan (the “Equity Plan”) based on the fair value of its Common Stock on the date of grant. Stock-based compensation expenses related to grants under the Equity Plan are included in general and administrative expenses on the condensed consolidated statements of operations and comprehensive loss. For the three and nine-months ended September 30, 2024, the Company recorded $16,675 and $63,791, respectively. The stock-based compensation, for the same period during 2023, $142,845 and $1,125,209 were recorded, respectively.
+  All deemed dividends to the Series F stockholder were recorded as additional paid in capital and an increase to accumulated deficit and as an increase to total net loss attributable to Common Stockholders in computing earnings per share on the condensed consolidated statements of operations and comprehensive loss.
+  During the three and nine months ended September 30, 2024, the aggregate deemed dividends recognized on these down round triggers were $1,450,232 and $6,707,687, respectively. During the three and nine months ended September 30, 2023, the aggregate deemed dividends recognized on these down round triggers were $0 and $4,910,894, respectively.
+  Pension Costs
+  senseFly S.A. sponsors a defined benefit pension plan (the “Defined Benefit Plan”) covering all its employees. The Defined Benefit Plan provides benefits in the event of retirement, death or disability, with benefits based on age and salary. The Defined Benefit Plan is funded through contributions paid by senseFly S.A. and its employees, respectively. The Defined Benefit Plan assets are Groupe Mutuel Prévoyance (“GMP”), which invests these plan assets in cash and cash equivalents, equities, bonds, real estate and alternative investments.
+  The Projected Benefit Obligation (“PBO”) includes in full the accrued liability for the plan death and disability benefits, irrespective of the extent to which these benefits may be reinsured with an insurer. The actuarial valuations are based on the census data as of December 31, 2023, provided by GMP.
+  The Defined Benefit Plan has a PBO in excess of Defined Benefit Plan assets. For the three and nine months ended September 30, 2024, the amounts recognized in accumulated other comprehensive loss related to the Defined Benefit Plan were $0, compared to ($742) and $43,302, respectively for the same period during 2023.
+  Restricted Stock Units (“RSUs”)
+  For the nine months ended September 30, 2024, a summary of RSU activity is as follows:
+      Shares     Weighted Average Grant Date Fair Value  
+Outstanding as of December 31, 2023     152,703     $ 18.03  
+Granted     399,073       0.33  
+Cancelled     (2,140 )     10.09  
+Vested and released     (34,361 )     15.06  
+Outstanding as of September 30, 2024     515,275       4.66  
+Vested as of September 30, 2024     149,046       14.87  
+Unvested as of September 30, 2024     366,229     $ 0.51  
+  27
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity-Continued
+  For the nine months ended September 30, 2024, the aggregate fair value of RSU awards at the time of vesting was $131,504.
+  For the three and nine months ended September 30, 2024, the Company recognized $16,675 and $47,749 of stock compensation expense, respectively, and had approximately $104,809 of unrecognized stock-based compensation expense related to RSUs, which will be amortized over approximately twenty-one months.
+  For the nine months ended September 30, 2023, a summary of RSU activity is as follows:
+      Shares     Weighted Average Grant Date Fair Value  
+Outstanding as of December 31, 2022     51,484     $ 46.20  
+Granted     100,036       7.11  
+Cancelled     (7,677 )     31.46  
+Vested and released     (19,375 )     7.68  
+Outstanding as of September 30, 2023     124,468       21.70  
+Vested as of September 30, 2023     103,511       20.28  
+Unvested as of September 30, 2023     20,957     $ 28.70  
+  For the nine months ended September 30, 2023, the aggregate fair value of RSU awards at the time of vesting was $710,769.
+  For the three and nine months ended September 30, 2023, the Company recognized $86,905 and $821,321 of stock compensation expense, respectively, and had $72,542 of unrecognized stock-based compensation expense related to RSUs.
+  Issuance of RSUs to Current Officers and Directors of the Company
+  For the three and nine months ended September 30, 2024, the Company granted 300,000 RSUs to officers, equal to $95,970 as compensation, which vest over two years.
+  For the three and nine months ended September 30, 2024, the Company granted 14,000 RSUs and 25,000 RSUs, respectively, equal to $7,560 to the four non-executive directors as quarterly board compensation, which vested immediately.
+  On September 29, 2023, upon recommendation of the Compensation Committee of the Board (“Compensation Committee”), in lieu of the payment of $15,000 for each Board member or a total of $45,000 as quarterly cash compensation, three (3) non-executive directors each received 4,412, totaling 13,235 RSUs equal to $45,000, which were immediately vested, also in lieu of the issuance of stock options for the purchase of 30,000 shares of common stock, for each of these three (3) non-executive directors received a total of 4,500 in restricted stock awards, which vested immediately for a fair value of $15,300 in the aggregate or $5,100 each.
+  28
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity-Continued
+  Stock Options
+  For the nine months ended September 30, 2024, a summary of the options activity is as follows:
+      Shares     Weighted Average Exercise Price     Weighted Average Fair Value     Weighted Average Remaining Contractual Term (Years)     Aggregate Intrinsic Value  
+Outstanding as of December 31, 2023     125,264     $ 40.61     $ 22.04       23.80     $ 45,880  
+Granted     —       —       —       —       —  
+Exercised     —       —       —       —       —  
+Expired/Forfeited     (122,514 )     39.11       21.24       —       —  
+Outstanding as of September 30, 2024     2,750     $ 105.96     $ 57.01       1.78     $ —  
+Exercisable as of September 30, 2024     2,750     $ 105.96     $ 57.01       1.78     $ —  
+  As of September 30, 2024, the Company had no unrecognized compensation cost related to stock options.
+  Intrinsic value is measured using the fair market value at the date of exercise (for shares exercised) or as of September 30, 2024 (for outstanding options), less the applicable exercise price.
+  For the three and nine months ended September 30, 2024, the Company recognized $0 and $16,042, respectively of stock compensation expense.
+  For the nine months ended September 30, 2023, a summary of the options activity is as follows:
+      Shares     Weighted Average Exercise Price     Weighted Average Fair Value     Weighted Average Remaining Contractual Term (Years)     Aggregate Intrinsic Value  
+Outstanding as of December 31, 2022     128,059     $ 43.68     $ 23.76       3.33     $ 9,750  
+Granted     16,250       6.45       2.96       3.02       —  
+Exercised     —       —       —       —       —  
+Expired/Forfeited     (7,230 )     69.20       38.12       —       —  
+Outstanding as of September 30, 2023     137,079     $ 37.92     $ 20.54       2.84     $ 6,194  
+Exercisable as of September 30, 2023     114,746     $ 43.56     $ 23.70       2.53     $ 6,194  
+  For the three and nine months ended September 30, 2023, the Company recognized $55,940 and $303,888, respectively of stock compensation expense and had $100,971 of total unrecognized compensation cost related to stock options, which will be amortized through September 30, 2025.
+  29
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 7 – Stockholders’ Equity-Continued
+  For the nine months ended September 30, 2024 and 2023, the significant assumptions relating to the valuation of the Company’s stock options granted were as follows:
+      September 30,  
+    2024     2023  
+Stock price   $ —     $ 6.40  
+Dividend yield     — %     — %
+Expected life (years)     —       3.02  
+Expected volatility     — %     63.64 %
+Risk-free interest rate     — %     4.22 %
+  Cancellations of Options
+  For the nine months ended September 30, 2024 and 2023, as a result of employee terminations and options expirations, stock options aggregating 122,514 and 7,230 with fair market values of $2,543,229 and $275,636 were cancelled, respectively. Of the 122,514 stock options cancelled during the nine months ended September 30, 2024, 45,297 were options historically granted to the Board of Directors, these options were cancelled and reissued as RSU’s. Each option cancelled resulted in a subsequent grant of RSU’s with ratio of 2 RSU’s granted for each option cancelled.
+  Note 8 – Leases
+  Operating Leases
+  For the three and nine months ended September 30, 2024 and 2023, operating lease expense payments were $264,854 and $794,561, respectively and $267,745 and $791,558, respectively. Operating lease expense payments are included in general and administrative expenses on the condensed consolidated statements of operations and comprehensive loss.
+  30
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 8 – Leases-Continued
+  As of September 30, 2024 and December 31, 2023, balance sheet information related to the Company’s operating leases is as follows:
+  Balance Sheet Location   September 30, 2024     December 31, 2023  
+Right-of-use-assets   $ 2,863,417     $ 3,525,406  
+Current portion of lease liabilities   $ 950,709     $ 901,925  
+Long-term portion lease liabilities   $ 2,006,920     $ 2,721,743  
+  As of September 30, 2024, scheduled future maturities of the Company’s lease liabilities are as follows:
+  Year Ending December 31,      
+2024 (rest of year)   $ 274,373  
+2025     1,101,905  
+2026     880,082  
+2027     794,458  
+2028     198,615  
+Total future minimum lease payments, undiscounted     3,249,433  
+Less: Amount representing interest     (291,804 )
+Present value of future minimum lease payments   $ 2,957,629  
+Present value of future minimum lease payments – current   $ 950,709  
+Present value of future minimum lease payments – long-term   $ 2,006,920  
+  As of September 30, 2024 and December 31, 2023, the weighted-average lease-term and discount rate of the Company’s leases are as follows:
+  Other Information   September 30, 2024     December 31, 2023  
+Weighted-average remaining lease terms (in years)     3.2       3.9  
+Weighted-average discount rate     6.1 %     6.1 %
+  For the three months and nine months ended September 30, 2024 and 2023, supplemental cash flow information related to leases is as follows:
+      For the Three Months Ended
+September 30,     For the Nine Months Ended
+September 30,  
+Other Information   2024     2023     2024     2023  
+Cash paid for amounts included in the measurement of liabilities: Operating cash flows for operating leases   $ 264,854     $ 262,445     $ 794,561     $ 790,783  
+  31
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 9 – Warrants
+  As previously disclosed in Note 7, we have issued warrants in connection with the sale and issuance of Series F preferred stock and common stock. We also issued to Dawson James Securities, Inc. (“Dawson”) 136,861 shares of Common Stock at an initial exercise price of $1.51 per share pursuant to an engagement letter executed with Dawson to serve as the sole placement agent for the Company on a reasonable best-efforts basis, in connection with the placement of the March 2024 Preferred Shares and associated Warrants. The warrants issued to Dawson have a five (5) year term and do not include any anti-dilution protection provisions in connection with a subsequent equity issuance, or otherwise.
+  A summary of activity related to warrants for the periods presented is as follows:
+      Shares     Weighted Average Exercise Price     Weighted Average Remaining Contractual Term  
+Outstanding as of December 31, 2022     1,056,452       0.40 *     —  
+Issued – March 2023     357,136     $ 0.40 *     —  
+Issued – June 2023     1,254,000       0.40 *     —  
+Issued – November 2023     815,958       2.49       —  
+Exercised     (250,000 )     —       —  
+Outstanding as of December 31, 2023     3,233,546     $ 1.24       —  
+Exercised     (829,500 )     0.60 *     —  
+Issued – March 6, 2024     829,394       0.40 **     —  
+Issued – March 7, 2024     136,860       1.51       —  
+Issued – April 12, 2024     1,418,919       0.40 **     —  
+Issued – May 31, 2024     1,632,970       0.40 **     —  
+Issued – July 29, 2024     1,079,914       0.40 **     —  
+Issued – August 27, 2024     1,238,237       0.40          
+Outstanding as of September 30, 2024     8,740,340     $ 0.62       3.00  
+Exercisable as of September 30, 2024     8,740,340     $ 0.62       3.00  
+  * Reflects the exercise price after the March 2024 Down Round Trigger events on March 6, 2024 as described above.
+** Reflects the exercise price after the August 2024 Down Round Trigger events on August 27, 2024 as described above.
+  As of September 30, 2024, the intrinsic value of the warrants was nil.
+  Note 10 – Commitments and Contingencies
+  Existing Employment and Board Agreements
+  The Company has various employment agreements with certain of its executive officers and directors that serve as Board members, which it considers normal and in the ordinary course of business.
+  Except as described below, the Company has no other formal employment agreements with its executive officers, nor any compensatory plans or arrangements resulting from the resignation, retirement, or any other termination of its our named executive officers, from a change in control, or from a change in any executive officer’s responsibilities following a change in control. However, it is possible that the Company will enter into formal employment agreements with its executive officers in the future.
+  Effective as of April 15, 2024, Mr. Grant Begley ceased to serve as the Interim Chief Executive Officer of the Company, and the Company and William (“Bill”) Irby entered into an Executive Employment Agreement (the “Employment Agreement”) setting forth the terms of Bill Irby’s appointment as Chief Executive Officer and Director of the Company effective as of April 15, 2024. As previously announced, Bill Irby had served as President of the Company, since February 12, 2024. Mr. Begley continues as Chairman of the Board of the Company.
+  32
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 10 – Commitments and Contingencies-Continued
+  Pursuant to the Employment Agreement, Bill Irby will receive an annual base salary of $375,000 per year, subject to annual performance reviews by the Compensation Committee of the Board of Directors (the “Compensation Committee”). In accordance with the 2017 Omnibus Equity Incentive Plan and any related RSU award agreement, and as approved by the Compensation Committee, Mr. Irby will be eligible to receive a sign on bonus of restricted stock units (“RSUs”) with a fair value of up to $60,000 and a sign on performance bonus of RSUs with a fair value of up to $300,000. In addition, Mr. Irby is entitled to receive an annual performance bonus, which will be determined each year by the Compensation Committee. Pursuant to the Employment Agreement, Mr. Irby is also provided with severance benefits in the event of termination without cause.
+  On March 6, 2024, AgEagle Aerial Systems Inc. entered into a letter agreement with Dawson pursuant to which Dawson has agreed to serve, on an exclusive basis for a period of four months, as the sole placement agent for the Company, in connection with the offering of equity securities and equity-linked securities of the Company, including any restructuring, exercise and/or conversion solicitation and/or renegotiating the terms of any warrants to purchase shares of common stock, par value $0.001 per share and the solicitation of exercise of any additional investment right with respect to Securities of the Company.
+  Pursuant to the Engagement Agreement, the Company will pay a cash fee equal to $68,862 and issue to Dawson warrants to purchase such number of shares of Common Stock, equal to 10% of the aggregate number of shares of Common Stock issued or issuable in the Offerings. These Placement Agent Warrants will have the same terms as any warrants included in any Offering except that such Placement Agent Warrants will have a five (5) year term, an exercise price equal to 125% of the offering price per share and will not include any anti-dilution protection provisions in connection with a subsequent equity issuance, or otherwise.
+  Purchase Commitments
+  The Company routinely places orders for manufacturing services and materials. As of September 30, 2024, the Company had purchase commitments of $2,531,750.
+  Note 11 – Segment Information
+  Non-allocated administrative and other expenses are reflected in Corporate. Corporate assets include cash, prepaid expenses, notes receivable, right-of-use assets and other assets.
+  As of September 30, 2024 and December 31, 2023, and for the three and nine months ended September 30, 2024 and 2023, respectively, information about the Company’s reportable segments consisted of the following:
+  Goodwill and Assets
+      Corporate     Drones     Sensors     SaaS     Total  
+As of September 30, 2024                                        
+Goodwill   $ —     $ —     $ 7,402,644     $ —     $ 7,402,644  
+Assets   $ 644,089     $ 8,217,999     $ 13,131,603     $ 44,176     $ 22,037,867  
+                                          As of December 31, 2023                                        
+Goodwill   $ —     $ —     $ 7,402,644     $ —     $ 7,402,644  
+Assets   $ 1,148,638     $ 8,666,641     $ 15,260,263     $ 80,359     $ 25,155,901  
+  33
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 11 – Segment Information-Continued
+  Net Income (Loss)
+      Corporate     Drones     Sensors     SaaS     Total  
+Three Months Ended September 30, 2024                                        
+Revenues   $ —     $ 2,146,151     $ 1,070,396     $ 68,437     $ 3,284,984  
+Cost of sales     —       968,869       627,279       54,569       1,650,717  
+Loss from operations     (681,253 )     (723,903 )     (186,215 )     (269,789 )     (1,861,160 )
+Other income (expense), net     (1,549,866 )     (48,728 )     —       —       (1,598,594 )
+Net loss   $ (2,231,119 )   $ (772,631 )   $ (186,215 )   $ (269,789 )   $ (3,459,754 )
+                                          Three Months Ended September 30, 2023                                        
+Revenues   $ —     $ 1,627,177     $ 1,755,712     $ 101,043     $ 3,483,932  
+Cost of sales     —       990,413       990,457       288,988       2,269,858  
+Income (loss) from operations     (3,229,837 )     (2,288,870 )     168,820       (640,226 )     (5,990,113 )
+Other income (expense), net     (2,063,936 )     35,322       (960 )     (441 )     (2,030,015 )
+Net income (loss)   $ (5,293,773 )   $ (2,253,548 )   $ 167,860     $ (640,667 )   $ (8,020,128 )
+      Corporate     Drones     Sensors     SaaS     Total  
+Nine Months Ended September 30, 2024                                        
+Revenues   $ —     $ 4,644,177     $ 5,656,471     $ 271,321     $ 10,571,969  
+Cost of sales     —       2,343,923       2,855,984       228,798       5,428,705  
+Income (loss) from operations     (2,560,847 )     (4,189,049 )     974,697       (1,020,316 )     (6,795,515 )
+Other income (expense), net     (5,859,141 )     (36,408 )     (13,985 )     —       (5,909,534 )
+Net income (loss)   $ (8,419,988 )   $ (4,225,457 )   $ 960,712     $ (1,020,316 )   $ (12,705,049 )
+                                          Nine Months Ended September 30, 2023                                        
+Revenues   $ —     $ 4,861,260     $ 5,610,764     $ 347,189     $ 10,819,213  
+Cost of sales     —       2,580,305       3,213,058       801,610       6,594,973  
+Income (loss) from operations     (7,240,686 )     (6,626,668 )     328,404       (1,484,110 )     (15,023,060 )
+Other expense, net     (2,559,654 )     (326,032 )     (960 )     (504 )     (2,887,150 )
+Net income (loss)   $ (9,800,340 )   $ (6,952,700 )   $ 327,444     $ (1,484,614 )   $ (17,910,210 )
+  Revenues by Geographic Area
+      Drones     Sensors     SaaS     Total  
+Three Months Ended September 30, 2024                                
+North America   $ 338,685     $ 290,642     $ 68,437     $ 697,764  
+Latin America     131,117       40,912       —       172,029  
+Europe, Middle East and Africa     1,659,481       321,382       —       1,980,863  
+Asia Pacific     16,868       367,896       —       384,764  
+Other     —       49,564       —       49,564  
+  $ 2,146,151     $ 1,070,396     $ 68,437     $ 3,284,984  
+      Drones     Sensors     SaaS     Total  
+Three Months Ended September 30, 2023                                
+North America   $ 547,012     $ 570,170     $ 57,447     $ 1,174,629  
+Latin America     383,232       80,873       38,196       502,301  
+Europe, Middle East and Africa     628,768       752,583       661       1,382,012  
+Asia Pacific     68,165       342,502       4,739       415,406  
+Other     —       9,584       —       9,584  
+  $ 1,627,177     $ 1,755,712     $ 101,043     $ 3,483,932  
+  34
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 11 – Segment Information-Continued
+      Drones     Sensors     SaaS     Total  
+Nine Months Ended September 30, 2024                                
+North America   $ 1,308,109     $ 1,659,485     $ 262,678     $ 3,230,272  
+Latin America     753,187       223,983       5,185       982,355  
+Europe, Middle East and Africa     2,373,934       2,517,885       495       4,892,314  
+Asia Pacific     208,947       1,087,910       2,468       1,299,325  
+Other     —       167,208       495       167,703  
+  $ 4,644,177     $ 5,656,471     $ 271,321     $ 10,571,969  
+      Drones     Sensors     SaaS     Total  
+Nine Months Ended September 30, 2023                                
+North America   $ 1,701,100     $ 1,783,481     $ 303,593     $ 3,788,174  
+Latin America     1,256,429       221,334       38,197       1,515,960  
+Europe, Middle East and Africa     1,714,967       2,611,108       661       4,326,736  
+Asia Pacific     188,764       949,040       4,738       1,142,542  
+Other     —       45,801       —       45,801  
+  $ 4,861,260     $ 5,610,764     $ 347,189     $ 10,819,213  
+  Note 12 – RESTATEMENT
+  The net loss attributable to common stockholders erroneously excluded accrued cumulative dividends on outstanding Series F preferred stock and deemed dividends resulting from the triggering of down round features embedded within outstanding equity-linked financial instruments. Pursuant to ASC 260 Earnings Per Share, income available to common stockholders shall be computed by deducting dividends accumulated for the period on cumulative preferred stock. Also, the value of the effect of a down round feature shall be recognized in an equity-classified freestanding financial instrument when the down round feature is triggered. That effect shall be treated as a dividend and as a reduction of income available to common stockholders in basic and diluted earnings per share.
+  Further, the accrued cumulative dividends and deemed dividends were included as a component of other comprehensive loss. However, pursuant to ASC 220 – Income Statement – Reporting Comprehensive Income items required to be reported as direct adjustments to additional paid-in capital and retained earnings are not considered to be components of other comprehensive income (loss).
+  On November 7, 2024, the audit committee of the Company’s board of directors concluded, after discussion with the Company’s management, that the previously issued consolidated financial statements as of and for the years ended December 31, 2023 and 2022 and the Form 10-Qs for the quarterly periods March 31, 2023, June 30, 2023 and September 30, 2023 should no longer be relied upon due to the errors discussed above and required restatement.
+  As a result of the restatement matter discussed in our Explanatory Note included in this Form 10-Q, the quarterly financial statements for the periods ended March 31, 2024 and June 30, 2024 are being effectively restated in this current Form 10-Q for the period ended September 30, 2024, as follows:
+  Impact of the Restatement – March, June, and September 2023 and March and June 2024
+        Three Months Ended March 31, 2024  
+Statement of Operations Data (Unaudited)   As Previously Reported     Adjustment     As Restated  
+Net loss attributable to common stockholders   $ (6,315,587 )   $ (5,310,939 )   $ (11,626,526 )
+Net loss per common Share - basic   $ (0.77 )   $ (0.64 )   $ (1.41 )
+Total comprehensive loss, net of tax   $ (11,790,179 )   $ 5,310,939     $ (6,479,240 )
+      Three Months Ended March 31, 2023  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (4,599,499 )   $ (322,897 )   $ (4,922,396 )
+Net loss per common share - basic (i)   $ (1.03 )   $ (0.07 )   $ (1.10 )
+Total comprehensive loss, net of tax   $ (4,827,792 )   $ 322,897     $ (4,504,895 )
+      Three Months Ended June 30, 2024  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (2,929,708 )   $ (57,499 )   $ (2,987,207 )
+Net loss per common share - basic   $ (0.24 )   $ —     $ (0.24 )
+Total comprehensive loss, net of tax   $ (2,976,049 )   $ 57,499     $ (2,918,550 )
+      Three Months Ended June 30, 2023  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (5,290,583 )   $ (4,709,152 )   $ (9,999,735 )
+Net loss per common share - basic (i)   $ (1.10 )   $ (0.98 )   $ (2.08 )
+Total comprehensive loss, net of tax   $ (9,926,511 )   $ 4,709,152     $ (5,217,359 )
+      Six Months Ended June 30, 2024  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (9,245,295 )   $ (5,368,438 )   $ (14,613,733 )
+Net loss per common share - basic   $ (0.90 )   $ (0.52 )   $ (1.42 )
+Total comprehensive loss, net of tax   $ (14,766,228 )   $ 5,368,438     $ (9,397,790 )
+      Six Months Ended June 30, 2023  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (9,890,082 )   $ (5,032,050 )   $ (14,922,132 )
+Net loss per common share - basic (i)   $ (2.13 )   $ (1.08 )   $ (3.21 )
+Total comprehensive loss, net of tax   $ (14,754,304 )   $ 5,032,050     $ (9,722,254 )
+      Three Months Ended September 30, 2023  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (8,020,128 )   $ (49,122 )   $ (8,069,250 )
+Net loss per common share – basic (ii)   $ (70.00 )   $ (2.64 )   $ (72.64 )
+Total comprehensive loss, net of tax   $ (8,077,019 )   $ 49,122     $ (8,027,897 )
+      Nine Months Ended September 30, 2023  
+Statement of Operations Data (Unaudited)                  
+Net loss attributable to common stockholders   $ (17,910,210 )   $ (5,081,171 )   $ (22,991,381 )
+Net loss per common share - basic (ii)   $ (180.00 )   $ (52.29 )   $ (232.29 )
+Total comprehensive loss, net of tax   $ (22,831,322 )   $ 5,081,171     $ (17,750,151 )
+  (i) Net loss per common share basic as been retrospectively adjusted for the effect of a 1 to 20 reverse stock split that became effective on February 9, 2024.
+  (ii) Adjusted for the effect of a 1 to 50 reverse stock split that became effective on October 14, 2024 (see Note 13) and adjusted for the effect of 1 to 20 reverse stock split that became effective on February 9, 2024.
+  35
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 13 – Subsequent Events
+  Management has evaluated subsequent events through the date that the Company’s unaudited condensed consolidated financial statements were issued. Based on this evaluation, the Company has determined that no additional subsequent events have occurred, other than those noted below, which require disclosure through the date that these unaudited condensed consolidated financial statements were issued.
+  Unit Offering
+  We closed the following Offering on October 1, 2024.
+  The Company entered into a placement agency agreement (the “Placement Agency Agreement”) with Spartan Capital Securities, LLC (the “Placement Agent”) in connection with the issuance and sale by the Company in a public offering (the “Offering”) of 26,899,996 units (the “Units”), consisting of common units (“Common Units”), each consisting of one share of common stock of the Company, $0.001 par value per share, one Series A warrant (“Series A Warrant”) to purchase one share of common stock and one Series B warrant (“Series B Warrant”) to purchase one share of common stock and pre-funded Units (the “Pre-Funded Units” and together with the Common Units, the “Units”), with each Pre-Funded Unit consisting of one pre-funded warrant (the “Pre-Funded Warrants”) to purchase one share of common stock, one Series A Warrant to purchase one share of common stock and one Series B Warrant to purchase one share of common stock.
+  36
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023
+(UNAUDITED)
+  Note 13 – Subsequent Events- Continued
+  The purchase price of each Common Unit was $0.24, and the purchase price of each Pre-Funded Unit was $0.239, less Placement Agent fees and commissions.
+  The Units have no stand-alone rights and will not be certificated or issued as stand-alone securities. Each Series A Warrant is immediately exercisable on the date of issuance at an exercise price of the public offering price of the Units of $0.24, or pursuant to an alternate cashless exercise option, and expires five years from the closing date of the offering. Each Series B Warrant is immediately exercisable on the date of issuance at an exercise price equal to one hundred percent (100%) of the public offering price of the Units of $0.24 and expires five years from the closing date of the offering.
+  Under the alternate cashless exercise option of the Series A Warrants, a holder of the Series A Warrant, has the right to receive an aggregate number of shares equal to the product of (x) the aggregate number of shares of common stock that would be issuable upon a cash exercise of the Series A Warrant and (y) 2.0. In addition, the Series A Warrants and Series B Warrants contain a reset of the exercise price to a price equal to the lesser of (i) the then exercise price and (ii) the lowest volume weighted average price for the five trading days immediately preceding and immediately following the date the Company effects a reverse stock split in the future with a proportionate adjustment to the number of shares underlying the Series A Warrants and Series B Warrants. Finally, with certain exceptions, the Series B Warrants provide for an adjustment to the exercise price and number of shares underlying the Series B Warrants upon the Company’s issuance of its common stock or common stock equivalents at a price per share that is less than the exercise price of the Series B Warrant.
+  37
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023 (UNAUDITED
+  Note 13 – Subsequent Events- Continued
+  Each Pre-Funded Warrant is immediately exercisable for one share of common stock at an exercise price of $0.001 per share. Subject to limited exceptions, a holder of Pre-Funded Warrants does not have the right to exercise any portion of its Pre-Funded Warrants if the holder, together with its affiliates, would beneficially own in excess of 4.99% (or, at the election of the holder, such limit may be increased to up to 9.99%) of the number of shares of common stock outstanding immediately after giving effect to such exercise. The Pre-Funded Warrants may be exercised at any time until all of the Pre-Funded Warrants are exercised in full.
+  The shares of common stock, the Pre-Funded Warrants, the Series A Warrants and the Series B Warrants and the shares of common stock issuable upon exercise of the Pre-Funded Warrants, the Series A Warrants and the Series B Warrants described above, were offered by the Company pursuant to a Registration Statement on Form S-1 (File No. 333-281897), filed with the Securities and Exchange Commission (the “SEC”) under the Securities Act of 1933, as amended (the “Securities Act”) and declared effective by the SEC on September 30, 2024.
+  The Company engaged the Placement Agent as the Company’s sole placement agent for the Offering pursuant to the Placement Agency Agreement. Pursuant to the Placement Agency Agreement, the Company agreed to pay the Placement Agent a cash placement fee equal to 8.0% of the gross proceeds of the Offering. The Company also agreed to pay the Placement Agent 0.5% of the gross proceeds received by the Company in the Offering, plus reimbursement of certain expenses and legal fees up to $215,000.
+  Omnibus Agreement
+  The Offering required the consent of Alpha Capital Anstalt the holder of the Convertible Note (Note 5) and the primary holder of our issued and outstanding Series F and Series F Warrants.
+  Pursuant to the Omnibus Agreement, among other things, (i) Alpha consented to the Offering, (ii) Alpha agreed to purchase $3,000,000 of the units in the offering and the Company agreed to apply said $3,000,000 towards the repayment of the Convertible Note balance, (iii) upon such repayment, $2,000,000 in principal will remain outstanding on the Convertible Note which will be paid in six monthly installments consisting of $333,333.33 in principal plus all accrued commencing on October 15, 2024 and continuing on the 15th day of each calendar month until the Convertible Note is paid in full, and (iv) in consideration of Alpha’s consent, the Company will issue to Alpha 1,500 shares of Series F 5% Convertible Preferred Stock with an aggregate stated value of $1,500,000.
+  Reverse Stock Split
+  On October 3, 2024, the Board approved a reverse stock split of the Company’s authorized, issued and outstanding shares of common stock, par value $0.001 per share, at a ratio of one (1) share of common stock for every fifty (50) shares of common stock (the “Reverse Stock Split”). The Company filed a Certificate of Change with the Secretary of State of the State of Nevada to effectuate the Reverse Stock Split. The Reverse Stock Split was effective on October 14, 2024.
+  On October 14, 2024, after the Reverse Stock Split, the outstanding common stock balance became 824,725 from 41,220,458.
+  Resignation of Directors and Officers
+  On October 17, 2024, Thomas Gardner, Kelly Anderson and Malcom Frost informed the board of directors (the “Board”) of the Company their decision to resign from the Board and all related Board committees, effectively immediately. Mr. Gardner’s, Mrs. Anderson’s and Mr. Frost’s resignation are not a result of a disagreement or dispute with the Company on any matter regarding its operations, policies or practices.
+  On October 18, 2024, Mark DiSiena, Chief Financial Officer (“CFO”) of the Company, informed the Company that he intends to resign from his role at the Company, to be effective November 15, 2024 (the “Resignation Date”). Mr. DiSiena is expected to remain with the Company through the Resignation Date to assist in the transition of his responsibilities. Mr. DiSiena’s resignation is not a result of a disagreement or dispute with the Company on any matter regarding its operations, policies or practices.
+  On October 25, 2024, the Board of the Company appointed Kevin Lowdermilk to serve as an independent director of the Company, effective immediately. Mr. Lowdermilk was also appointed as a member of the Company’s Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee, effective immediately.
+  On November 1, 2024, the Board of the Company appointed Brent Klavon to serve as an independent director of the Company, effective immediately. Mr. Klavon was also appointed as a member of the Company’s Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee, effective immediately. Mr. Klavon will be chair of the Compensation Committee.
+  On November 14, 2024, AgEagle Aerial Systems, Inc. (the “Company”) appointed Ms. Adrienne Anderson, age 46, to the positions of Interim Chief Financial Officer and Interim Principal Accounting Officer of the Company, effective immediately.
+  38
+    ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+  The following discussion highlights the principal factors that have affected our financial condition and results of operations as well as our liquidity and capital resources for the periods described. This discussion should be read in conjunction with our Condensed Consolidated Financial Statements and the related notes included in Item 8 of this Form 10-K. This discussion contains forward-looking statements. Please see the explanatory note concerning “Forward-Looking Statements” in Part I of the Annual Report on Form 10-K and Item 1A. Risk Factors for a discussion of the uncertainties, risks and assumptions associated with these forward-looking statements. The operating results for the periods presented were not materially affected by inflation.
+  Overview
+  AgEagle™ Aerial Systems Inc. (“AgEagle”, “Company”, “We”, “Our”, “Us”), through its wholly owned subsidiaries, is actively engaged in designing and delivering best-in-class drones, sensors and software that solve important problems for our customers. Founded in 2010, AgEagle was originally formed to pioneer proprietary, professional-grade, fixed-winged drones and aerial imagery-based data collection and analytics solutions for the agriculture industry. AgEagle’s shift and expansion from solely manufacturing fixed-wing farm drones in 2018, to offering what we believe is one of the industry’s best fixed-wing, full-stack drone solutions, culminated in 2021 when we acquired three market-leading companies engaged in producing UAS airframes, sensors and software for commercial and government use. In addition to a robust portfolio of proprietary, connected hardware and software products; an established global network of over 200 UAS resellers; and enterprise customers worldwide; these acquisitions also brought AgEagle a highly valuable workforce comprised largely of experienced engineers and technologists with deep expertise in the fields of robotics, automation, manufacturing and data science. In 2022, we succeeded in integrating all three acquired companies with AgEagle to form one global company focused on taking autonomous flight performance to a higher level for a wider variety of markets, including defense , public safety, and agriculture/commercial customers.
+  AgEagle has also achieved numerous regulatory firsts, earning governmental approvals for its commercial and tactical drones to fly Beyond Visual Line of Sight (“BVLOS”) and/or Operations Over People (“OOP”) in the United States, Canada, Brazil and the European Union.
+  AgEagle is led by a proven management team with years of drone industry experience and is currently headquartered in Wichita, Kansas, where we house our business and sensor manufacturing operations; and we operate drone manufacturing operations in Lausanne, Switzerland in support of our international business activities.
+  We are focused on growing our business, generating cash, and preserve our leadership position by developing new drones, sensors and embedded software and capturing a significant share of the global drone market. In addition, we expect to accelerate our growth and expansion through product development and strategic acquisitions of companies that offer distinct technological and competitive advantages and have defensible high value IP protection in place, if applicable.
+  Key Growth Strategies
+  We intend to materially grow our business by leveraging our proprietary, best-in-class, full-stack drone solutions, multi-spectral sensors, industry influence, and deep pool of talent with specialized expertise in robotics, automation, custom manufacturing and data science to achieve greater penetration of the global UAS industry – with near-term emphasis on adding stability and discipline to our operations, and capturing larger market share of the agriculture, defense, public safety, and agriculture/commercial markets. We expect to accomplish this goal by first bringing one four re-defined core values to life in our day-to-day operations and aligning them with our efforts to earn the trust and continued business of our customers and industry partners:
+    ● Innovation – We strive to innovate, finding new ways to serve our customers and shareholders- these innovations span technology, process re-definition, and new ways of thinking about every aspect of our business and customers.
+  39
+      ●
+Integrity – this is the foundation for everything we do, even when no one is watching.
+        ● Transparency – being honest and open about our performance, strengths, and weakness allows us to improve more rapidly.
+        ●
+Passion – we love what we do each day, creating the energy to overcome challenges.
+          Key components of our growth strategy include the following:
+        ● Shift priority to a Laser-like focus on the higher volume defense & security market. Despite predictions of rapid growth in the commercial space, drone surveillance action in the defense and security world has outpaced commercial application in volume and overall growth. The current world situation further emphasizes the need for our products, and the validity of the defense market. AgEagle will focus on defense growth initiatives while continuing to execute, grow, and maximize our position in precision agriculture and other civil and commercial markets.
+        ● Deliver new and innovative solutions. AgEagle’s research and development efforts are critical building blocks of the Company, and we intend to continue investing in innovation, not only in our products, but also in innovative business models and operational methods
+        ● Foster our entrepreneurial culture on a bedrock of trust and integrity, continuing to attract, develop and retain highly skilled personnel. The AgEagle culture encourages innovation and entrepreneurialism, which helps attract and retain highly skilled professionals. In addition, AgEagle is dedicated to integrity and transparency in its business, external, and internal relationships.
+        ● Effectively manage our growth portfolio for long-term value creation. Our production and development programs present numerous investment opportunities that we believe will deliver long-term growth by providing our customers with valuable new capabilities. We evaluate each opportunity, and it’s cost, against our mission and strategic priorities, as well as near and mid-term expected returns. This process helps us make informed decisions regarding potential growth capital requirements and supports our allocation of resources based on relative risks and returns to maximize long-term value creation, which is the key objective of our growth strategy.
+        ● Modify our facility footprint. We have set objectives to right-size our physical footprint in Europe and create strategic relationships with key partners in that theatre. In addition, we have begun planning for expanding our drone production in the U.S. to serve North, Central, and South American customers.
+        ● Growth through acquisition. Through successful identification of high-value acquisition targets, we plan to acquire technologically advanced companies and intellectual property across an array of airborne platforms, focused robotic technologies, and a variety of artificial intelligence-enabled robotics and supporting technologies that complement and strengthen our value proposition.
+  Competitive Strengths
+  We believe that the following attributes and capabilities provide us with long-term competitive advantages:
+    ● Proprietary technologies, in-house capabilities and industry experience – We believe our decade of experience in commercial UAS design and engineering, in-house manufacturing, assembly and testing capabilities, and advanced technology development skillset serve to differentiate AgEagle in the marketplace. In fact, approximately 60% of our global workforce is comprised of engineers and data scientists with deep experience and expertise in robotics, automation, custom manufacturing, and data analytics. In addition, AgEagle is committed to meeting and exceeding quality and safety standards for manufacturing, assembly, design and engineering and testing of drones, drone subcomponents and related drone equipment in our U.S. and Swiss-based manufacturing operations. As a result, we are actively pursuing and expect to earn ISO:9001 international certification for our Quality Management System within our senseFly business by Q2 2025.
+    ● We leverage maximum use of commercial technology: At AgEagle, we excel in designing and manufacturing small UAS, along with sensors and software tailored for UAS applications, providing versatile solutions like our latest product the eBee VISION UAS. This integration of commercial technology with dual-use capabilities enables our customers to effectively address a diverse range of operational challenges.
+  40
+      ● Our design, production, and support are user-centric: Our commitment to incorporating user feedback into our product development process is paramount. By collaborating closely with our end-users, we ensure that our product lines align with their specific needs and requirements. Through our expertise in drone and sensor design and our close connection with our end-users, they benefit from cutting-edge technologies that meets their demands across military, first responder, agriculture and surveyor sectors while leveraging the advantages of commercial innovation.
+        ● We offer market-tested drones, sensors and system software that have earned the longstanding trust and fidelity of customers worldwide – Through successful execution of our acquisition integration strategy in 2021, AgEagle is now delivering a unified line of industry trusted drones, sensors and software that have been vigorously tested and consistently proven across multiple industry verticals and use cases. For instance, our line of eBee fixed wing drones have flown more than one million flights over the past decade serving customers spanning military/defense, surveying and mapping; engineering and construction; mining, quarries and aggregates; agriculture; humanitarian aid and environmental monitoring, to name just a few. Featured in over 100 research publications globally, advanced sensor innovations developed and commercialized by AgEagle have served to forge new industry standards for high performance, high resolution, thermal and multispectral imaging for commercial drone applications in agriculture, plant research, land management and forestry. In addition, we have championed the development of end-to-end software solutions which power autonomous flight and deliver actionable, contextual data and analytics for numerous Fortune 500 companies, government agencies and a wide range of businesses in agriculture, energy and utilities, construction and other industry sectors.
+        ● In August 2022, we announced that the eBee X, eBee GEO and eBee AG were the first commercial drones to be designated with the C2 class identification label in accordance with EASA regulations. As of August 22, 2022, drone operators flying C2 labeled eBees are able to conduct missions in the “Open Category” with all the advantages that this entails. The C2 certification allows the eBee X series, with correct labelling, to fly at a horizontal distance of 30 meters from uninvolved people. By contrast, heavy drones like VTOLs or quadcopters must maintain a distance of 150 meters from people and any residential, commercial, industrial and recreational areas, limiting their operational capabilities to remote zones.
+        ● In late 2022, we partnered with government contractor Darley to expand the market reach of AgEagle’s high performance fixed wing drones and sensors to the U.S. first responder and tactical defense markets. Distinguished as one of the nation’s longest standing government contracting organizations, Darley is expected to become a key contributor to AgEagle’s success in delivering best-in-class UAS solutions to a wide range of state and federal agencies. Providing our best-in-class autonomous flight solutions for public safety applications through trusted resellers like Darley represents an entirely new market opportunity for AgEagle and one we intend to vigorously pursue in the current year.
+        ● In December 2022, we unveiled our new eBee™ VISION, a small, fixed-wing UAS designed to provide real-time, enhanced situational awareness for critical intelligence, surveillance and reconnaissance missions. This system is packaged for mobile/tactical users, with highly automated command and control software that proves compatible and is in full compliance with the U.S. DoD Robotic and Autonomous System-Air Interoperability Profile (“RAS-A IOP”). Beginning 2023, three branches of the European military have received eBee VISION drones. In collaboration with these initial end users, we’ve meticulously designed the eBee VISION User Interface to ensure optimal usability and compatibility with commercial, professional, and NATO standards. This unique interface, when paired with the eBee VISION Ground Control Station, offers highly automated flight modes and precise telemetry to operators, enhancing overall operational efficiency and effectiveness.
+  41
+      ● AgEagle was awarded a Multiple Award Schedule (“MAS”) Contract by the U.S. federal government’s General Services Administration (“GSA”) – In April 2023, the centralized procurement arm of the federal government, the GSA, awarded us with a five-year MAS contract. The GSA Schedule Contract is a highly coveted award in the government contracting space and is the result of a rigorous proposal process involving the demonstration of products and services in-demand by government agencies, and the negotiation of their prices, qualifications, terms and conditions. Contractors selling through the GSA Contract are carefully vetted and must have a proven track record in the industry. We believe that this will serve to advance our efforts to achieve deeper penetration of the government sector over the next five years.
+        ● In July 2023 alone, we completed a comprehensive training session with our first European military customers, who were confirmed as eBee VISION operators and qualified trainers of new users. These new customers confirmed with AgEagle’s technical teams that all operational capabilities of the eBee VISION continue to meet and exceed performance benchmarks in scouting, surveillance, usability, fast deployment and flight time, among other use case criteria specified by the international military community. We have also been working in close collaboration with our network of valued added reselling partners in France, United Kingdom, Poland, Italy and Spain, among other countries, to conduct live demonstrations and technical exchanges with prospective new customers, with emphasis on showcasing use of eBee VISION UAS for public safety and first responder missions, border patrol and a wide range of commercial applications. On September 6, 2023, the Company announced that commercial production of the eBee VISION had commenced and orders for the systems are being accepted since then.
+        ● In early October 2023, the eBee X series of drones were designated with the C6 class identification label in accordance with European Union regulations. As of January 1, 2024, drone operators of C6-labeled eBees will be able to conduct BVLOS operations with airspace observers over a controlled ground area in a sparsely populated environment throughout Europe. Operators simply need to submit a required declaration with their applicable National Aviation Authority indicating whether they intend to fly missions in accordance with the European Standard Scenario- (“STS-”) 01 or STS-02. The inclusion of the C6 marking alongside our C2-labeled eBee drones will significantly enhance the market advantages for our European customers. It grants access to areas and operational modes restricted to drones weighing over 4 kg, all without the requirement for formal permissions or regulatory waivers. Currently, only eBee drones possess both the C2 and C6 marking, affirming their status as the safest choice for flying over people and conducting BVLOS operations. As of January 1, 2024, drone operators of C6-labeled eBees will be able to conduct BVLOS operations with airspace observers over a controlled ground area in a sparsely populated environment throughout Europe. Operators simply need to submit a required declaration with their applicable National Aviation Authority indicating whether they intend to fly missions in accordance with the European Standard Scenario- (“STS-”) 01 or STS-02. The inclusion of the C6 marking alongside our C2-labeled eBee drones will significantly enhance the market advantages for our European customers. It grants access to areas and operational modes restricted to drones weighing over 4 kg, all without the requirement for formal permissions or regulatory waivers. Currently, only eBee drones possess both the C2 and C6 marking, affirming their status as the safest choice for flying over people and conducting BVLOS operations.
+        ● In March of 2024, we were selected to provide 50 RedEdge-P cameras for use by Greece’s Hellenic Republic Ministry of Rural Development. These will be used for optimum monitoring of agricultural activity such as soil analysis, irrigation, crop quality/maturity, and vegetation indices, all critical to maximizing the output of agricultural products. This award serves as a continued validation of our product in a world focusing more and more on optimizing output for a rapidly growing population. Investment in our sensor product line continues, with focus on optimizing performance through introduction of new hardware and processing algorithms.
+  42
+      ● Our eBee™ X series of fixed wing UAS, including the eBee X, eBee Geo and eBee TAC, were the first on the market to comply with Category 3 of the sUAS Over People rules published by the FAA. It is another important testament of our commitment to providing best-in-class solutions to our commercial customers, and we believe it will serve as a key driver in the growth of eBee utilization in the United States. We further believe it will improve the business applications made possible by our drone platform for a wide range of commercial enterprises which stand to benefit from adoption of drones in their businesses – particularly those in industries such as insurance for assessment of storm damage, telecommunications for network coverage mapping and energy for powerline and pipeline inspections, just to name a few.
+        ● Our eBee X series of drones are the world’s first UAS in its class to receive design verification for BVLOS and OOP from European Union Aviation Safety Agency (“EASA”). The EASA design verification report demonstrates that the eBee X meets the highest possible quality and ground risk safety standards and, thanks to its lightweight design, effects of ground impact are reduced. As such, drone operators conducting advanced drone operations in 27 European Member States, Iceland, Liechtenstein, Norway, and Switzerland can obtain the HIGH or MEDIUM robustness levels of the M2 mitigation without additional verification from EASA. Regulatory constraints relating to limitations of BVLOS and OOP have continued to be a gating factor to widespread adoption of commercial drone technologies across a wide range of industry sectors worldwide. Being the first company to receive this DVR from EASA for M2 mitigation is a milestone for AgEagle and our industry in the European Union and will be key to fueling growth of our international customer base.
+  Impact of the Risks and Uncertainties On Our Business Operations
+  Global economic challenges, including the impact of the war, pandemics, rising inflation and supply-chain disruptions, regulatory investigations adverse labor and capital market conditions could cause economic uncertainty and volatility. The aforementioned risks and their respective impacts on the UAV industry and our operational and financial performance remain uncertain and outside of our control. Specifically, because of the aforementioned continuing risks, our ability to access components and parts needed in order to manufacture its proprietary drones and sensors, and to perform quality testing have been, and continue to be, impacted. If either we or any of our third parties in the supply chain for materials used in our manufacturing and assembly processes continue to be adversely impacted, our supply chain may be further disrupted, limiting its ability to manufacture and assemble products.
+  Three and Nine Months Ended September 30, 2024 as Compared to Three and Nine Months Ended September 30, 2023
+  Revenues
+  For the three months ended September 30, 2024, revenues were $3,284,984 as compared to $3,483,932 for the three months ended September 30, 2023, a decrease of $198,948, or 6%. The decrease of $198,948 was attributable to a decrease of approximately $685,000 revenues due to decreased sensor sales primarily related to expected seasonality, off set by an increase of approximately $520,000 in revenues of the eBee drone products.
+  For the nine months ended September 30, 2024, revenues were $10,571,969 as compared to $10,819,213 for the nine months ended September 30, 2023, a decrease of $247,244 or 2.3%. The decline in revenues is mainly attributed to the eBee drone products of $217,083 and $75,868 of our SaaS subscription services related to our HempOverview and Ground Control platforms. Offsetting these decreases was an increase in revenues of $45,707 attributable to the revenues derived from our sensor sales, specifically the RedEdge-P and Altum-PT panchromatic sensor series. Our continued innovation has demonstrated growth in our sales leading to strong demand of our products, specifically for our panchromatic sensor series, and the VISION drone product.
+  43
+    Cost of Sales and Gross Profit
+  For the three months ended September 30, 2024, cost of sales was $1,650,717 as compared to $2,269,858 for the three months ended September 30, 2023, a decrease of $619,141 or 27.3%. For the nine months ended September 30, 2024, gross profit was $1,634,267 as compared to $1,214,074 for the three months ended September 30, 2023, an increase of $420,193, or 34.6%. The primary factors contributing to the decrease in our cost of sales and the increase gross profit margin were due to the historical inventory adjustments and new bill of material system implementation.
+  For the nine months ended September 30, 2024, cost of sales was $5,428,705 as compared to $6,594,973 for the nine months ended September 30, 2023, a decrease of $1,166,268, or 17.7%. For the nine months ended September 30, 2024, gross profit was $5,143,264 or 49% as compared to $4,224,240 or 39% for the nine months ended September 30, 2023, an increase of $919,024, or 21.8% in actual gross margin. The increase in gross profit margin was a result of our drone products along with significant price reduction in the second and third quarter of 2023 to stimulate market demand and bring us in line specifically with competitive products manufactured in China as our products become older while awaiting the new ebee VISION.
+  Operating Expenses
+  For the three months ended September 30, 2024, operating expenses were $3,495,427, as compared to $7,204,187 for the three months ended September 30, 2023, a decrease of $3,708,760, or 51.5%.
+  For the nine months ended September 30, 2024, operating expenses were $11,938,779, as compared to $19,247,300 for the nine months ended September 30, 2023, a decrease of $7,308,521, or 38.0%.
+  Operating expenses comprise general and administrative, sales and marketing, and research and development.
+  General and Administrative Expenses
+  For the three months ended September 30, 2024, general and administrative expenses were $1,889,733 as compared to $3,357,550 for the three months ended September 30, 2023, a decrease of $1,467,817 or 43.7%. The decrease was primarily related to less stock compensation expense related to terminated employees, and the reduced stock price, less intangible amortization during 2024 due to the impairment recorded on December 31, 2023, less shareholders annual meeting cost, offset by legal fees, accounting and consulting expense.
+  For the nine months ended September 30, 2024, general and administrative expenses were $6,931,496 as compared to $10,435,834 for the nine months ended September 30, 2023, a decrease of $3,504,338, or 33.6%. The decrease was primarily a result of the reduction in employee payroll related costs due to integration of roles, ERP consulting integration costs, reduction in R&D consultants, less stock compensation costs, less intangible amortization during 2024 due to the impairment recorded on December 31, 2023, less shareholders annual meeting costs offset by an increase in legal, accounting, consulting, and recruitment costs during 2024.
+  Research and Development
+  For the three months ended September 30, 2024, research and development expenses were $969,402 as compared to $1,368,394 for the three months ended September 30, 2023, a decrease of $398,992, or 29.2%. The decrease was primarily due to the integration of research and development teams that provide development of our new airframe, sensor and software technologies resulting in a reduction in our consultants and internal headcounts.
+  For the nine months ended September 30, 2024, research and development expenses were $3,181,638, as compared to $4,320,216 for the nine months ended September 30, 2023, a decrease of $1,138,578, or 26.4%. The decrease was primarily due to the integration of research and development teams that provide development of our new airframe, sensor and software technologies resulting in a reduction in our consultants and internal headcounts.
+  44
+    Sales and Marketing
+  For the three months ended September 30, 2024, sales and marketing expenses were $636,292 as compared to $978,243 for the three months ended September 30, 2023, a decrease of $341,951, or 35%. The decrease was primarily due to the decrease in travel, integration of sales and marketing teams that lead to a reduction of consulting expenses along with decrease in digital advertising spend as we look to attend in-person trade shows.
+  For the nine months ended September 30, 2024, sales and marketing expenses were $1,825,645 as compared to $2,911,963 for the nine months ended September 30, 2023, a decrease of $1,086,318, or 37.3%. The decrease was primarily due to the integration of sales and marketing teams, along with a decrease in consulting expenses due to branding and website integration done in prior year along with less trade-shows offset by more in-person demos with our sales and marketing team for the new ebee VISON.
+  Other Expense, net
+  For the three months ended September 30, 2024, other expense, net was $1,598,594 as compared to $2,030,015 for the three months ended September 30, 2023, an increase of $431,421.
+  For the nine months ended September 30, 2024, other expense, net was $5,909,534 as compared to other expense, net of $2,887,150 for the nine months ended September 30, 2023, an increase of $3,022,384. The increase is primarily attributable to the promissory note’s original issue discount of 4% and interest at 8% per annum issued in December 2022 along with the anti-dilution price protections embedded in the convertible note that were triggered during the nine months ended September 30, 2024, we recognized interest expense of $4,098,388 for the incremental fair value of the convertible note conversion feature being reduced from its original conversion price of $0.60 to $0.4038.
+  Net Loss
+  For the three months ended September 30, 2024, we incurred a net loss of $3,459,754 as compared to a net loss of $8,020,128 for the three months ended September 30, 2023, a decrease of $4,560,374 or 56.9%., the decrease of the losses are related to the above mentioned reductions of costs related to general and administrative, research and development, and sales and marketing.
+  For the nine months ended September 30, 2024, the Company incurred a net loss of $12,705,049 as compared to a net loss of $17,910,210 for the nine months ended September 30, 2023, a decrease of $5,205,161, or 29.1%. The overall decrease in net loss was primarily attributable to a decrease in operating costs.
+  Cash Flows
+  Nine Months Ended September 30, 2024 as Compared to the Nine Months Ended September 30, 2023
+  As of September 30, 2024, cash on hand was $265,126, as compared to $819,024 as of December 31, 2023, a decrease of $553,898, or 67.6%.
+  For the nine months ended September 30, 2024, cash used in operations was $4,056,700 a decrease of $4,772,969 or 54.1%, as compared to cash used of $8,829,669 for the nine months ended September 30, 2023. The decrease in cash used in operating activities was principally driven by the lower operating expenses which included significantly lower inventory purchases and prepayments offset by higher accounts receivables, account payables and accrued expenses.
+  For the nine months ended September 30, 2024, cash used in investing activities was $96,087, a decrease of $468,029, or 83%, as compared to cash used of $564,116 for the nine months ended September 30, 2023. The decrease is related to the capitalization of the internal software and platform costs incurred during 2023 which did not continue at the same rate in 2024.
+  For the nine months ended September 30, 2024, cash provided by financing activities was $3,607,482 a decrease of $3,122,866 or 46.4%, as compared to cash provided of $6,730,348 for the nine months ended September 30, 2023. The decrease in cash provided by our financing activities was due to less sales of our Common stock through an at-the-market offering and exercise of warrants in the prior year offset by the sale of Series F Preferred stock.
+  45
+    Liquidity and Capital Resources
+  As of September 30, 2024, we had a working capital deficit of $4,541,048. For the nine months ended September 30, 2024, we incurred a loss from operations of $6,795,515, a decrease of $8,227,545, or 54.8%, as compared to $15,023,060 for the nine months ended September 30, 2023. While we have historically been successful in raising capital to meet its working capital needs, the ability to continue raising such capital to enable us to continue our growth is not guaranteed. We will require additional liquidity to continue its operations and meet its financial obligations over the next twelve months, there is substantial doubt about our ability to continue as a going concern. We are evaluating strategies to obtain the required additional funding for future operations and the restructuring of operations to grow revenues and reduce expenses.
+  Off-Balance Sheet Arrangements
+  On September 30, 2024, we did not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures or capital resources. Since our inception, except for standard operating leases, we have not engaged in any off-balance sheet arrangements, including the use of structured finance, special purpose entities or variable interest entities. We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to stockholders.
+  Inflation
+  During the nine months ended September 30, 2024, inflation has had a negative impact on the unmanned aerial vehicle systems industry, our customers, and our business globally. Specifically, our ability to access components, parts and labor needed to manufacture its proprietary drones and sensors, and to perform quality testing have been, and continue to be, impacted. If either the Company or any of its third parties in the supply chain for materials used in our manufacturing and assembly processes continue to be adversely impacted, our supply chain may be further disrupted, limiting its ability to manufacture and assemble products. We expect inflation and its effects to continue to have a significant negative impact on our business.
+  Climate Change
+  Our opinion is that neither climate change, nor governmental regulations related to climate change, have had, or are expected to have, any material effect on our operations.
+  New Accounting Pronouncements
+  In December 2023, FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). The ASU focuses on income tax disclosures around effective tax rates and cash income taxes paid. ASU 2023-09 requires public business entities to disclose, on an annual basis, a rate reconciliation presented in both dollars and percentages. The guidance requires the rate reconciliation to include specific categories and provides further guidance on disaggregation of those categories based on a quantitative threshold equal to 5% or more of the amount determined by multiplying pretax income (loss) from continuing operations by the applicable statutory rate. For entities reconciling to the US statutory rate of 21%, this would generally require disclosing any reconciling items that impact the rate by 1.05% or more. ASU 2023-09 is effective for public business entities for annual periods beginning after December 15, 2024 (generally, calendar year 2025) and effective for all other business entities one year later. Entities should adopt this guidance on a prospective basis, though retrospective application is permitted. The adoption of ASU 2023-09 is expected to have a financial statement disclosure impact only and is not expected to have a material impact on the Company’s consolidated financial statements.
+  46
+    In November 2023, the FASB issued ASU 2023-07, Segment Reporting – Improvements to Reportable Segment Disclosures. The ASU will now require public entities to disclose its significant segment expenses categories and amounts for each reportable segment. Under the ASU, a significant segment expense is an expense that is:
+    ● significant to the segment,
+        ● regularly provided to or easily computed from information regularly provided to the chief operating decision maker and
+        ● included in the reported measure of segment profit or loss.
+  The ASU is effective for public entities for fiscal years beginning after December 15, 2023, and interim periods in fiscal years beginning after December 15, 2024 (calendar year public entity will adopt the ASU in its 2024 Form 10-K). The ASU should be adopted retrospectively unless its impracticable to do so. Early adoption of the ASU is permitted, including in an interim period. The adoption of ASU 2023-07 is expected to have a financial statement disclosure impact only and is not expected to have a material impact on the Company’s consolidated financial statements.
+  ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+  As a “smaller reporting company” as defined by Item 10 of Regulation S-K, we are not required to provide information required by this Item.
+  ITEM 4. CONTROLS AND PROCEDURES
+  Evaluation of Disclosure and Control Procedures
+  The Company’s Chief Executive Officer and the Company’s Chief Financial Officer evaluated the effectiveness of the Company’s disclosure controls and procedures as of September 30, 2024 and concluded that the Company’s disclosure controls and procedures are not effective. The term disclosure controls and procedures means controls and other procedures that are designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Securities Exchange Act of 1934, as amended, is accumulated, recorded, processed, summarized and communicated to the Company’s management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure to be reported within the time periods specified in the SEC’s rules and forms.
+  Changes in Internal Control over Financial Reporting
+  There were no changes in our internal control over financial reporting, as defined in Rules 13a-15(t) and 15d-15(f) under the Exchange Act, during the nine months ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+  Material Weaknesses over Financial Reporting
+  During the preparation of our interim condensed consolidated financial statements for the period ended September 30, 2024, management identified a material weakness in our internal controls related to the computation of net loss attributable to common stockholders resulted in an understatement of Earnings Per Share (“EPS). In addition to the EPS computation error, accrued dividends and deemed dividends were included as a component of other comprehensive loss instead of being included in net loss attributable to common stockholders.
+  During the preparation of our interim condensed consolidated financial statements for the period ended March 31, 2024, we identified a material weakness in our internal controls related to the accounting for a complex debt transaction. Specifically, the controls related to accounting for the modification of the convertible debt agreement. The Company has engaged an external consultant with technical accounting expertise to help with the technical documentation and accounting of significant and unusual transactions.
+  47
+    PART II. OTHER INFORMATION
+  ITEM 1. LEGAL PROCEEDINGS
+  None.
+  ITEM 1A. RISK FACTORS
+  We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, and are not required to provide the information under this item.
+  ITEM 2. RECENT SALES OF UNREGISTERED EQUITY SECURITIES AND USE OF PROCEEDS
+  None.
+  ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+  None.
+  ITEM 4. MINE SAFETY DISCLOSURES
+  Not applicable.
+  ITEM 5. OTHER INFORMATION
+  None.
+  ITEM 6. EXHIBITS
+  Exhibit No.   Description
+      10.1   SPA Amendment Agreement, dated July 25, 2024 (incorporated by reference to Exhibit 10.1 of the Company’s Current Report on Form 8-K, field with the SEC on July 25, 2024).
+      10.2   Note Amendment Agreement, dated July 25, 2024 (incorporated by reference to Exhibit 10.2 of the Company’s Current Report on Form 8-K, field with the SEC on July 25, 2024).
+      31.1   Rule 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer
+      31.2   Rule 13(a)-14(a)/15(d)-14(a) Certification of principal financial officer
+      32.1   Section 1350 Certification of principal executive officer
+      32.2   Section 1350 Certification of principal financial officer and principal accounting officer
+      101.INS   Inline XBRL INSTANCE DOCUMENT
+101.SCH   Inline XBRL TAXONOMY EXTENSION SCHEMA
+101.CAL   Inline XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+101.DEF   Inline XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+101.LAB   Inline XBRL TAXONOMY EXTENSION LABEL LINKBASE
+101.PRE   Inline XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+  48
+    SIGNATURES
+  In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    AGEAGLE AERIAL SYSTEMS INC.
+      Dated: November 19, 2024 By: /s/ William Irby
+    William Irby
+    Chief Executive Officer and Director of the Company
+      Dated: November 19, 2024 By: /s/ Adrienne Anderson
+    Adrienne Anderson
+    Interim Chief Financial Officer
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+  Signatures   Title   Date
+          /s/ William Irby   Chief Executive Officer and Director of the Company   November 19, 2024
+William Irby   (Principal Executive Officer)    
+          /s/ Adrienne Anderson   Interim Chief Financial Officer   November 19, 2024
+Adrienne Anderson   (Interim Principal Financial and Accounting Officer)    
+  49

@@ -1,0 +1,2548 @@
+Table of Contents
+  UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2024
+OR
+☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from:         to:        
+Commission file number: 001-33675
+RIOT PLATFORMS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+     84-1553387
+(State or other jurisdiction of Incorporation or organization)
+(I.R.S. Employer Identification No.)
+3855 Ambrosia Street, Suite 301, Castle Rock, CO
+     80109
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code (303) 794-2000
+Securities registered under Section 12(b) of the Securities Exchange Act:
+Securities registered under Section 12(b) of the Securities Exchange Act:
+Common Stock, no par value per share
+     RIOT
+     The Nasdaq Capital Market
+(Title of class)
+(Trading Symbol)
+(Name of each exchange on which registered)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒     No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒    No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☒
+    Accelerated filer ☐
+Non-accelerated filer ☐
+Smaller reporting company ☐
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐   No  ☒
+As of July 29, 2024, the registrant had 303,524,067 shares of its common stock, no par value per share, outstanding, which was the only class of its registered securities outstanding as of that date.
+Table of Contents
+RIOT PLATFORMS, INC.
+Page
+PART I - FINANCIAL INFORMATION
+Item 1.
+Financial Statements (Unaudited)
+1
+Condensed Consolidated Balance Sheets as of June 30, 2024 and December 31, 2023
+1
+Condensed Consolidated Statements of Operations for the three and six months ended June 30, 2024 and 2023
+2
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the three and six months ended June 30, 2024 and 2023
+3
+Condensed Consolidated Statements of Stockholders’ Equity for the three and six months ended June 30, 2024 and 2023
+4
+Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2024 and 2023
+5
+Notes to Condensed Consolidated Financial Statements
+6
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+27
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+38
+Item 4.
+Controls and Procedures
+38
+PART II - OTHER INFORMATION
+Item 1.
+Legal Proceedings
+39
+Item 1A.
+Risk Factors
+39
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+Item 5.
+Other Information
+41
+Item 6.
+Exhibits
+42
+Signatures
+44
+i
+Table of Contents
+RIOT PLATFORMS, INC.
+As used in this Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024 (this “Quarterly Report”), the terms “we,” “us,” “our,” the “Company,” the “Registrant,” “Riot Platforms,” and “Riot” mean Riot Platforms, Inc., a Nevada corporation, and its consolidated subsidiaries, unless otherwise indicated.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 (the “PSLRA”). The Company may also make forward-looking statements in the other reports and documents filed with the United States Securities and Exchange Commission (the “SEC”), including those documents and filings incorporated by reference herein. All statements in this Quarterly Report and the documents incorporated by reference herein other than statements of historical fact are “forward-looking statements” within the scope of this cautionary note, including, but not limited to, statements concerning: our plans, strategies and objectives for future operations; new equipment, systems, technologies, services or developments, such as our development and implementation of industrial-scale immersion-cooled Bitcoin mining hardware and our one-gigawatt (“GW”) Bitcoin mining facility outside of Corsicana, Texas; future economic conditions, performance, or outlooks; future political conditions; the outcome of contingencies; potential acquisitions or divestitures; the number and value of Bitcoin rewards and transaction fees we earn from our Bitcoin mining operations; future self-mining hash rate capacity; timing of receipt and deployment of miners; expected cash flows or capital expenditures; our beliefs or expectations; activities, events or developments that we intend, expect, project, believe, or anticipate will or may occur in the future; and assumptions underlying or based upon any of the foregoing. Forward-looking statements may be identified by their use of forward-looking terminology, such as “believes,” “expects,” “may,” “should,” “would,” “will,” “intends,” “plans,” “estimates,” “anticipates,” “projects” and similar words or expressions; however, forward-looking statements may be made without such terminology.
+Such forward-looking statements reflect our management’s opinions, expectations, beliefs, and assumptions based on information currently available to management regarding future events, which may not materialize or prove to be correct due to certain risks and uncertainties, including those risks which the Company’s management has identified and believes to be material and those which management has not identified, or which management does not believe to be material. Such risk factors are described in greater detail under the heading “Risk Factors” in Part II, Item 1A of this Quarterly Report and in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023 (“2023 Annual Report”), as well as under similar headings in subsequent filings we may make with the SEC. It is not possible for our management to predict all risks, the potential impact of all factors on our business, or the extent to which any factor, or combination of factors, may cause our actual results to differ, perhaps materially, from those contained in, or implied by, any forward-looking statements we may make. You should not place undue reliance on these forward-looking statements, which reflect our management’s opinions only as of the date the statements are made and are not guarantees of future performance or actual results. Should any risks or uncertainties develop into actual events, these developments could have a material adverse effect on our business, financial condition, results of operations, stockholder’s equity, and cash flows, and the market price of our securities may decline, as a result.
+Accordingly, you should read this Quarterly Report, and the other filings we make with the SEC, completely and with the understanding that our future results may be materially different from our historical results and from the results expressed in, or implied by, the forward-looking statements contained in this Quarterly Report and the documents incorporated by reference herein. The forward-looking statements contained in this Quarterly Report and the documents incorporated by reference herein speak only as of the date they are made and, unless otherwise required by applicable securities laws, we disclaim any intention or obligation to update or revise any such forward-looking statements, whether as a result of new information, future events or otherwise. All forward-looking statements attributable to us are expressly qualified by the foregoing cautionary statements and are made in reliance of the safe harbor provisions of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the PSLRA.
+ii
+Table of Contents
+PART I - FINANCIAL INFORMATION
+Item 1. Financial Statements
+Riot Platforms, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited; in thousands, except for share and per share amounts)
+June 30, 2024
+December 31, 2023
+ASSETS
+                Current assets
+          Cash and cash equivalents
+$
+481,168
+$
+597,169
+Accounts receivable, net
+  13,680
+  24,706
+Contract assets, including retainage of $1,097 and $3,166, respectively
+  14,281
+  15,359
+Prepaid expenses and other current assets
+  30,654
+  29,107
+Bitcoin
+  —
+  311,178
+Derivative asset, current portion
+46,419
+30,781
+Investments in marketable equity securities, at fair value
+  157,622
+  —
+Future power credits, current portion
+—
+271
+Total current assets
+  743,824
+  1,008,571
+Property and equipment, net
+  1,040,182
+  704,194
+Bitcoin
+585,054
+—
+Deposits
+  201,754
+  215,009
+Finite-lived intangible assets, net
+  12,778
+  15,697
+Derivative asset, less current portion
+105,515
+73,437
+Operating lease right-of-use assets
+20,855
+20,413
+Future power credits, less current portion
+  589
+  638
+Other long-term assets
+  13,036
+  13,121
+Total assets
+$
+2,723,587
+$
+2,051,080
+          LIABILITIES AND STOCKHOLDERS’ EQUITY
+          Current liabilities
+          Accounts payable
+$
+5,093
+$
+23,157
+Contract liabilities
+  6,367
+  4,073
+Accrued expenses
+54,348
+62,628
+Deferred gain on acquisition post-close dispute settlement
+26,007
+26,007
+Deferred revenue, current portion
+  2,458
+  2,458
+Contingent consideration liability - future power credits, current portion
+  —
+  271
+Operating lease liability, current portion
+  3,022
+  2,421
+Total current liabilities
+  97,295
+  121,015
+          Deferred revenue, less current portion
+  14,713
+  15,801
+Operating lease liability, less current portion
+  19,977
+  18,924
+Contingent consideration liability - future power credits, less current portion
+  589
+  638
+Other long-term liabilities
+  6,500
+  6,680
+Total liabilities
+  139,074
+  163,058
+          Commitments and contingencies - Note 17
+                    Stockholders’ equity
+          Preferred stock, no par value, 15,000,000 shares authorized:
+          2% Series A Convertible Preferred stock, 2,000,000 shares authorized; no shares issued and outstanding as of June 30, 2024 and December 31, 2023
+  —
+  —
+0% Series B Convertible Preferred stock, 1,750,001 shares authorized; no shares issued and outstanding as of June 30, 2024 and December 31, 2023
+  —
+  —
+Common stock, no par value; 680,000,000 shares authorized; 283,674,768 and 230,836,624 shares issued and outstanding as of June 30, 2024 and December 31, 2023, respectively
+  3,257,024
+  2,687,692
+Accumulated deficit
+  (672,492)
+  (799,820)
+Accumulated other comprehensive income (loss), net
+(19)
+150
+Total stockholders’ equity
+  2,584,513
+  1,888,022
+Total liabilities and stockholders’ equity
+$
+2,723,587
+$
+2,051,080
+See accompanying Notes to Condensed Consolidated Financial Statements.
+1
+Table of Contents
+   Riot Platforms, Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited; in thousands, except for share and per share amounts)
+Three Months Ended
+Six Months Ended
+June 30, 
+June 30, 
+     2024
+     2023
+     2024
+     2023
+Revenue:
+            Bitcoin Mining
+$
+55,764
+$
+49,742
+$
+127,160
+$
+97,765
+Engineering
+  9,627
+  19,312
+  14,302
+  35,459
+Other
+  4,627
+  7,685
+  7,852
+  16,751
+Total revenue
+  70,018
+  76,739
+  149,314
+  149,975
+                    Costs and expenses:
+         Cost of revenue:
+Bitcoin Mining
+  35,275
+  23,647
+  71,824
+  45,546
+Engineering
+  8,261
+  18,182
+  14,279
+  33,745
+Other
+  10,105
+  22,134
+  14,640
+  47,794
+Selling, general, and administrative
+  61,189
+  19,836
+  118,841
+  32,511
+Depreciation and amortization
+  37,326
+  66,162
+  69,669
+  125,502
+Change in fair value of Bitcoin
+76,403
+(14,490)
+(157,677)
+(97,994)
+Change in fair value of derivative asset
+  (27,484)
+  (13,109)
+  (47,716)
+  (7,331)
+Power curtailment credits
+(13,897)
+(13,470)
+(19,028)
+(16,545)
+Loss (gain) on sale/exchange of equipment
+68
+30
+68
+30
+Casualty-related charges (recoveries), net
+(187)
+—
+(2,487)
+1,526
+Total costs and expenses
+  187,059
+  108,922
+  62,413
+  164,784
+Operating income (loss)
+  (117,041)
+  (32,183)
+  86,901
+  (14,809)
+                    Other income (expense):
+                    Interest income (expense)
+8,152
+4,843
+15,957
+1,013
+Unrealized gain on marketable equity securities
+24,462
+—
+24,462
+—
+Other income (expense)
+33
+65
+41
+65
+Total other income (expense)
+  32,647
+  4,908
+  40,460
+  1,078
+                    Net income (loss) before taxes
+  (84,394)
+  (27,275)
+  127,361
+  (13,731)
+                    Current income tax benefit (expense)
+  (55)
+  (112)
+  (33)
+  (188)
+Deferred income tax benefit (expense)
+  —
+  —
+  —
+  5,045
+Total income tax benefit (expense)
+  (55)
+  (112)
+  (33)
+  4,857
+                    Net income (loss)
+$
+(84,449)
+$
+(27,387)
+$
+127,328
+$
+(8,874)
+Basic and diluted net income (loss) per share
+$
+(0.32)
+$
+(0.16)
+$
+0.51
+$
+(0.33)
+Basic and diluted weighted average number of shares outstanding
+  264,625,308
+  167,342,813
+  249,711,377
+  162,559,956
+See accompanying Notes to Condensed Consolidated Financial Statements.
+2
+Table of Contents
+Riot Platforms, Inc.
+Condensed Consolidated Statements of Comprehensive Income (Loss)
+(Unaudited; in thousands)
+Three Months Ended
+Six Months Ended
+June 30, 
+June 30, 
+2024
+2023
+2024
+2023
+Net income (loss)
+$
+(84,449)
+$
+(27,387)
+$
+127,328
+$
+(8,874)
+Other comprehensive income (loss):
+Unrealized holding gains (losses) on convertible note
+(28)
+—
+(169)
+—
+Comprehensive income (loss)
+$
+(84,477)
+$
+(27,387)
+$
+127,159
+$
+(8,874)
+See accompanying Notes to Condensed Consolidated Financial Statements.
+3
+Table of Contents
+Riot Platforms, Inc.
+Condensed Consolidated Statements of Stockholders’ Equity
+(Unaudited; in thousands, except for share amounts)
+Three Months Ended June 30, 2024
+                    Accumulated other
+     Total
+Common Stock
+Accumulated
+comprehensive
+stockholders’
+Shares
+Amount
+deficit
+income (loss)
+equity
+Balance as of April 1, 2024
+  267,991,956
+$
+3,063,438
+$
+(588,043)
+$
+9
+$
+2,475,404
+Issuance of restricted stock, net of forfeitures and delivery of common stock underlying stock awards, net of tax withholding
+  (881,721)
+  (8,771)
+  —
+—
+  (8,771)
+Issuance of common stock/At-the-market offering, net of offering costs
+  16,564,533
+  170,222
+  —
+—
+  170,222
+Stock-based compensation
+  —
+  32,135
+  —
+—
+  32,135
+Net income (loss)
+  —
+  —
+  (84,449)
+—
+  (84,449)
+Other comprehensive income (loss)
+—
+—
+—
+(28)
+(28)
+Balance as of June 30, 2024
+  283,674,768
+$
+3,257,024
+$
+(672,492)
+$
+(19)
+$
+2,584,513
+Three Months Ended June 30, 2023
+                         Total
+Common Stock
+Accumulated
+stockholders’
+Shares
+Amount
+deficit
+equity
+Balance as of April 1, 2023
+  166,966,766
+$
+1,904,175
+$
+(737,829)
+$
+1,166,346
+Issuance of restricted stock, net of forfeitures and delivery of common stock underlying stock awards, net of tax withholding
+  (663,377)
+  (11,638)
+  —
+  (11,638)
+Issuance of common stock/At-the-market offering, net of offering costs
+  15,877,000
+  184,661
+  —
+  184,661
+Issuance of common stock in connection with the acquisition of ESS Metron
+  70,165
+  —
+  —
+  —
+Stock-based compensation
+  —
+  3,429
+  —
+  3,429
+Net income (loss)
+  —
+  —
+  (27,387)
+  (27,387)
+Balance as of June 30, 2023
+  182,250,554
+$
+2,080,627
+$
+(765,216)
+$
+1,315,411
+Six Months Ended June 30, 2024
+                    Accumulated other
+     Total
+Common Stock
+Accumulated
+comprehensive
+stockholders'
+Shares
+Amount
+deficit
+income (loss)
+equity
+Balance as of January 1, 2024
+230,836,624
+$
+2,687,692
+$
+(799,820)
+$
+150
+$
+1,888,022
+Issuance of restricted stock, net of forfeitures and delivery of common stock underlying stock awards, net of tax withholding
+  10,104,311
+  (10,769)
+  —
+—
+  (10,769)
+Issuance of common stock/At-the-market offering, net of offering costs
+  42,733,833
+  515,966
+  —
+—
+  515,966
+Stock-based compensation
+  —
+  64,135
+  —
+—
+  64,135
+Net income (loss)
+  —
+  —
+  127,328
+—
+  127,328
+Other comprehensive income (loss)
+—
+—
+—
+(169)
+(169)
+Balance as of June 30, 2024
+  283,674,768
+$
+3,257,024
+$
+(672,492)
+$
+(19)
+$
+2,584,513
+Six Months Ended June 30, 2023
+Total
+Common Stock
+Accumulated
+stockholders'
+Shares
+Amount
+deficit
+equity
+Balance as of January 1, 2023
+  167,751,112
+$
+1,907,784
+$
+(756,342)
+$
+1,151,442
+Issuance of restricted stock, net of forfeitures and delivery of common stock underlying stock awards, net of tax withholding
+  (1,447,723)
+  (12,951)
+  —
+  (12,951)
+Issuance of common stock/At-the-market offering, net of offering costs
+  15,877,000
+  184,661
+  —
+  184,661
+Issuance of common stock in connection with the acquisition of ESS Metron
+70,165
+—
+—
+Stock-based compensation
+  —
+  1,133
+  —
+  1,133
+Net income (loss)
+  —
+  —
+  (8,874)
+  (8,874)
+Balance as of June 30, 2023
+  182,250,554
+$
+2,080,627
+$
+(765,216)
+$
+1,315,411
+See accompanying Notes to Condensed Consolidated Financial Statements.
+4
+Table of Contents
+Riot Platforms, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited; in thousands)
+Six Months Ended
+June 30, 
+2024
+     2023
+Operating activities
+                Net income (loss)
+$
+127,328
+$
+(8,874)
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+          Stock-based compensation
+  64,135
+  1,133
+Depreciation and amortization
+  69,669
+  125,502
+Amortization of license fee revenue
+  (48)
+  (48)
+Noncash lease expense
+  1,676
+  1,134
+Deferred income tax expense (benefit)
+  —
+  (5,045)
+Change in fair value of Bitcoin
+(157,677)
+(83,504)
+Change in fair value of derivative asset
+  (47,716)
+  (7,331)
+Unrealized gain on marketable equity securities
+(24,462)
+—
+Loss (gain) on sale/exchange of equipment
+  68
+  30
+Casualty-related charges
+—
+1,526
+Revenue recognized from Bitcoin mined
+(127,160)
+(97,765)
+Proceeds from sale of Bitcoin
+9,518
+89,162
+Changes in assets and liabilities:
+          (Increase)/decrease in operating assets
+10,544
+14,736
+Increase/(decrease) in operating liabilities
+(26,240)
+(36,440)
+Net cash provided by (used in) operating activities
+  (100,365)
+  (5,784)
+          Investing activities
+          Deposits on equipment
+  (278,987)
+  —
+Security deposits
+(181)
+—
+Investment in marketable equity securities
+(133,160)
+—
+Purchases of property and equipment, including construction in progress
+  (110,848)
+  (107,424)
+Casualty-related recoveries
+2,487
+—
+Patent costs incurred
+  —
+  (34)
+Net cash provided by (used in) investing activities
+  (520,689)
+  (107,458)
+          Financing activities
+          Proceeds from the issuance of common stock / At-the-market offering
+  527,010
+  188,430
+Offering costs for the issuance of common stock / At-the-market offering
+  (11,044)
+  (3,769)
+Proceeds from Credit and Security Facility
+—
+880
+Repayments of Credit and Security Facility
+(144)
+(500)
+Repurchase of common shares to pay employee withholding taxes
+  (10,769)
+  (12,951)
+Net cash provided by (used in) financing activities
+  505,053
+  172,090
+          Net increase (decrease) in cash and cash equivalents
+  (116,001)
+  58,848
+Cash and cash equivalents at beginning of period
+  597,169
+  230,328
+Cash and cash equivalents at end of period
+$
+481,168
+$
+289,176
+Supplemental information:
+          Cash paid for interest
+$
+24
+$
+17
+Cash paid for taxes
+$
+—
+$
+—
+Non-cash transactions
+          Reclassification of deposits to property and equipment
+$
+292,423
+$
+33,273
+Construction in progress included in accrued expenses
+$
+25,473
+$
+7,353
+Bitcoin exchanged for employee compensation
+$
+1,692
+$
+585
+Right of use assets exchanged for new operating lease liabilities
+$
+2,118
+$
+682
+See accompanying Notes to Condensed Consolidated Financial Statements.
+5
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 1. Organization and Basis of Presentation
+Organization
+Riot Platforms is a vertically-integrated Bitcoin mining company principally engaged in enhancing our capabilities to mine Bitcoin in support of the Bitcoin blockchain. The Company’s large-scale Bitcoin mining facility in Rockdale, Texas (the “Rockdale Facility”) currently provides up to 700 megawatts (“MW”) in total developed capacity for Bitcoin mining. The Company is also developing a second large-scale Bitcoin mining facility located in Corsicana, Texas (the “Corsicana Facility”), which, upon completion, is expected to have approximately 1.0 GW of capacity available for Bitcoin mining, with 200 MW of additional electrical capacity available for development, at the Company’s discretion.
+Basis of presentation and principles of consolidation
+The accompanying unaudited condensed consolidated financial statements (“Condensed Consolidated Financial Statements”) and these notes (these “Notes”) have been prepared in accordance with the accounting principles generally accepted in the United States of America (“GAAP”). In the opinion of management, the Condensed Consolidated Financial Statements reflect all adjustments, consisting of normal and recurring adjustments, considered necessary for a fair presentation of such interim results. Unless otherwise indicated, amounts are stated in thousands of U.S. Dollars except for share, per share, and miner amounts, and Bitcoin quantities, prices, and hash rate.
+The results in the Condensed Consolidated Financial Statements and these Notes include required estimates and assumptions of management, and they are not necessarily indicative of results to be expected for the year ending December 31, 2024, or for any future interim period. Further, the Condensed Consolidated Financial Statements and these Notes do not include all the information and notes required by GAAP for a complete presentation of annual financial statements. As such, the Condensed Consolidated Financial Statements and these Notes should be read in conjunction with the consolidated financial statements for the year ended December 31, 2023, and notes thereto, included in the 2023 Annual Report.
+As described in Note 19. Segment Information, the Company’s two reportable segments are: Bitcoin Mining and Engineering.
+Note 2. Significant Accounting Policies and Recent Accounting Pronouncements
+Use of estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the balance sheet and the reported amounts of revenue and expenses during the reporting periods. Actual results may differ materially from those estimates. The most significant accounting estimates inherent in the preparation of the Company’s financial statements include: revenue recognition; valuation of the derivative asset classified under Level 3 on the fair value hierarchy; determination of the useful lives and recoverability of long-lived assets; impairment analysis of fixed assets and finite-lived intangibles; stock-based compensation; and the valuation allowance associated with the Company’s deferred tax assets.
+Reclassifications
+Certain prior period amounts have been reclassified to conform to the current period presentation in the Condensed Consolidated Financial Statements and these Notes. The reclassifications did not have a material impact on the Condensed Consolidated Financial Statements and related disclosures. The impact on any prior period disclosures was immaterial.
+Significant Accounting Policies
+Except for the updates noted below, see the Company’s 2023 Annual Report for a detailed discussion of the Company’s significant accounting policies.
+6
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Bitcoin
+Bitcoin is recorded at fair value, as determined using the period-end closing price of Bitcoin on the Company’s principal market, Coinbase (the “Principal Market”), and changes in fair value are recognized in Change in fair value of Bitcoin, in Operating income (loss) on the Condensed Consolidated Statements of Operations, as of, and for the three and six months ended June 30, 2024.
+During 2024, Riot made the strategic decision to temporarily cease the sale of all its Bitcoin production and instead, increase its Bitcoin holdings. As a result of its intent to hold its Bitcoin, the Company began classifying its Bitcoin held as a non-current asset on its Condensed Consolidated Balance Sheet. For the six months ended June 30, 2024, all sales of Bitcoin occurred before the strategic decision and, as the Bitcoin was sold nearly immediately after receipt by the Company, the proceeds were recognized within Operating activities on the Condensed Consolidated Statements of Cash Flows.
+Property and equipment
+Effective January 1, 2024, the Company changed the estimated useful life of its miners and mining equipment from 2 years to 3 years. See Note 7. Property and Equipment, for a description of the change and its impact.
+Revenue recognition
+The Company participates in digital asset mining pools by executing agreements with mining pool operators for the provision of hash calculation services to the mining pool. Currently, the Company only participates in a Full-Pay-Per-Share mining pool. The Company decides when to provide hash calculation services under the agreements and the Company’s enforceable right to compensation begins only when, and lasts as long as, the Company provides hash calculation services to the mining pool operator and is created as power is provided over time. The only consideration due to the Company relates to the provision of hash calculation services. Such agreements are freely terminable, at any time, by the Company or by the pool operator, without penalty to either party. Providing hash calculation services in digital asset transaction verification services is an output of the Company’s ordinary activities and is the only performance obligation in the agreements with mining pool operators.
+The transaction consideration received, if any, is noncash consideration in the form of Bitcoin. Changes in the fair value of the noncash consideration after contract inception due to the form of the consideration (changes in the market price of Bitcoin) are not included in the transaction price and, therefore, are not included in revenue. Certain mining pool operators charge fees to cover the costs of maintaining the pool. These fees are deducted from amounts we may otherwise earn and are treated as a reduction to the consideration received. Fees fluctuate and historically have averaged no more than approximately 2% per reward earned. Under the agreements neither party can dispute settlement terms after approximately thirty-five days following settlement.
+In exchange for providing hash calculation services, the Company is entitled to a Full-Pay-Per-Share (“FPPS”) payout of Bitcoin based on a contractual formula, which primarily calculates the hash rate provided to the mining pool as a percentage of total network hash rate, and other inputs.
+The Company is entitled to consideration even if a block is not successfully placed by the mining pool operator. Bitcoin network block subsidies are based on the total amount of block subsidies that are expected to be generated on the Bitcoin network as a whole during the 24-hour period beginning at 0:00:00 UTC daily (i.e., the measurement period), while network transaction fees are based on the total amount of transaction fees and block rewards that are actually generated on the blockchain network as a whole during the measurement period.
+The Company is also entitled to a fractional share of the Bitcoin award and transaction fees from the mining pool operator as determined based on the hash rate provided by the Company to the mining pool as a percentage of the total expected Bitcoin network hash rate based on the current network difficulty. The Company is entitled to its relative share of consideration at the end of each contract period, even if a block is not successfully placed by the mining pool.
+For accounting purposes, each agreement has a duration of less than 24 hours and is therefore continually renewed. However, the continual renewal of the agreement does not represent a material right that represents a separate performance obligation as the FPPS formula remains the same upon each renewal.
+7
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Consideration is all variable. Revenue is recognized on the same day that control of the contracted service transfers to the mining pool operators, which is the same day as contract inception. As it is probable that a significant reversal of cumulative revenue will not occur and we are able to calculate the payout based on the contractual formula, revenue is estimated and recognized based on the spot price of Bitcoin determined using the Company’s Principal Market at the inception of each agreement. Noncash consideration is measured at fair value at agreement inception. The fair value of the crypto asset consideration is determined using the quoted price per the Principal Market at the beginning of the contract period at the single bitcoin level (one bitcoin).
+There is no significant financing component in these transactions, due to the performance obligations and settlement of the transactions being on a daily basis.
+Change in Reportable Segments
+Previously, the Company operated in three reportable business segments: Bitcoin Mining, Data Center Hosting, and Engineering. Commencing January 1, 2024, the Company’s reportable segments have changed to reflect the termination of its legacy Data Center Hosting business, with Bitcoin Mining and Engineering as the Company’s two remaining reportable business segments. See Note 19. Segment Information for more information.
+Recently Issued Accounting Pronouncements
+The Company continually assesses new accounting pronouncements to determine their applicability. When it is determined that a new accounting pronouncement affects the Company’s financial reporting, the Company undertakes a study to determine the consequences of such change to its Condensed Consolidated Financial Statements and assures that there are proper controls in place to ascertain that the Company’s Condensed Consolidated Financial Statements properly reflect the change.
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued ASU No. 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“ASU 2023-09”). ASU 2023-09 expands existing income tax disclosures for rate reconciliations by requiring disclosure of certain specific categories and additional reconciling items that meet quantitative thresholds and expands disclosures for income taxes paid by requiring disaggregation by certain jurisdictions. ASU 2023-09 is effective for annual periods beginning after December 15, 2024; early adoption is permitted. The Company is evaluating the impact the updated guidance will have on its disclosures.
+In December 2023, the FASB issued ASU 2023-08, Intangibles - Goodwill and Other - Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets (“ASU 2023-08”), which establishes accounting guidance for crypto assets meeting certain criteria. Bitcoin meets these criteria. The amendments require crypto assets meeting the criteria to be recognized at fair value with changes recognized in net income each reporting period. Upon adoption, a cumulative-effect adjustment was made to the opening balance of retained earnings as of the beginning of the annual reporting period of adoption. ASU 2023-08 is effective for fiscal years beginning after December 15, 2024, including interim periods within those fiscal years, with early adoption permitted. The Company elected to early adopt ASU 2023-08 for the year ended December 31, 2023, effective as of January 1, 2023. As a result of the adoption, the Company recorded a cumulative-effect adjustment to its Accumulated deficit balance of approximately $6.0 million as of January 1, 2023, as a result of recognizing its Bitcoin held as of January 1, 2023, at fair value.
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures (“ASU 2023-07”). ASU 2023-07 is intended to enhance reportable segment disclosures by requiring disclosures of significant segment expenses regularly provided to the chief operating decision maker (“CODM”), requiring disclosure of the title and position of the CODM and explanation of how the reported measures of segment profit and loss are used by the CODM in assessing segment performance and allocation of resources. ASU 2023-07 is effective for the Company for annual periods beginning after December 31, 2023. The Company is evaluating the impact the updated guidance will have on its disclosures.
+Note 3. Acquisitions
+On July 23, 2024, the Company acquired 100% of the equity interests of Block Mining, Inc. (“Block Mining”), a Kentucky-based vertically-integrated Bitcoin mining company, for total consideration paid at closing of approximately $92.5 million, which was comprised of $18.5 million in cash from the Company’s existing cash and 7.2 million shares of Riot common stock valued at approximately $74 million. In addition to the closing date consideration, the sellers are eligible to earn an additional $32.5 million
+8
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+in potential earn-out targets if certain milestones are reached within 18 months of the closing.
+The acquisition of Block Mining immediately increases Riot’s hash rate, expands Riot’s footprint geographically, and provides exposure to additional energy markets outside of the Electric Reliability Council of Texas (‘ERCOT”). Block Mining is a vertically-integrated Bitcoin miner consisting of two operational sites, both in Kentucky, totaling 60 MW of operational capacity, with the potential to expand to up to 155 MW. Additionally, Block Mining owns a greenfield expansion opportunity, also in Kentucky, adjacent to an existing substation, presenting an opportunity to develop 60 MW with a potential to expand to 150 MW. Block Mining is a capital efficient developer and operator of Bitcoin mining facilities with an experienced management team that will add to Riot’s ability to execute on its vertically-integrated strategy.
+The acquisition will be accounted for as an acquisition of a business using the acquisition method of accounting, which requires recognition of assets acquired and liabilities assumed at their respective fair values on the date of acquisition. Due to the closing only being days prior to the filing of this Quarterly Report, the Company has not yet completed a preliminary allocation of the purchase consideration.
+Note 4. Revenue from Contracts with Customers
+Disaggregated revenue
+Revenue disaggregated by reportable segment is presented in Note 19. Segment Information.
+Contract balances
+Contract assets relate to uncompleted Engineering contracts. As of June 30, 2024 and December 31, 2023, contract assets were $14.3 million and $15.4 million, respectively.
+Contract liabilities primarily relate to upfront payments and consideration received from a legacy data center hosting customer and uncompleted Engineering contracts. The following table presents changes in contract liabilities and deferred revenue:
+     Six Months Ended
+June 30, 2024
+Beginning balance
+$
+22,332
+Revenue recognized
+  (8,506)
+Additions and other changes in contract liabilities
+9,712
+Ending balance
+$
+23,538
+During the six months ended June 30, 2024, $3.8 million of the beginning balance of contract liabilities and deferred revenue was recognized as revenue.
+Remaining performance obligation
+The following table presents the estimated future recognition of the Company’s remaining performance obligations, which represent the transaction price of current contracts for work to be performed.
+Remainder of
+2024
+     2025
+     2026
+     2027
+2028
+     Thereafter
+     Total
+Legacy data center hosting contract
+  $
+1,181
+  $
+2,362
+  $
+2,362
+  $
+2,362
+$
+2,362
+  $
+6,107
+  $
+16,736
+Engineering
+  6,120
+  247
+  —
+  —
+—
+  —
+  6,367
+Other
+47
+97
+97
+97
+97
+—
+435
+Total contract liabilities
+$
+7,348
+$
+2,706
+$
+2,459
+$
+2,459
+$
+2,459
+$
+6,107
+$
+23,538
+9
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 5. Bitcoin
+The following table presents information about the Company’s Bitcoin holdings:
+     Quantity
+     Amounts
+Balance as of January 1, 2024
+7,362
+$
+311,178
+Revenue recognized from Bitcoin mined
+2,208
+127,160
+Change in Bitcoin receivable
+10
+249
+Proceeds from sale of Bitcoin
+(212)
+(9,518)
+Exchange of Bitcoin for employee compensation
+(34)
+(1,692)
+Change in fair value of Bitcoin
+—
+157,677
+Balance as of June 30, 2024
+9,334
+$
+585,054
+Carrying value of Bitcoin as of June 30, 2024 (a)
+$
+323,484
+Realized gains on the sale or exchange of Bitcoin for the three months ended June 30, 2024 (b)
+$
+175
+Realized gains on the sale or exchange of Bitcoin for the six months ended June 30, 2024 (b)
+$
+7,357
+Balance as of January 1, 2023
+6,974
+$
+115,415
+Revenue recognized from Bitcoin mined
+3,890
+97,765
+Proceeds from sale of Bitcoin
+(3,575)
+(89,162)
+Exchange of Bitcoin for employee compensation
+(24)
+(585)
+Change in fair value of Bitcoin
+—
+97,994
+Balance as of June 30, 2023
+7,265
+$
+221,427
+Carrying value of Bitcoin as of June 30, 2023 (a)
+$
+150,418
+Realized gains on the sale or exchange of Bitcoin for the three months ended June 30, 2023 (b)
+$
+19,783
+Realized gains on the sale or exchange of Bitcoin for the six months ended June 30, 2023 (b)
+$
+33,676
+(a) The carrying value of Bitcoin is equal to the post-impairment value of all Bitcoin held as of the adoption of ASU 2023-08 on January 1, 2023, and, for Bitcoin produced subsequent to the adoption of ASU 2023-08, the initial value of the Bitcoin as determined for revenue recognition purposes.
+(b) Bitcoin is sold on a first in, first out (FIFO) basis. During the three and six months ended June 30, 2024 and 2023, gains were recognized on all sales of Bitcoin and exchanges of Bitcoin for employee compensation and are included in Change in fair value of Bitcoin on the Condensed Consolidated Statements of Operations.  
+All additions of Bitcoin were the result of Bitcoin generated by the Company’s Bitcoin Mining operations (see Note 4. Revenue from Contracts with Customers). All dispositions of Bitcoin were the result of sales on the open market to fund Company operations and for compensation for certain employees.
+Note 6. Investment
+Marketable equity securities
+During the six months ended June 30, 2024, the Company acquired approximately 61.3 million common shares of Bitfarms Ltd. (“Bitfarms”) on the open market for approximately $133.2 million. As of June 30, 2024, the Company’s investment in Bitfarms was equal to approximately 14.9% of all outstanding Bitfarms common stock. The Company has not appointed any members of Bitfarms’ Board of Directors or management.
+The Company accounts for its investment in Bitfarms at fair value. Unrealized gains and losses are recognized in Other income (expense) on the Condensed Consolidated Statements of Operations. The fair value measurement of the Company’s investment in Bitfarms is based on quoted prices in an active market and thus represents a Level 1 measurement on the fair value hierarchy.
+10
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table presents information about the marketable equity securities:
+Investment, at cost
+$
+133,160
+Unrealized gains
+24,462
+Fair value as of June 30, 2024
+$
+157,622
+Subsequent to June 30, 2024, upon Bitfarms publicly disclosing an increase in its outstanding common shares, the Company acquired an additional 2.9 million common shares for approximately $7.7 million to maintain its ownership interest of 14.9%.
+Convertible note
+During the year ended December 31, 2023, the Company invested in a $4.5 million convertible note at face value. The convertible note has a three-year term and earns interest at a rate of 12% per annum, which may be paid in cash or in-kind, and converts into equity of the issuer of the convertible note at the end of the three-year term.
+The fair value measurement of the convertible note is based on significant inputs not observable in the market and thus represents a Level 3 measurement on the fair value hierarchy. The significant assumptions used to estimate fair value of the convertible note as of June 30, 2024 included a discount rate of 14.6%, which reflected the issuance date spread premium over the selected yield for the remaining time to maturity.
+The following table presents information about the convertible note:
+Fair value as of December 31, 2023
+  $
+4,709
+Accrued interest
+    272
+Amortized costs basis
+    4,981
+Unrealized holding gains (losses) in accumulated other comprehensive income
+(169)
+Fair value as of June 30, 2024
+  $
+4,812
+Note 7. Property and Equipment
+The following table presents the Company’s property and equipment:
+     June 30, 
+December 31, 
+     2024
+     2023
+Buildings and building improvements
+$
+527,990
+$
+348,865
+Land rights and land improvements
+  10,320
+  10,320
+Miners and mining equipment
+  771,316
+  496,230
+Machinery and facility equipment
+40,627
+39,144
+Office and computer equipment
+  2,694
+  2,108
+Construction in progress
+  109,723
+  166,970
+Total cost of property and equipment
+  1,462,670
+  1,063,637
+Less accumulated depreciation
+  (422,488)
+  (359,443)
+Property and equipment, net
+$
+1,040,182
+$
+704,194
+The Company did not incur any impairment charges for its property and equipment during the three and six months ended June 30, 2024 and 2023.
+For the three months ended June 30, 2024 and 2023, depreciation expense related to property and equipment totaled $35.9 million and $64.7 million, respectively, and $66.8 million and $122.6 million, respectively, for the six months ended June 30, 2024 and 2023.
+11
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Miners and mining equipment
+As of June 30, 2024, the Company had a total deployed hash rate capacity of 22.0 EH/s in its Bitcoin Mining operations at the Rockdale and Corsicana Facilities.
+During 2023, the Company entered into a long-term master purchase and sales agreement, dated as of June 23, 2023, as amended, (the “Master Agreement”) to acquire miners from MicroBT Electronics Technology Co., LTD, through its manufacturing affiliate, SuperAcme Technology (Hong Kong) Limited (collectively “MicroBT”). In 2023, we executed purchase orders with MicroBT to acquire U.S.-manufactured miners with a total hash rate of 25.6 EH/s, for a total purchase price of approximately $453.4 million, subject to downward adjustment, as provided under the Master Agreement. Delivery of these miners to the Corsicana Facility, where they will be deployed in immersion cooling systems, began in 2023, and all miners under these purchase orders are expected to be received and deployed by mid-2025. The Master Agreement also provides the Company with an option to purchase additional miners with a total hash rate of approximately 75 EH/s, on the same terms as the initial order.
+During the six months ended June 30, 2024, the Company entered into an additional purchase order with MicroBT under the Master Agreement to acquire 31,500 air-cooled miners with a total hash rate of 5.9 EH/s for a total purchase price of approximately $96.7 million. This purchase order is in addition to existing purchase options under the Master Agreement. Delivery of these miners occurred in the second quarter of 2024. Approximately 17,000 of these miners are expected to replace underperforming miners removed from service at the Rockdale Facility, with the remaining 14,500 miners expected to be deployed in available capacity at the facility.
+Effective January 1, 2024, as a result of new information about the useful lives of Bitcoin miners, the Company determined the estimated useful life of its Bitcoin miners will be increased from two years to three years. In making this determination, the Company took into consideration its first-hand experience of miners remaining in service beyond a two-year period, as well as its increased use of immersion-based mining, which the Company anticipates will extend the useful life of miners, due to improved heat removal and reduced exposure to particulates, as compared to traditional air-cooled mining. For the three months ended June 30, 2024, the effect of this change in estimate was a reduction in depreciation expense and a decrease in net loss of approximately $21.4 million, and a decrease in basic and diluted loss per share of $0.08. For the six months ended June 30, 2024, the effect of this change in estimate was a reduction in depreciation expense and an increase in net income of approximately $48.4 million, and an increase in basic and diluted earnings per share of $0.19.
+Casualty-related charges (recoveries), net
+In December 2022, the Rockdale Facility was damaged during severe winter storms in Texas. As of June 30, 2024, the Company estimated that total damages of $10.3 million had been incurred. During the six months ended June 30, 2024, the Company received net insurance recoveries of $2.5 million, in addition to the $7.5 million recovered during the year ended December 31, 2023. Recoveries are recognized when they are probable of being received.
+Construction in progress
+In 2022, the Company initiated development of the Corsicana Facility to expand its Bitcoin Mining capabilities, on a 265-acre site in Navarro County, Texas, located near the Navarro Switch. Once complete, the Company expects the Corsicana Facility to have 1.0 GW of developed capacity for its Bitcoin Mining operations, with 200 MW of additional capacity available for development, at the Company’s discretion.
+The initial phase of development of the Corsicana Facility involves the construction of 400 MW of immersion-cooled Bitcoin Mining infrastructure, including a high-voltage power substation and electrical and water transmission facilities to supply power and water to the facility. Operations of this initial phase of the development commenced in April 2024, following energization of the substation. As of June 30, 2024, the first 100 MW building, Building A1, was completed and the second 100 MW building, Building A2, was nearing completion with nearly all immersion tanks and miners in the building being operational. Development for the third building, Building B1, continues on schedule with the building structure being fully erect and concrete slab pouring in progress. Installation of immersion tanks in Building B1 has begun and is continuing into the third quarter.
+During the year ended December 31, 2023, the Company entered into a purchase agreement to acquire immersion cooling systems for use in the first 200 MW Bitcoin mining data center facilities developed at the Corsicana Facility. Delivery and installation of
+12
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+these immersion cooling systems was completed during July 2024, with miner installation and operations commencing progressively as the systems were installed. The purchase agreement also provides the Company an option to purchase up to an additional 400 MW of immersion cooling systems from the same manufacturer, on the same terms as the initial order, through December 31, 2025.
+During the six months ended June 30, 2024, the Company entered into a second purchase agreement to acquire immersion cooling systems from a different manufacturer, for use in the second 200 MW Bitcoin mining data center facilities developed at the Corsicana Facility. Delivery of these immersion cooling systems commenced in June 2024 and is expected to be completed in the third quarter of 2024. Miner installation and operations commenced progressively with the installation of these new systems in June 2024.
+Through June 30, 2024, the Company had incurred total costs of approximately $323.2 million related to the development of the Corsicana Facility, including $10.1 million paid to acquire the land on which the facility is being developed, $308.4 million of initial developments costs and equipment (exclusive of miners), and a $4.7 million deposit for future power usage.
+Note 8. Finite-Lived Intangible Assets
+The following table presents the Company’s finite-lived intangible assets as of June 30, 2024:
+     Weighted-
+Gross
+Accumulated
+Net book
+average life
+     book value
+     amortization
+     value
+     (years)
+Customer contracts
+$
+6,300
+$
+(1,602)
+$
+4,698
+  10
+Trademark
+  5,000
+  (1,292)
+  3,708
+  10
+UL Listings
+  2,700
+  (582)
+  2,118
+  12
+Patents
+  10,060
+  (7,806)
+  2,254
+  Various
+Finite-lived intangible assets
+$
+24,060
+$
+(11,282)
+$
+12,778
+The following table presents the Company’s finite-lived intangible assets as of December 31, 2023:
+     Weighted-
+Gross
+     Accumulated
+     Net book
+average life
+     book value
+     amortization
+     value
+     (years)
+Customer contracts
+$
+6,300
+$
+(1,292)
+$
+5,008
+  10
+Trademark
+  5,000
+  (1,042)
+  3,958
+  10
+UL Listings
+  2,700
+  (469)
+  2,231
+  12
+Patents
+  10,060
+  (5,560)
+  4,500
+  Various
+Finite-lived intangible assets
+$
+24,060
+$
+(8,363)
+$
+15,697
+For the three months ended June 30, 2024 and 2023, amortization expense related to finite-lived intangible assets was $1.4 million and $1.4 million, respectively, and $2.9 million and $2.9 million for the six months ended June 30, 2024 and 2023.
+The following table presents the estimated future amortization of the Company’s finite-lived intangible assets as of June 30, 2024:
+Remainder of 2024
+$
+2,903
+2025
+  1,355
+2026
+  1,355
+2027
+  1,355
+2028
+  1,355
+Thereafter
+  4,455
+Total
+$
+12,778
+The Company did not identify any impairment of its finite-lived intangible assets during the three and six months ended June 30, 2024 and 2023.
+13
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 9. Power Purchase Agreement
+Power Supply Contract and Demand Response Services Programs
+In May 2020, the Company’s subsidiary, Whinstone US, Inc. (“Whinstone”), entered into a long-term power purchase agreement (the “PPA”) to provide power at fixed prices to the Rockdale Facility, via the nearby Sandow Switch. Pursuant to the PPA, the Company has agreed to acquire a total of 345 MW of long-term, fixed-price power, in multiple blocks, as follows: 130 MW contracted in May 2020, through April 30, 2030; 65 MW contracted in March 2022, through April 30, 2030; and 150 MW contracted in November 2022, through October 31, 2027. Additionally, the PPA also allows the purchase of additional power, at market prices, as needed.      
+Concurrently with the PPA, Whinstone entered into an interconnection agreement for the extension of delivery system transmission/substation facilities to facilitate delivery of electricity to the Rockdale Facility (the “Facilities Agreement”). Power costs incurred under the Facilities Agreement are determined every 15 minutes using settlement information provided by ERCOT and are recorded in Cost of revenue on the Condensed Consolidated Statements of Operations. During the three months ended June 30, 2024, the construction of the interconnection was completed and power costs under the Facilities Agreement are no longer being incurred.
+ERCOT has implemented Demand Response Services Programs for customers like the Company that have the ability to reduce or modify electricity use in response to ERCOT instructions or signals. These Demand Response Services Programs provide the ERCOT market with valuable grid reliability and economic services by helping to preserve system reliability, enhancing competition and load predictability, mitigating price spikes, and stabilizing the grid by encouraging the demand side of the market to give more visibility and control of their power consumption to grid operators. Market participants with flexible electrical loads, like the Company, may participate in these Demand Response Service Programs directly by offering their electrical loads into the ERCOT markets, or indirectly by voluntarily reducing their energy usage in response to increasing power demand in the ERCOT marketplace. The Demand Response Services Programs run concurrent with the PPA.
+Under these Demand Response Services Programs, the Company can participate in a variety of programs known as “ancillary services” by electing to designate a portion of its available electrical load for participation in such programs on a forward basis. For each respective Demand Response Services Program, the Company receives compensation based on hourly rates for power and the amount of electrical load which it has bid into the program. Through ancillary services, the Company competitively bids amongst other market participants to sell ERCOT the ability to control the Company’s electrical load on demand, which requires the Company to remain powered on during the times in which its power is bid into ancillary services, and giving ERCOT the ability to direct the Company to power down the amount of power bid into the program. The Company receives compensation for its participation in ancillary services whether or not the Company is actually called to power down.
+The Company also participates in ERCOT’s Four Coincident Peak (“4CP”) program, which refers to the highest-load settlement intervals in each of the four summer months (June, July, August, and September), during which time, demand for power is typically at its highest across the ERCOT grid. 4CP participants may voluntarily power down operations during these times and in doing so, reduce the electrical load demand on the ERCOT grid. Participants that reduce their load in these peak periods receive credits to transmission costs on future power bills during the subsequent year, reducing overall power costs for the year. As a result of participation in 4CP in 2023, the Company’s transmission charges in its ongoing 2024 monthly power bills are substantially reduced. The 4CP has an indefinite life.
+Under the PPA, the Company may also elect not to utilize its long-term, fixed-price power for its operations, and instead elect to sell that power in exchange for credits against future power costs when there is a benefit to the Company, depending on the spot market price of electricity. The Company’s power strategy combines participation in Demand Response Services Programs, participation in 4CP, and sales of power, to attempt to manage operating costs most efficiently.
+During the three months ended June 30, 2024, and 2023, the Company earned credits against future power costs in exchange for power resold of approximately $13.9 million and $13.5 million, respectively, and approximately $19.0 million and $16.5 million, respectively, during the six months ended June 30, 2024 and 2023. These amounts are recorded in Power curtailment credits on the Condensed Consolidated Statements of Operations.
+14
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The Company determined the PPA meets the definition of a derivative because it allows for net settlement. However, because the Company has the ability to offer the power back for sale, rather than taking physical delivery, the Company determined that physical delivery is not probable through the entirety of the contract and therefore, the Company does not believe the normal purchases and normal sales scope exception applies to the PPA. Accordingly, the PPA (a non-hedging derivative contract) is accounted for as a derivative and recorded at its estimated fair value each reporting period in Derivative asset on the Condensed Consolidated Balance Sheets with the change in the fair value recorded in Change in fair value of derivative asset on the Condensed Consolidated Statements of Operations. The PPA is not designated as a hedging instrument. The Facilities Agreement, Demand Response Service Programs, and 4CP program are not part of the PPA, and are therefore not subject to treatment and valuation as a derivative along with PPA.
+The estimated fair value of the Company’s derivate asset is classified under Level 3 of the fair value hierarchy due to the significant unobservable inputs utilized in the valuation. Specifically, the Company’s discounted cash flow estimation models contain quoted commodity exchange spot and forward prices and are adjusted for basis spreads for load zone-to-hub differentials through the term of the PPA, which is scheduled to end as of April 30, 2030. The significant assumptions used to estimate fair value of the derivative contract include a discount rate of 23.6%, which reflects the nature of the contract as it relates to the risk and uncertainty of the estimated future mark-to-market adjustments, forward price curves of the power supply, broker/dealer quotes and other similar data obtained from quoted market prices or independent pricing vendors, risk-free rate of return, which is determined from United States Treasury Bond yields, estimated cost of debt, which includes a Moody’s rating, and an equity risk premium based upon market data provided by a global cost of capital service provider. The discount rate includes observable market inputs, but also includes unobservable inputs based on qualitative judgment related to Company credit risk.
+The terms of the PPA require margin-based collateral, calculated as exposure resulting from fluctuations in the market cost rate of electricity versus the fixed price stated in the contract. As of June 30, 2024, the margin-based collateral requirement of the Company was zero.
+While the Company manages operating costs at the Rockdale Facility in part by periodically selling back unused or uneconomical power, the Company does not consider such actions to be trading activities.
+The following table presents changes in the estimated fair value of the Derivative asset:
+Balance as of December 31, 2023
+$
+104,218
+Change in fair value of derivative asset
+  47,716
+Balance as of June 30, 2024
+$
+151,934
+Note 10. Deposits
+The following table presents the activity of the Company’s deposits paid:
+Deposits on equipment:
+     Balance as of December 31, 2023
+$
+185,294
+Additions
+  278,987
+Reclassifications to property and equipment
+  (292,423)
+Balance as of June 30, 2024
+171,858
+Security deposits
+  29,896
+Total long-term deposits
+$
+201,754
+Deposits on Equipment
+During the six months ended June 30, 2024, the Company made deposits and advance payments of $221.8 million to MicroBT for the purchase of miners and made deposits of $57.2 million for the purchases of other property and equipment, primarily consisting of electrical components and immersion tanks used in the development of the Corsicana Facility. During the six months ended June 30, 2024, the Company reclassified $264.3 million of deposits made to MicroBT and $28.1 million of other deposits to property and equipment in connection with the receipt of the equipment. See Note 7. Property and Equipment.
+15
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Security Deposits
+During the year ended December 31, 2023, the Company paid $23.0 million, all of which remains held as a deposit as of June 30, 2024, as a security deposit in connection with its 215 MW increase to the long-term, fixed-price power secured under the PPA, resulting in a total of 345 MW under contract at fixed prices. See Note 9. Power Purchase Agreement.
+During the year ended December 31, 2022, the Company paid approximately $4.7 million as a security deposit for the development of the Corsicana Facility, all of which remains held as a deposit as of June 30, 2024.
+The Company has other security deposits totaling approximately $2.2 million for its offices and facilities, including $1.8 million associated with its ground lease.
+Note 11. Accrued Expenses
+Accrued expenses consist of the following:
+     June 30, 
+December 31, 
+2024
+2023
+Construction in progress
+$
+25,473
+$
+23,451
+Power related costs and remittances
+  11,165
+  11,114
+Compensation
+8,818
+14,888
+Insurance
+  1,494
+  7,490
+Other
+  7,398
+  5,685
+Total accrued expenses
+$
+54,348
+$
+62,628
+Note 12. Debt
+Credit and Security Facility
+The Company’s subsidiary, ESS Metron, LLC (“ESS Metron”), has a Credit and Security Facility Agreement, as amended, which provides for a $10.0 million credit and security facility consisting of a $6.0 million revolving line of credit (the “Revolving Line of Credit”) and a $4.0 million equipment guidance line (the “Equipment Guidance Line”).
+The Revolving Line of Credit matures on December 31, 2024, with interest due monthly and principal due at maturity. All amounts borrowed under the Revolving Line of Credit carry a variable interest of not less than 4.0% and are secured by the assets of ESS Metron. As of June 30, 2024, the interest rate was 8.5%. During the six months ended June 30, 2024, there were no borrowings or payments under the Revolving Line of Credit. As of June 30, 2024 and December 31, 2023, the outstanding balance on the Revolving Line of Credit was $0.
+The Equipment Guidance Line matures on December 31, 2024, and permits the Company to finance up to 80.0% of certain equipment purchases. All amounts borrowed under the Equipment Guidance Line carry a variable interest of not less than 4.0% and are secured by the assets of ESS Metron. As of June 30, 2024, the interest rate was 8.5%. During the six months ended June 30, 2024, there were no borrowings under the Equipment Guidance Line and approximately $0.5 million outstanding under the Equipment Guidance Line converted to a fixed rate term loan (see below). As of June 30, 2024 and December 31, 2023, the outstanding balance on the Equipment Guidance Line was $0 and $0.5 million, relatively.
+All borrowings and accrued interest under the Equipment Guidance Line convert to fixed rate term loans every six months, which have either five-year terms for borrowings used to acquire vehicles and manufacturing equipment (“Manufacturing Term Loans”) or three-year terms for borrowings of equipment other than vehicles and manufacturing equipment (“Equipment Term Loans”). The Manufacturing Term Loans made upon the first conversion of guidance line loans carry interest at a fixed rate equal to the five-year treasury rate plus 2.5% as of conversion and the Equipment Term Loans made upon the first conversion of guidance line loans carry interest at a fixed rate equal to the three-year treasury rate plus 2.5% as of conversion. All subsequent conversions to Manufacturing Term Loans and Equipment Term Loans carry interest at a fluctuating rate equal to the lender’s prime rate.
+16
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+During the three months ended June 30, 2024, approximately $0.5 million outstanding under the Equipment Guidance Line was converted into a three-year Equipment Term Loan with a fixed interest rate of 6.6%. As of June 30, 2024 and December 31, 2023, the outstanding balance of the Equipment Term Loans was approximately $0.7 million and $0.3 million, respectively.
+As of June 30, 2024, the outstanding balance on the Equipment Term Loans was recognized net of deferred financing costs of approximately $0.1 million. The net current outstanding debt balance of $0.3 million was recognized within Accrued Expenses and the net long-term outstanding debt balance of $0.4 million was recognized within Other long-term liabilities on the Condensed Consolidated Balance Sheets.
+As of June 30, 2024, ESS Metron was not in compliance with its EBITDA covenant of the Credit and Security Facility Agreement. However, in July 2024, an amendment to the Credit and Security Facility Agreement was executed to waive the lack of compliance as of June 30, 2024, and update the EBITDA covenant.
+Revolving Credit Facility
+In July 2024, the Company entered into a one-year $50.0 million Revolving Credit Facility. Revolving Loans borrowed by the Company under the Revolving Credit Facility carry a per annum interest rate of 1.25% plus Secured Overnight Financing Rate. Letters of Credit issued under the Revolving Credit Facility have a one-year term and incur fees of 1.25% per annum on the amount of Letters of Credit outstanding. Letters of Credit require the issuance of cash collateral by the Company equal to 105% of the Letter of Credit exposure.
+Concurrent with entry into the Revolving Facility, the Company funded the entire $50.0 million amount of the Revolving Facility as security into a control account maintained by the lender. Interest equal to 5.0% per annum is earned by the Company on the amount held in the control account.
+Note 13. Leases
+As of June 30, 2024 and December 31, 2023, operating lease right of use assets were $20.9 million and $20.4 million, respectively, and operating lease liabilities were $23.0 million and $21.3 million, respectively.
+The following table presents the components of the Company’s lease expense:
+     Three Months Ended
+     Six Months Ended
+     June 30, 
+     June 30, 
+2024
+     2023
+2024
+     2023
+Operating lease cost
+$
+1,231
+$
+951
+$
+2,429
+$
+1,855
+Variable lease cost
+  150
+  49
+  260
+  104
+Operating lease expense
+$
+1,381
+$
+1,000
+$
+2,689
+$
+1,959
+The following table presents supplemental lease information:
+Three Months Ended
+Six Months Ended
+June 30, 
+June 30, 
+     2024
+     2023
+     2024
+     2023
+Operating leases net operating cash outflows
+$
+1,007
+$
+920
+$
+1,216
+$
+1,794
+Right of use assets exchanged for new operating lease liabilities
+$
+—
+$
+—
+$
+2,118
+$
+682
+Weighted-average remaining lease term – operating leases
+  6.8
+  7.9
+  6.8
+  7.9
+Weighted-average discount rate – operating leases
+  6.8
+%  
+  6.6
+%  
+  6.8
+%  
+  6.6
+%
+17
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table represents the Company’s future minimum operating lease payments as of June 30, 2024:
+     Ground lease
+     Office and other leases
+     Total
+Remainder of 2024
+$
+999
+$
+1,157
+$
+2,156
+2025
+  2,058
+  2,442
+  4,500
+2026
+2,119
+2,073
+4,192
+2027
+  2,183
+  1,778
+  3,961
+2028
+  2,249
+  1,333
+  3,582
+Thereafter
+  7,369
+  3,294
+  10,663
+Total undiscounted lease payments
+  16,977
+  12,077
+  29,054
+Less present value discount
+  (3,938)
+  (2,117)
+  (6,055)
+Present value of lease liabilities
+$
+13,039
+$
+9,960
+$
+22,999
+ Note 14. Stockholders’ Equity
+During the six months ended June 30, 2024, approximately 4.1 million shares of common stock vested or were issued to the Company’s board of directors, officers, employees, and advisors in settlement of an equal number of fully vested restricted stock awards (“RSAs”) or restricted stock units (“RSUs”) awarded to such individuals by the Company under the Company’s 2019 Equity Incentive Plan, as amended (the “2019 Equity Incentive Plan”). The Company withheld approximately 1.0 million of these shares, with a fair value of approximately $10.8 million, to cover the withholding taxes related to the settlement of these vested RSAs and RSUs, as permitted by the 2019 Equity Incentive Plan.
+At-the-Market (“ATM”) Equity Offerings
+2023 ATM Offering
+In August 2023, the Company entered into the 2023 ATM Offering, under which it could offer and sell up to $750.0 million in shares of the Company’s common stock.
+During the six months ended June 30, 2024, the Company received net proceeds of approximately $114.9 million ($117.3 million of gross proceeds, net of $2.4 million in commissions and expenses) from the sale of 8,644,100 shares of its common stock at a weighted average fair value of $13.57 per share under its 2023 ATM Offering. With the sale and issuance of those shares, no additional shares of Common Stock will be offered or sold under the 2023 ATM Offering.
+2024 ATM Offering
+In February 2024, the Company entered into the 2024 ATM Offering, under which it could offer and sell up to $750.0 million in shares of the Company’s common stock.
+During the six months ended June 30, 2024, the Company received net proceeds of approximately $401.5 million ($409.7 million of gross proceeds, net of $8.2 million in commissions and expenses) from the sale of 34,089,733 shares of its common stock at a weighted average fair value of $12.02 per share under its 2024 ATM Offering.
+Subsequent to June 30, 2024, and through July 29, 2024, the Company received net proceeds of approximately $61.0 million from the sale of 6,556,322 shares of its common stock at a weighted average fair value of $9.49 per share under its 2024 ATM Offering.
+Note 15. Stock-Based Compensation
+The 2019 Equity Incentive Plan authorizes the granting of stock-based compensation awards to directors, officers, employees, and advisors of the Company in the form of RSAs, RSUs, or stock options, all of which settle in shares of the Company’s common stock upon vesting.
+18
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table presents the Company’s stock-based compensation expense by category:
+Three Months Ended
+Six Months Ended
+June 30, 
+June 30, 
+     2024
+     2023
+     2024
+     2023
+Performance-based stock awards and units
+$
+24,520
+$
+(5,459)
+$
+46,810
+$
+(16,349)
+Service-based stock awards and units
+7,615
+8,888
+17,325
+17,482
+Total stock-based compensation
+$
+32,135
+$
+3,429
+$
+64,135
+$
+1,133
+Stock-based compensation expense is recognized in Selling, general and administrative on the Condensed Consolidated Statements of Operations.
+Performance-Based Awards and Units
+Performance-based RSAs and RSUs and units are eligible to vest over a three-year performance period based on the Company’s total shareholder return (“TSR”) as compared to the performance of the Russell 3000 Index (the “Index TSR”).
+The following table presents a summary of the activity of the performance-based RSAs:
+Weighted Average
+Grant-Date
+Per Share
+     Number of Shares
+     Fair Value
+Balance as of January 1, 2024
+4,928,526
+$
+21.71
+Granted
+14,071,926
+$
+14.18
+Vested
+(252,380)
+$
+23.30
+Forfeited
+(3,009,344)
+$
+22.74
+Balance as of June 30, 2024
+15,738,728
+$
+14.75
+As of June 30, 2024, there was approximately $183.8 million of unrecognized compensation cost related to the performance-based RSAs, which is expected to be recognized over a remaining weighted-average vesting period of approximately 2.1 years.
+The following table presents a summary of the activity of the performance-based RSUs:
+Weighted Average
+Grant-Date
+Per Share
+     Number of Units
+     Fair Value
+Balance as of January 1, 2024
+246,426
+$
+19.59
+Granted
+1,000,000
+$
+14.18
+Vested
+—
+—
+Forfeited
+—
+—
+Balance as of June 30, 2024
+1,246,426
+$
+15.25
+As of June 30, 2024, there was approximately $14.7 million of unrecognized compensation cost related to the performance-based RSUs, which is expected to be recognized over a remaining weighted-average vesting period of approximately 2.1 years.
+19
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Service-Based Awards and Units
+Service-based RSAs and RSUs vest over one, two, and three-year service periods.
+The following table presents a summary of the activity of the service-based RSAs:
+Weighted Average
+Grant-Date
+Per Share
+     Number of Shares
+     Fair Value
+Balance as of January 1, 2024
+4,897,894
+$
+9.14
+Granted
+6,062,915
+$
+14.25
+Vested
+(3,893,761)
+$
+6.87
+Forfeited
+(6,002,654)
+$
+18.75
+Balance as of June 30, 2024
+  1,064,394
+$
+17.74
+As of June 30, 2024, there was approximately $13.6 million of unrecognized compensation cost related to the service-based RSAs, which is expected to be recognized over a remaining weighted-average vesting period of approximately 1.8 years.
+The following table presents a summary of the activity of the service-based RSUs:
+Weighted Average
+Grant-Date
+Per Share
+     Number of Units
+     Fair Value
+Balance as of January 1, 2024
+155,213
+$
+19.30
+Granted
+—
+—
+Vested
+(16,000)
+$
+15.47
+Forfeited
+—
+—
+Balance as of June 30, 2024
+  139,213
+$
+19.74
+As of June 30, 2024, there was approximately $2.3 million of unrecognized compensation cost related to the service-based RSUs, which is expected to be recognized over a remaining weighted-average vesting period of approximately 1.8 years.
+Subsequent Awards
+In July 2024, the Company granted 4.0 million performance-based RSAs and 0.5 million performance-based RSUs. The awards are eligible to vest, if at all, over a three-year performance period based on the Company’s TSR as compared to the Index TSR through December 31, 2026. The TSR awards have a vesting range of 0% to 200% of the recipient’s target award, which is calculated based on the difference between the Company’s TSR and the Index TSR over the three-year performance period, subject to the recipient’s continuous employment with the Company through the third anniversary of the award’s grant date. The awards have an aggregate grant date fair value of approximately $27.8 million.
+In July 2024, the Company granted 2.1 million service-based RSAs and 0.3 million service-based RSUs. These awards are eligible to vest in one-third annual installments over a three-year service period commencing on the award’s grant date, subject to the recipient’s continuous employment with the Company through the applicable vesting dates. The awards have an aggregate grant date fair value of $22.6 million.
+20
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 16. Fair Value Measurements
+Assets and Liabilities Measured at Fair Value on a Recurring Basis:
+The Company’s assets and liabilities measured at fair value on a recurring basis consisted of the following as of June 30, 2024, and December 31, 2023:
+Fair value measured as of June 30, 2024
+Significant
+Quoted prices in   
+Significant other
+unobservable
+Total carrying
+active markets
+observable inputs
+inputs
+     Value
+     (Level 1)
+     (Level 2)
+     (Level 3)
+Bitcoin(a)
+$
+585,054
+$
+585,054
+$
+—
+$
+—
+Marketable equity securities(b)
+$
+157,622
+$
+157,622
+$
+—
+$
+—
+Convertible note(b)
+$
+4,812
+$
+—
+$
+—
+$
+4,812
+Derivative asset(c)
+$
+151,934
+$
+—
+$
+—
+$
+151,934
+Contingent consideration liability(d)
+$
+589
+$
+—
+$
+—
+$
+589
+Fair value measured as of December 31, 2023
+Significant
+Quoted prices in   
+Significant other
+unobservable
+Total carrying
+active markets
+observable inputs
+inputs
+     Value
+     (Level 1)
+     (Level 2)
+     (Level 3)
+Bitcoin(a)
+$
+311,178
+$
+311,178
+$
+—
+$
+—
+Convertible note(b)
+$
+4,709
+$
+—
+$
+—
+$
+4,709
+Derivative asset(c)
+$
+104,218
+$
+—
+$
+—
+$
+104,218
+Contingent consideration liability(d)
+$
+909
+$
+—
+$
+—
+$
+909
+(a) See Note 5. Bitcoin.
+(b) See Note 6. Investments.
+(c) See Note 9. Power Purchase Agreement.
+(d) See Note 17. Commitments and Contingencies.
+Assets and Liabilities Not Measured at Fair Value on a Recurring Basis:
+As of June 30, 2024 and December 31, 2023, the fair values of cash and cash equivalents, accounts receivable, contract assets, prepaid expenses and other current assets, accounts payable, contract liabilities, and accrued expenses approximated their carrying values because of the short-term nature of these instruments.
+Note 17. Commitments and Contingencies
+Commitments
+Miners and mining equipment
+Through June 30, 2024, the Company paid approximately $412.9 million in total deposits and payments to MicroBT for the purchase of miners pursuant to the Master Agreement described in Note 7. Property and Equipment. The remaining commitment of approximately $148.0 million is due in installments through approximately April 2025 based on the estimated miner delivery schedule. Total payments of $97.5 million and $50.4 million are expected to be made in 2024 and 2025, respectively.
+Through June 30, 2024, the Company paid $64.3 million in total deposits and payments for the purchase of immersion cooling systems, as described in Note 7. Property and Equipment. The remaining commitment of approximately $15.4 million is due upon commissioning of the systems, expected in the third quarter of 2024.
+21
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Contingencies
+Legal Proceedings
+The Company, and our subsidiaries, are subject at times to various claims, lawsuits and governmental proceedings relating to our business and transactions arising in the ordinary course of business. We cannot predict the final outcome of such proceedings. Where appropriate, we vigorously defend such claims, lawsuits and proceedings. Some of these claims, lawsuits and proceedings seek damages, including, direct, consequential, exemplary, and/or punitive damages, in amounts that could, if awarded, be significant. Certain of the claims, lawsuits and proceedings arising in ordinary course of business are covered by our insurance program. We maintain property, and various types of liability insurance in an effort to protect ourselves from such claims. In terms of any matters where there is no insurance coverage available to us, or where coverage is available and we maintain a retention or deductible associated with such insurance, we may establish an accrual for such loss, retention or deductible based on current available information. In accordance with accounting guidance, if it is probable that an asset has been impaired or a liability has been incurred as of the date of the financial statements, and the amount of loss is reasonably estimable, then an accrual for the cost to resolve or settle these claims is recorded by us on the Condensed Consolidated Balance Sheets. If it is reasonably possible that an asset may be impaired as of the date of the financial statement, then we disclose the range of possible loss. Paid expenses related to the defense of such claims are recorded by us as incurred and paid. Management, with the assistance of outside counsel, may from time to time adjust such accruals according to new developments in the matter, court rulings, or changes in the strategy affecting our defense of such matters. On the basis of current information, we do not believe there is a reasonable possibility that any material loss, if any, will result from any claims, lawsuits and proceedings to which we are subject to either individually, or in the aggregate.
+Green Revolution Cooling Patent Dispute
+On March 22, 2024, Green Revolution Cooling, Inc. (“GRC”) sued the Company in Case No. 6:24-CV-152 in the Western District of Texas for patent infringement. More specifically, GRC has alleged that the immersion cooling systems provided to the Company by Midas Immersion Cooling, LLC (“Midas”) infringe GRC’s U.S. Patent Nos. 9,992,914 (the ‘’914 Patent”) and 10,123,463 (the “’463 Patent”). In the complaint, GRC seeks unspecified damages and an injunction against all products that allegedly infringe the ’914 and ’463 Patents (or in lieu of an injunction, an award of a compulsory forward royalty). The Company has engaged counsel and is working with Midas to evaluate and defend the Company from this infringement claim. While a preliminary investigation of GRC’s claims is underway, the Company cannot reasonably predict the outcome of such ongoing litigation, or the magnitude of such outcome, at this time.
+Northern Data Working Capital Disputes 
+On September 7, 2022, the Company filed a complaint against Northern Data AG (“Northern Data”) in the Delaware Court of Chancery (Case No. C.A. No. 2022-0792-LWW) disputing the purchase price of Whinstone and seeking declaratory relief and specific performance of the stock purchase agreement. On March 31, 2023, the parties filed a stipulation agreeing to dismiss all claims without prejudice and to submit the dispute for final determination to an independent accountant. The Company placed approximately $29.5 million in escrow pending the final determination of the independent accountant, and, on June 9, 2023, the independent accountant rendered a written final determination finding in favor of the Company on disputed issues totaling approximately $27.1 million. Accordingly, approximately $27.1 million of the escrowed amount was released from escrow and distributed to the Company on June 13, 2023, with the remaining approximately $2.4 million held in escrow allocated to Northern Data. As a result, the Company recognized a Deferred gain on acquisition post-close dispute settlement of $26.0 million on the Condensed Consolidated Balance Sheets.
+Following the final determination, Northern Data filed a complaint against the Company in the Delaware Court of Chancery (the “Chancery Court”) on June 23, 2023 (Case No. C.A. No. 2023-0650-LWW) challenging the independent accountant’s written final determination and seeking to re-litigate the purchase price adjustment process. The Company contests the legal and factual basis of Northern Data’s claims and filed a motion to dismiss the complaint on July 17, 2023, which the Chancery Court heard on February 13, 2024. The Chancery Court denied the motion to dismiss on May 17, 2024, at which time the court advised the parties that summary judgment briefing after focused discovery may be a worthwhile endeavor. Under the parties’ current schedule, discovery is ongoing and motions for summary judgment may be filed later this year. While the Company intends to vigorously oppose such complaint, the Company cannot accurately predict the outcome of the ongoing litigation, estimate the magnitude of such outcome, or forecast when such litigation will be resolved, due to its early stage.
+22
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Legacy Hosting Customer Disputes 
+ Rhodium 
+ On May 2, 2023, Whinstone US, Inc. (“Whinstone”) filed a petition against Rhodium 30MW, LLC (“Rhodium 30MW”), Rhodium JV, LLC (“Rhodium JV”), Air HPC LLC (“Air HPC”), and Jordan HPC, LLC (“Jordan HPC” and, together with Rhodium 30MW, Rhodium JV, and Air HPC, collectively, the “Defendants”) in Case No. CV41873 in the 20th District Court (the “District Court”) of Milam County, Texas. In its amended petition filed May 3, 2023, Whinstone asserted breach of contract claims for Rhodium JV and Air HPC’s failure to pay certain hosting and service fees under the now-terminated Whinstone-Rhodium hosting agreements and sought a declaration regarding the rights and obligations under certain hosting agreements with the Defendants and that no power credits are owed to any Rhodium entity under any agreement. Whinstone sought recovery of more than $26 million, plus reasonable attorneys’ fees and costs, expenses, and pre- and post-judgment interest. On June 12, 2023, Defendants answered and, along with non-parties Rhodium Encore LLC, Rhodium 2.0 LLC, and Rhodium 10mw LLC (collectively, the “Rhodium Non-Parties” and, together with Defendants, collectively, “Rhodium”), filed contingent counterclaims for breach of contract and moved to compel arbitration for alleged unpaid energy sale credits and lost profits. On August 14, 2023, Whinstone filed a second amended petition to include a declaration regarding the rights and obligation under the now-terminated water agreement between Whinstone and various Rhodium entities.
+On September 13, 2023, the District Court compelled Whinstone’s claims against Defendants to arbitration over Whinstone’s objection and stayed the lawsuit pending such arbitration.
+On December 11, 2023, Rhodium submitted an arbitration demand to the American Arbitration Association (“AAA”), seeking damages and specific performance of unspecified contracts. Rhodium amended its demand on June 4, 2024 to include additional claims and disclosed it seeks at least $67 million in damages. Whinstone does not believe Rhodium’s claims have any merit, and will vigorously contest such claims, as appropriate. Whinstone also objects to the AAA’s jurisdiction and authority to entertain the claims and decide any issues of arbitrability. Subject to those objections, Whinstone submitted counterclaims to the AAA on December 29, 2023 against Rhodium JV and Air HPC for breach of contract, seeking recovery of at least $20 million in past-due revenue share payments, plus reasonable attorneys’ fees and costs, expenses, and pre- and post-judgment interest. A permanent arbitrator has been appointed, and a final hearing has been set for January 20, 2025. Because this litigation is still at this early stage, the Company cannot reasonably predict the outcome of such ongoing proceedings, or the magnitude of such an outcome, at this time.
+SBI Crypto Co. 
+ On April 5, 2023, SBI Crypto Co., Ltd. (“SBI”) filed a complaint in the United States District Court for the Western District of Texas (Case No. 6:23-cv-252), which it later amended, against Whinstone alleging breach of contract, fraud, and negligent bailment claims related to a colocation services agreement between Whinstone and SBI that was terminated in 2021. On July 21, 2023, Whinstone filed a motion to dismiss the amended complaint, which was denied on October 25, 2023. SBI seeks recovery of at least $15.0 million in lost profits and at least $16.0 million for equipment damage, plus reasonable attorneys’ fees and costs, expenses, costs, and pre- and post-judgment interest. Whinstone believes many of the claims are barred or waived, and that all of SBI’s claims substantively lack merit, and Whinstone plans to vigorously contest the same, as appropriate. While a preliminary investigation of the merits of SBI’s claims has commenced, because this litigation is still at this early stage, the Company cannot reasonably estimate the outcome of such ongoing litigation, or the magnitude of such an outcome, at this time.
+ GMO 
+On June 13, 2022, GMO Gamecenter USA, Inc. and its parent, GMO Internet, Inc., (collectively “GMO”) filed a complaint against Whinstone alleging breach of contract under a terminated colocation services agreement between GMO and Whinstone, seeking damages in excess of $150.0 million for lost profit and profit sharing payments GMO alleges it was owed from Whinstone. The case is pending in the United States District Court for the Southern District of New York (Case No. 1:22-cv-05974-JPC). Whinstone has responded to GMO’s claims and raised counterclaims of its own, alleging GMO itself breached the terminated colocation services agreement, seeking a declaratory judgment and damages in excess of $25.0 million. On October 19, 2023, GMO filed its fourth amended complaint claiming an additional $496.0 million in damages, for loss of future profits and future profit sharing payments GMO alleges would have been received through the term of the agreement, based on Whinstone’s allegedly wrongful termination of the colocation services agreement as of June 29, 2023. While the Company believes that GMO’s claims lack merit, because this
+23
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+litigation is still at this early stage, the Company cannot reasonably estimate the outcome of such ongoing litigation, or the magnitude of such an outcome, at this time.
+Note 18. Earnings Per Share
+The following table presents potentially dilutive securities that were not included in the computation of diluted net income (loss) per share as their inclusion would have been anti-dilutive:
+     June 30, 2024
+     June 30, 2023
+Warrants to purchase common stock
+  63,000
+  63,000
+Unvested RSAs
+16,803,122
+5,540,298
+Unvested RSUs
+  1,385,639
+  —
+Total
+  18,251,761
+  5,603,298
+Note 19. Segment Information
+The Company has two reportable segments: Bitcoin Mining and Engineering. The reportable segments are identified based on the types of service performed. No operating segments have been aggregated to form the reportable segments.
+Gross profit (loss) is the segment performance measure the CODM uses to assess the Company’s reportable segments. Segment gross profit (loss) is defined as segment revenue less segment cost of revenue, and is before elimination of intersegment profits.
+Prior to 2024, the Company had a Data Center Hosting reportable segment, but has since terminated all contracts with its Data Center Hosting customers. Commencing with the three months ended March 31, 2024, the CODM ceased analyzing the performance of the Data Center Hosting operations and the Company ceased reporting Data Center Hosting as a separate reportable business segment. The Company has no plans to offer data center hosting services to new customers. All residual revenue and costs of revenue related to Data Center Hosting incurred during the three and six months ended June 30, 2024, are included in Revenue: Other and Cost of Revenue: Other. Prior period amounts related to Data Center Hosting have been recast into Revenue: Other and Cost of Revenue: Other.
+The Company does not allocate assets to the reporting segments because its assets are managed on an entity-wide basis and, therefore, does not separately disclose the total assets of its reportable operating segments.
+The Bitcoin Mining segment generates revenue from the Bitcoin the Company earns through its Bitcoin mining activities. The Engineering segment generates revenue through customer contracts for custom engineered electrical products. All Revenue: Other revenue is from external customers.
+All revenue and cost of revenue from intersegment transactions have been eliminated in the Condensed Consolidated Statements of Operations.
+During the three and six months ended June 30, 2024, and 2023, aside from the Bitcoin Mining revenue generated as a result of the Company’s participation in a mining pool, no single customer or related group of customers contributed 10% or more of the Company’s total consolidated revenue.
+24
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following tables present segment revenue and segment gross profit (loss):
+Three Months Ended June 30, 2024
+Bitcoin Mining
+Engineering
+Other
+Total
+Revenue from external customers
+$
+55,764
+$
+9,627
+$
+4,627
+$
+70,018
+Intersegment revenue
+—
+2,755
+37,665
+40,420
+Segment revenue
+55,764
+12,382
+42,292
+110,438
+Less: Segment cost of revenue
+(72,940)
+(10,281)
+(10,105)
+(93,326)
+Segment gross profit (loss)
+$
+(17,176)
+$
+2,101
+$
+32,187
+$
+17,112
+Three Months Ended June 30, 2023
+Bitcoin Mining
+Engineering
+Other
+Total
+Revenue from external customers
+$
+49,742
+$
+19,312
+$
+7,685
+$
+76,739
+Intersegment revenue
+—
+871
+31,726
+32,597
+Segment revenue
+49,742
+20,183
+39,411
+109,336
+Less: Segment cost of revenue
+(33,482)
+(18,932)
+(44,026)
+(96,440)
+Segment gross profit (loss)
+$
+16,260
+$
+1,251
+$
+(4,615)
+$
+12,896
+Six Months Ended June 30, 2024
+Bitcoin Mining
+Engineering
+Other
+Total
+Revenue from external customers
+$
+127,160
+$
+14,302
+$
+7,852
+$
+149,314
+Intersegment revenue
+—
+3,440
+78,457
+81,897
+Segment revenue
+127,160
+17,742
+86,309
+231,211
+Less: Segment cost of revenue
+(150,281)
+(16,840)
+(14,640)
+(181,761)
+Segment gross profit (loss)
+$
+(23,121)
+$
+902
+$
+71,669
+$
+49,450
+Six Months Ended June 30, 2023
+Bitcoin Mining
+Engineering
+Other
+Total
+Revenue from external customers
+$
+97,765
+$
+35,459
+$
+16,751
+$
+149,975
+Intersegment revenue
+—
+6,080
+59,680
+65,760
+Segment revenue
+97,765
+41,539
+76,431
+215,735
+Less: Segment cost of revenue
+(62,173)
+(37,818)
+(90,847)
+(190,838)
+Segment gross profit (loss)
+$
+35,592
+$
+3,721
+$
+(14,416)
+$
+24,897
+25
+Table of Contents
+Riot Platforms, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table presents the reconciliation of segment gross profit (loss) to net income (loss) before taxes:
+Three Months Ended June 30, 
+Six Months Ended June 30, 
+     2024
+     2023
+     2024
+     2023
+Segment gross profit (loss)
+$
+17,112
+$
+12,896
+$
+49,450
+$
+24,897
+Reconciling Items:
+                    Elimination of intersegment profits
+  (735)
+  (120)
+  (879)
+  (2,007)
+Selling, general, and administrative
+  (61,189)
+  (19,836)
+  (118,841)
+  (32,511)
+Depreciation and amortization
+  (37,326)
+  (66,162)
+  (69,669)
+  (125,502)
+Change in fair value of Bitcoin
+(76,403)
+14,490
+157,677
+97,994
+Change in fair value of derivative asset
+  27,484
+  13,109
+  47,716
+  7,331
+Power curtailment credits
+13,897
+13,470
+19,028
+16,545
+(Loss) gain on sale/exchange of equipment
+(68)
+(30)
+(68)
+(30)
+Casualty-related (charges) recoveries, net
+  187
+  —
+  2,487
+  (1,526)
+Interest income (expense)
+  8,152
+  4,843
+  15,957
+  1,013
+Unrealized gain on marketable equity securities
+  24,462
+  —
+  24,462
+  —
+Other income (expense)
+  33
+  65
+  41
+  65
+Net income (loss) before taxes
+$
+(84,394)
+$
+(27,275)
+$
+127,361
+$
+(13,731)
+26
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (this “MD&A”) should be read in conjunction with our Condensed Consolidated Financial Statements and the related notes (the “Notes”) and other financial information included elsewhere in this Quarterly Report and with our audited consolidated financial statements for the year ended December 31, 2023, as included in our 2023 Annual Report.
+This MD&A contains statements of management’s beliefs, expectations and assumptions regarding our future business, and any statements other than statements of historical fact are “forward-looking statements” within the meaning of the PSLRA, which are made in reliance of the safe harbor provisions of Section 27A of the Securities Act, Section 21E of the Exchange Act, and the PSLRA. Such statements express management’s beliefs, opinions, projections and expectations regarding future events and circumstances, based on information available to management as of the date of this Quarterly Report, and are subject to risks and uncertainties, and our actual results could differ materially from those discussed in these forward-looking statements. Further, these forward-looking statements should not be construed either as assurances of performance or as promises of a given course of action. You should review the sections of this Quarterly Report entitled “Cautionary Note Regarding Forward-Looking Statements” and “Risk Factors” for a discussion of factors that could cause actual results to differ materially – and potentially adversely – from the results described in or implied by the forward-looking statements contained in this MD&A and elsewhere in this Quarterly Report.
+Unless otherwise indicated, amounts are stated in thousands of U.S. Dollars except for: share, per share, and miner amounts; Bitcoin quantities, prices, and hash rate; cost to mine one Bitcoin; and production value of one Bitcoin mined.
+Business Overview:
+We are a vertically-integrated Bitcoin mining company principally engaged in enhancing our capabilities to mine Bitcoin in support of the Bitcoin blockchain. Our Rockdale Facility is believed to be the largest Bitcoin mining facility in North America, as measured by developed capacity, and we are currently evaluating further growing its capacity. Additionally, we are developing the Corsicana Facility, a second large-scale Bitcoin mining facility, which, upon completion, is expected to have approximately 1.0 GW of capacity available for our own Bitcoin Mining activities.
+We operate in an environment which is constantly evolving based on the proliferation of Bitcoin and cryptocurrencies in general. A significant component of our strategy is to effectively and efficiently allocate capital between opportunities that generate the highest return on investment.
+Industry Trends
+The price of Bitcoin increased during the first quarter of 2024 due to a new source of demand, the eleven Bitcoin spot Exchange Traded Funds (“ETFs”) approved to begin trading by the SEC on January 11, 2024. Significant interest in the Bitcoin ETFs followed their introduction. One such ETF earned recognition as the fastest ETF ever to surpass $10 billion in assets under management since its launch. The ETFs, as an investment vehicle, provided a new access point for investors to gain exposure to Bitcoin through more traditional methods resulting in Bitcoin ETFs seeing a combined net inflow of approximately $33.1 billion through June 30, 2024.
+During 2023 and the first half of 2024, the Bitcoin mining industry saw record growth as the price of Bitcoin increased from the lows experienced in early 2023. A renewed opportunity to access capital markets to fund growth partly from a growing Bitcoin price led to an unprecedent expansion in mining operations as the size of provisioned hash calculation services on the network, as measured by total hash rate, more than doubled. Many Bitcoin mining companies heavily invested in infrastructure, as well as upgrading and expanding mining fleets in advance of the Bitcoin network halving. We expect competition within the mining industry to continue as long as Bitcoin prices remain elevated or increase further.
+The Bitcoin mining industry recently experienced an increase in transaction fees on the Bitcoin network, as well as an increase in overall demand in Bitcoin. Various protocols on the Bitcoin network gained popularity during 2023, and at various times temporarily resulted in a significant increase in the transaction fee paid to add a certain Bitcoin transaction to the blockchain. These transaction fees are volatile in nature, but are paid directly to miners and are representative of interest in transacting in Bitcoin. Transaction fees are packaged with the block subsidy issued by the Bitcoin network to combine for the total reward paid to miners upon solving a block.
+The Bitcoin subsidy issued by the Bitcoin network for solving a block is subject to periodic incremental halving. The network halving is a preprogrammed, fixed process of the Bitcoin network where the Bitcoin subsidy for solving a block received by miners is reduced
+27
+Table of Contents
+by half approximately every four years. The network halving is a process designed to implement a periodic decreasing schedule of the issuance of new Bitcoin into the market which results in a predictable and controlled inflationary rate. The network halving will continue to occur on this schedule until the amount of Bitcoin in existence reaches the cap of 21.0 million. Historically, many Bitcoin miners have been a source of selling pressure on Bitcoin as miners have sold their production to fund operations. After each halving, the decrease in the subsidy provided to miners from the Bitcoin network may lead to fewer rewards for miners and thus may result in a decrease in the supply of bitcoin sold by miners into the market. The network halving occurred in April 2024, cutting the subsidy from 6.25 to 3.125 Bitcoin per block.
+Prior to the halving event, shifts in strategy by prominent Bitcoin miners focused on implementing vertically-integrated business models whereby Bitcoin miners own and operate their own facilities rather than renting out space from a third-party’s data center. Vertical integration provides additional control over operational outcomes as well as better management of any input costs such as power and overhead fees. Flexibility, and the ability to manage expenses, becomes increasingly important as the amount of competition on the Bitcoin network expands and the subsidy in Bitcoin provided by the network contracts decreases.
+Network difficulty, which is a measure of how hard it is for miners to solve a block on the Bitcoin blockchain (and, thus, earn a mining reward), is determined by the network’s total hash rate (i.e., the total computational power devoted to solving a block), which is adjusted every 2,016 blocks (with a new block being added approximately every ten minutes). Therefore, as more miners join the network and the network’s global hash rate increases, its difficulty will increase. Conversely, if miners leave the network and its hash rate decreases, its difficulty will decrease. We have observed that when the market price for Bitcoin experiences a sustained increase (as it did across 2023), new miners are introduced onto the Bitcoin network, increasing its network hash rate, and network difficulty has increased as a result. Thus, despite increasing our hash rate by approximately 105.6% from June 30, 2023, to 2024, the halving in April 2024, and increased network difficulty following increased network hash rate across the periods result in a decrease in the number of Bitcoin we mined of approximately 43.2%, when comparing the six months ended June 30, 2024, to the same period in 2023.    
+Accordingly, as market prices for Bitcoin increase and more miners and hash rate are drawn onto the Bitcoin network, network difficulty will continue to increase, meaning existing miners like us will need to increase their hash rate to maintain and improve their chances of earning a Bitcoin mining reward. To do this, we continually seek out new Bitcoin mining capacity, including through our acquisition and development of new Bitcoin mining facilities (such as the Corsicana Facility) and the electricity supply and distribution facilities to service them, as well as other strategic growth opportunities. Further, we have adopted new and improved technology to increase both our mining power and efficiency, including our industrial-scale adoption of immersion cooling and our strategic acquisitions of large quantities of the newest, most powerful and most efficient miners available.
+On July 23, 2024, we completed a transaction to acquire Block Mining, a Kentucky-based vertically-integrated Bitcoin miner consisting of two operational sites, both in Kentucky, totaling 60 MW of operational capacity with potential to expand up to 155 MW. We intend to expand Block Mining’s two sites, targeting 110 MW for self-mining operations by the end of 2024. Additionally, Block Mining owns a greenfield expansion opportunity, adjacent to an existing substation, presenting an opportunity to develop 60 MW and with potential to expand to 150 MW. Block Mining is a capital efficient developer and operator of Bitcoin mining facilities that will add to our ability to execute our leading vertically-integrated strategy. 
+The Company has led the industry by focusing on a vertically-integrated business model since 2021. We continue to focus on building long-term stockholder value by taking strategic actions to further vertically-integrate our business at the current Rockdale Facility and developing Corsicana Facility. Management believes a focus on vertical integration will positively affect each of our business segments by providing increased capacity for our Bitcoin Mining operations, more opportunity for implementing our proprietary power strategy, and by capitalizing on supply chain efficiencies garnered through our Engineering segment. We continue to focus on deploying our efficient Bitcoin mining fleet, at scale, while realizing the benefits of being an owner and operator of our Bitcoin Mining facilities.
+We anticipate the Bitcoin network will continue to see increased competition and that 2024 will be a period of consolidation in the Bitcoin mining industry. Further, given our relative position, liquidity, and absence of any significant long-term debt, we believe we are well positioned to benefit from such consolidation. We are continuously evaluating opportunities which we may decide to undertake as part of our strategic growth initiatives; however, we can offer no assurances that any strategic opportunities which we decide to undertake will be achieved on the schedule or within the budget we anticipate, if at all, and our business and financial results may change significantly as a result of such strategic growth.
+28
+Table of Contents
+Bitcoin Mining
+We own and operate one of the largest Bitcoin Mining operations in North America. During the six months ended June 30, 2024, we continued to deploy miners at our Rockdale Facility, and continued development activities and commencement of deployment of miners at the Corsicana Facility, with the objective of increasing our operational efficiency and performance in the future.
+As of June 30, 2024, our Bitcoin Mining business segment had a total deployed hash rate capacity of approximately 22.0 EH/s, as compared to 12.4 EH/s as of December 31, 2023, and 10.7 EH/s as of June 30, 2023, resulting in increases of 77.4% and 105.6%, respectively. We anticipate achieving a total self-mining hash rate capacity of approximately 36.3 EH/s by the end of 2024.
+During the six months ended June 30, 2024, we mined 2,208 Bitcoin, which represented a decrease of 1,682 Bitcoin from the 3,890 Bitcoin we mined during the six months ended June 30, 2023. The decrease was primarily due to the increase in the Bitcoin network difficulty, which has more than doubled since January 2023, and the halving that occurred in April 2024, partially offset by higher Bitcoin prices and our increase in deployed hash rate.
+Our Bitcoin is held in cold storage wallets by a well-known U.S.-based third-party digital asset-focused custodian. The cold storage wallets in which our Bitcoin is held are all located in the United States. Our custodian and brokerage services relationships are non-exclusive, and we may freely change our Bitcoin custodian and brokerage relationships at any time. We continually monitor our Bitcoin assets held by third-party custodians, and we have unlimited audit rights with respect to such custodial accounts. The Company performs monthly reconciliations of our Bitcoin assets held by our custodian(s) and the records of our mining pool, and our independent auditors verify the location and quantity of our Bitcoin assets annually, as part of the year-end audit process of our financial statements and internal controls over financial reporting.
+The following table presents our cost to mine one Bitcoin:
+Six Months Ended
+June 30, 
+     2024
+     2023
+Cost of power for self-mining operations
+$
+ 54,463
+$
+ 43,053
+Other direct cost of revenue for self-mining operations(1)
+   17,361
+   2,493
+Cost of revenue for self-mining operations
+   71,824
+   45,546
+Less: power curtailment credits
+   (19,028)
+   (16,545)
+Cost of revenue for self-mining operations, net of power curtailment credits
+$
+ 52,796
+$
+ 29,001
+          Quantity of Bitcoin mined
+   2,208
+   3,890
+Cost to mine one Bitcoin (2)(3)
+$
+ 23,911
+$
+ 7,455
+Production value of one Bitcoin mined(4)
+$
+ 57,591
+$
+ 25,132
+Cost to mine one Bitcoin as a % of production value of one Bitcoin mined
+  41.5
+%  
+  29.7
+%  
+(1) Other direct cost of revenue includes compensation, insurance, repairs, and ground lease rent and related property tax.
+(2) Costs to finance the purchase of miners were zero in all periods presented as the miners were paid for with cash from the Company’s cash balance. The seller did not provide any financing nor did the Company borrow from a third-party to purchase the miners.
+(3) The Cost to mine one Bitcoin is computed by dividing the Self-mining operations cost of revenue, net of power curtailment credits by the Quantity of Bitcoin mined. Consistent with “Cost of revenue” in our Condensed Consolidated Statements of Operations, “Cost to mine one Bitcoin” excludes depreciation expense. Including depreciation expense related to our miners, the Cost to mine one Bitcoin would increase by $22,109 and $27,997, for six months ended June 30, 2024 and 2023, respectively. Therefore, for all Bitcoin mined, our total Cost to mine including miner-related depreciation expense was $45.6 million and $34.5 million, for the six months ended June 30, 2024 and 2023, respectively.
+(4) Computed as revenue recognized from Bitcoin mined divided by the quantity of Bitcoin mined during the same period.
+During 2023, we entered into two purchase orders under the Master Agreement to acquire new immersion miners from MicroBT with a total hash rate of 25.6 EH/s, for a total purchase price of approximately $453.4 million, subject to downward price adjustment
+29
+Table of Contents
+as provided by the Master Agreement. These new miners are primarily for use at our new Corsicana Facility, which commenced operations in April 2024. Delivery of these miners began in 2023, with all miners expected to be received and deployed by mid-2025. The Master Agreement also provides us with four annual options to purchase additional miners, on the same or better terms as the second purchase order executed under the Master Agreement, for a total hash rate of approximately 75.0 EH/s, assuming exercise of all four annual purchase options.
+During the six months ended June 30, 2024, we executed an additional purchase order with MicroBT under the Master Agreement to acquire new air-cooled miners with a total hash rate of 5.9 EH/s, for a total purchase price of approximately $96.7 million. This purchase order is in addition to the four purchase options remaining under the Master Agreement. We plan to deploy these miners primarily at the Rockdale Facility, both to replace existing underperforming miners and to fill excess capacity available in the facility. Delivery of these miners is expected to occur in the third quarter of 2024, with deployment commencing upon delivery.
+For the six months ended June 30, 2024, Bitcoin Mining revenue was approximately $127.2 million.
+Data Center Hosting
+In 2023, we made the decision to stop pursuing new hosting contracts and end our legacy contracts, to focus on our self-mining efforts. During the six months ended June 30, 2024, all agreements with Data Center Hosting customers were terminated, and we have no plans to offer data center hosting services to new customers. For the three and six months ended June 30, 2024, we will no longer report Data Center Hosting as a separate reportable segment.
+Engineering
+Our Engineering business segment designs and manufacturers power distribution equipment and custom engineered electrical products that provide us with the ability to vertically-integrate many of the critical electrical components and engineering services necessary for our Corsicana Facility development and Rockdale Facility expansions and to reduce our execution and counter-party risk in ongoing and future expansion projects. Engineering and other specialized talent employed in our Engineering business segment also allows us to continue to explore new methods to optimize and develop a best-in-class Bitcoin Mining operation and has been instrumental in the development of our industrial-scale immersion-cooled Bitcoin mining hardware.
+Our Engineering business segment also provides electricity distribution product design, manufacturing, and installation services primarily focused on large-scale commercial and governmental customers and serves a broad scope of clients across a wide range of markets including data center, power generation, utility, water, industrial, and alternative energy. Products are custom built to client and industry specifications.
+Engineering revenue is derived from the sale of custom products built to customers’ specifications under fixed-price contracts with one identified performance obligation. Engineering revenue is recognized over time as performance creates or enhances an asset with no alternative use, and for which we have an enforceable right to receive compensation as defined under the contract.
+For the six months ended June 30, 2024, Engineering revenue was approximately $14.3 million.
+Global Logistics
+Global supply logistics have caused delays across all channels of distribution. We have also experienced delays in our Engineering segment’s manufacturing and delivery schedule, and in our infrastructure development schedules, resulting from constraints on the globalized supply chains for miners, electricity distribution equipment and construction materials. Through the date of this Quarterly Report, we have been able to effectively and efficiently mitigate delivery delays to avoid materially impacting our miner deployment schedule; however, we cannot guarantee that we will be able to continue to mitigate any such delivery delays in the future.
+Additionally, the development of our new Corsicana Facility requires large quantities of construction materials, specialized electricity distribution equipment, and other component parts that are in high demand and can be difficult to source. To help mitigate the impacts of global supply chain constraints and increasing demand for these goods, including any inflationary pricing concerns that may result, we procured all the required components and materials for development of the first 400 MW phase of the Corsicana Facility, and we have procured and already hold many of the components and materials required for development of the next 600 MW phase of our development of the Corsicana Facility, as well as replacement components and parts for our existing systems, to help shorten the impact of potential damage to installed equipment.
+30
+Table of Contents
+We continue to monitor developments in the global supply chain and assess their potential impact on our expansion plans.
+Summary of Riot’s Bitcoin Mining Results
+The following tables present additional information about our own Bitcoin Mining activities, including Bitcoin production and sales of the Bitcoin mined:
+Quantity
+Amounts
+Balance as of January 1, 2024
+   7,362
+$
+ 311,178
+Revenue recognized from Bitcoin mined
+   2,208
+   127,160
+Change in Bitcoin receivable
+   10
+   249
+Proceeds from sale of Bitcoin
+   (212)
+   (9,518)
+Exchange of Bitcoin for employee compensation
+   (34)
+   (1,692)
+Change in fair value of Bitcoin
+   —
+   157,677
+Balance as of June 30, 2024
+   9,334
+$
+ 585,054
+Quantity
+Amounts
+Balance as of January 1, 2023
+   6,974
+$
+ 115,415
+Revenue recognized from Bitcoin mined
+   3,890
+   97,765
+Proceeds from sale of Bitcoin
+   (3,575)
+   (89,162)
+Exchange of Bitcoin for employee compensation
+   (24)
+   (585)
+Change in fair value of Bitcoin
+   —
+   97,994
+Balance as of June 30, 2023
+   7,265
+$
+ 221,427
+Results of Operations
+Comparative Results for the three months ended June 30, 2024, and 2023:
+Revenue
+Total revenue for the three months ended June 30, 2024 and 2023, was $70.0 million and $76.7 million, respectively. Total revenue consists of our Bitcoin Mining revenue, Engineering revenue, and Other revenue. Other revenue consists almost entirely of residual activity related to our ceased Data Center Hosting segment.
+For the three months ended June 30, 2024 and 2023, Bitcoin Mining revenue was $55.8 million and $49.7 million, respectively. The increase of $6.1 million was primarily due to higher Bitcoin prices in the 2024 period, which averaged $66,071 per coin, as compared to $28,022 per coin for the 2023 period, partially offset by a decrease of 931 Bitcoin mined in the 2024 period as compared to the 2023 period, primarily due to the substantial increase in the Bitcoin network difficulty and the April 2024 halving. Additionally, we continued employing our power strategy to significantly reduce overall power costs. As noted below, during the three months ended June 30, 2024 and 2023, we earned $13.9 million and $13.5 million, respectively, in power credits, which were received in cash or credited against our power invoices, as a result of temporarily pausing our Bitcoin Mining operations.
+For the three months ended June 30, 2024 and 2023, Engineering revenue was $9.6 million and $19.3 million, respectively. The decrease of $9.7 million was primarily attributable to supply chain constraints resulting in decreased receipts of materials, delaying the completion of certain custom products, and, therefore, the recognition of revenue. Our custom electrical products such as switchgear and power distribution centers are used as important components in data center development and in power generation and distribution facilities, and there has been increased demand for these products due to the continued increase in data center construction by developers, as well as the continually increasing worldwide demand for power.
+Costs and expenses
+Cost of revenue for Bitcoin Mining for the three months ended June 30, 2024 and 2023, was $35.3 million and $23.6 million, respectively, an increase of approximately $11.6 million. As a percentage of Bitcoin Mining revenue, Bitcoin Mining cost of revenue was 63.2% and 47.6% for the three months ended June 30, 2024 and 2023, respectively. Cost of revenue for Bitcoin Mining consists primarily of direct production costs of Bitcoin mining operations, including electricity, labor, and insurance, but excluding depreciation and amortization, which are separately stated. The increase was primarily due to the increase in Bitcoin mining capacity at the Rockdale Facility and commencement of Bitcoin mining activities at the Corsicana Facility, both of which require additional
+31
+Table of Contents
+headcount and direct costs necessary to maintain and support our expanded Bitcoin mining operations, as well as the absorption of other costs previously included in our Data Center Hosting segment. As noted below, during the three months ended June 30, 2024 and 2023, we earned $13.9 million and $13.5 million, respectively, in power credits to be credited against our power invoices, as a result of temporarily pausing our operations to participate in ERCOT’s Demand Response Service Programs. Our fixed-price power purchase contracts enable us to strategically curtail our mining operations and participate in these programs, which significantly lower our cost to mine Bitcoin. These credits are recognized in Power curtailment credits on our Condensed Consolidated Statements of Operations, outside of cost of revenue, but significantly reduce our overall cost to mine Bitcoin.
+For the three months ended June 30, 2024, Cost of revenue for Bitcoin Mining consisted of the following:
+Power
+$
+ 26,465
+Compensation
+ 2,821
+Insurance on miners
+ 1,639
+Ground rent and related water and property tax
+ 1,274
+Other(1)
+ 3,076
+Total Bitcoin Mining cost of revenue
+$
+ 35,275
+(1) All amounts included within Other are individually insignificant.
+Cost of revenue for Engineering for the three months ended June 30, 2024 and 2023, was $8.3 million and $18.2 million, respectively, a decrease of approximately $9.9 million. The costs consisted primarily of direct materials and labor, as well as indirect manufacturing costs. Consistent with the causes of decreased Engineering revenue noted above, the decrease was primarily due to decreased receipts of materials resulting from increased competition for direct materials arising from supply chain constraints.
+Selling, general and administrative expenses for the three months ended June 30, 2024 and 2023, were $61.2 million and $19.8 million, respectively, an increase of approximately $41.4 million. Selling, general and administrative expenses consist of stock-based compensation, legal and professional fees, and other personnel and related costs. The increase was primarily due to increases in stock compensation expenses of $28.7 million, which was primarily due to new grants under our long-term incentive program that was implemented in July 2023, compensation expenses of $3.7 million as a result of hiring additional employees to support our ongoing growth, increased legal and professional fees of $3.1 million primarily related to ongoing litigation and public company compliance, and $5.7 million for other costs primarily attributable to ongoing growth.
+Depreciation and amortization for the three months ended June 30, 2024 and 2023, was $37.3 million and $66.2 million, respectively, a decrease of approximately $28.8 million. The decrease was primarily due to the change in the estimated lives of our Bitcoin miners from 2 years to 3 years.
+The change in fair value of Bitcoin for the three months ended June 30, 2024 and 2023, were losses of $76.4 million and gains of $14.5 million, respectively, and were recognized to adjust the fair value of our Bitcoin held at the end of each period.  
+The change in fair value of our derivative asset for the three months ended June 30, 2024 and 2023, were gains of $27.5 million and $13.1 million, respectively, and was recorded to adjust the fair value of our PPA, which was classified as a derivative asset and measured at fair value. The changes in fair value were due to changes in future power prices over the applicable period.
+Power curtailment credits for the three months ended June 30, 2024 and 2023, were $13.9 million and $13.5 million, respectively, and represent sales of unused power under our PPA and participation in ancillary services under ERCOT Demand Response Services Programs. The amount of these credits varies from period to period depending on various factors impacting the supply of power to, and the demand for power on, the ERCOT grid, such as weather and global fuel costs.
+Other income (expense)
+For the three months ended June 30, 2024 and 2023, total other income (expense) was $32.6 million and $4.9 million, respectively. The increase in other income recognized during the three months ended June 30, 2024, was primarily attributable to unrealized gains on marketable securities of $24.5 million, and higher interest income earned as a result of higher cash balances and increased interest rates.
+32
+Table of Contents
+Comparative Results for the six months ended June 30, 2024, and 2023:
+Revenue
+Total revenue for the six months ended June 30, 2024 and 2023, was $149.3 million and $150.0 million, respectively. Total revenue consists of our Bitcoin Mining revenue, Engineering revenue, and Other revenue.
+For the six months ended June 30, 2024 and 2023, Bitcoin Mining revenue was $127.2 million, and $97.8 million, respectively. The increase of $29.4 million was primarily due to higher Bitcoin prices in the 2024 period, which averaged $66,071 per coin, as compared to $25,132 per coin for the 2023 period, which was partially offset by a decrease of 1,682 Bitcoin mined in the 2024 period as compared to the 2023 period, primarily due to the substantial increase in the Bitcoin network difficulty and April 2024 halving. Additionally, we continued employing our power strategy to significantly reduce overall power costs. As noted below, during the six months ended June 30, 2024 and 2023, we earned $19.0 million and $16.5 million, respectively, in power credits, which were received in cash or credited against our power invoices, as a result of temporarily pausing our Bitcoin Mining operations.
+For the six months ended June 30, 2024 and 2023, Engineering revenue was $14.3 million and $35.5 million, respectively. The decrease of $21.2 million was primarily attributable to supply chain constraints resulting in decreased receipts of materials, delaying the completion of certain custom products, and, therefore, the recognition of revenue. Our custom electrical products such as switchgear and power distribution centers are used as important components in data center development and in power generation and distribution facilities, and there has been increased demand for these products due to the continued increase in data center construction by developers, as well as the continually increasing worldwide demand for power.
+Costs and expenses
+Cost of revenue for Bitcoin Mining for the six months ended June 30, 2024 and 2023, was $71.8 million and $45.5 million, respectively, an increase of approximately $26.3 million. As a percentage of Bitcoin Mining revenue, Bitcoin Mining cost of revenue was 56.5% and 46.6% for the six months ended June 30, 2024 and 2023, respectively. Cost of revenue for Bitcoin Mining consists primarily of direct production costs of Bitcoin mining operations, including electricity, labor, and insurance, but excluding depreciation and amortization, which are separately stated. The increase was primarily due to the increase in Bitcoin mining capacity at the Rockdale Facility, and commencement of Bitcoin mining activities at the Corsicana Facility, both of which require more headcount and direct costs necessary to maintain and support our expanded Bitcoin mining operations, as well as the absorption of other costs previously included in our Data Center Hosting segment. As noted below, during the six months ended June 30, 2024 and 2023, we earned $19.0 million and $16.5 million, respectively, in power credits to be credited against our power invoices, as a result of temporarily pausing our operations to participate in ERCOT’s Demand Response Service Programs. Our fixed-price power purchase contracts enable us to strategically curtail our mining operations and participate in these programs, which significantly lower our cost to mine Bitcoin. These credits are recognized in Power curtailment credits on our Condensed Consolidated Statements of Operations, outside of cost of revenue, but significantly reduce our overall cost to mine Bitcoin.
+For the six months ended June 30, 2024, Cost of revenue for Bitcoin Mining consisted of the following:
+Power
+$
+ 54,462
+Compensation
+ 5,465
+Insurance on miners
+ 3,375
+Ground rent and related water and property tax
+ 2,606
+Other(1)
+ 5,916
+Total Bitcoin Mining cost of revenue
+$
+ 71,824
+(1) All amounts included within Other are individually insignificant.
+Cost of revenue for Engineering for the six months ended June 30, 2024 and 2023, was $14.3 million and $33.7 million, respectively, a decrease of approximately $19.4 million. The costs consisted primarily of direct materials and labor, as well as indirect manufacturing costs. Consistent with the causes of decreased Engineering revenue noted above, the decrease was primarily due to decreased receipts of materials resulting from increased competition for direct materials due to supply chain constraints.
+Selling, general and administrative expenses for the six months ended June 30, 2024 and 2023, were $118.8 million and $32.5 million, respectively, an increase of approximately $86.3 million. Selling, general and administrative expenses consist of stock-based
+33
+Table of Contents
+compensation, legal and professional fees, and other personnel and related costs. The increase was primarily due to increases in stock compensation expenses of $63.0 million, which was primarily due to new grants under our long-term incentive program, compensation expenses of $8.1 million as a result of hiring additional employees to support our ongoing growth, increased legal and professional fees of $5.6 million primarily related to ongoing litigation and public company compliance, and $8.7 million for other costs primarily attributable to ongoing growth.
+Depreciation and amortization for the six months ended June 30, 2024 and 2023, was $69.7 million and $125.5 million, respectively, a decrease of approximately $55.8 million. The decrease was primarily due to the change in the estimated lives of our Bitcoin miners from 2 years to 3 years.
+The change in fair value of Bitcoin for the six months ended June 30, 2024 and 2023, were gains of $157.7 million and $98.0 million, respectively, and were recognized to adjust the fair value of our Bitcoin held at the end of each period.  
+The change in fair value of our derivative asset for the six months ended June 30, 2024 and 2023, were gains of $47.7 million and $7.3 million, respectively, and was recorded to adjust the fair value of our PPA, which was classified as a derivative asset and measured at fair value. The changes in fair value were due to changes in future power prices over the applicable period.
+Power curtailment credits for the six months ended June 30, 2024 and 2023, were $19.0 million and $16.5 million, respectively, and represent sales of unused power under our PPA and participation in ancillary services under ERCOT Demand Response Services Programs. The amount of these credits varies from period to period depending on various factors impacting the supply of power to, and the demand for power on, the ERCOT grid, such as weather and global fuel costs.
+Casualty-related charges (recoveries), net, were ($2.5) million and $1.5 million for the six months ended June 30, 2024 and 2023, respectively. In December 2022, the Rockdale Facility was damaged during severe winter storms in Texas, resulting in casualty-related charges being recognized in 2023. The income recognized during the six months ended June 30 2024, was the result of cash recoveries from insurance claims related to the December 2022 winter storms.
+Other income (expense)
+For the six months ended June 30, 2024 and 2023, total other income (expense) was $40.5 million and $1.1 million, respectively. The increase in other income recognized during the six months ended June 30, 2024, was primarily attributable to unrealized gains on marketable securities of $24.5 million, and higher interest income earned as a result of higher cash balances and increased interest rates.
+Non-GAAP Measures
+In addition to financial measures presented under generally accepted accounting principles in the United States (“GAAP”), we consistently evaluate our use of and calculation of non-GAAP financial measures such as “Adjusted EBITDA.” EBITDA is computed as net income before interest, taxes, depreciation, and amortization. Adjusted EBITDA is a financial measure defined as EBITDA adjusted to eliminate the effects of certain non-cash and/or non-recurring items that do not reflect our ongoing strategic business operations, which management believes results in a performance measurement that represents a key indicator of our core business operations of Bitcoin mining. The adjustments include fair value adjustments such as derivative power contract adjustments, equity securities value changes, and non-cash stock-based compensation expense, in addition to financing and legacy business income and expense items.
+  We believe Adjusted EBITDA can be an important financial measure because it allows management, investors, and our board of directors to evaluate and compare our operating results, including our return on capital and operating efficiencies, from period-to-period by making such adjustments. Additionally, Adjusted EBITDA is used as a performance metric for share-based compensation.  
+ Adjusted EBITDA is provided in addition to, and should not be considered to be a substitute for, or superior to, net income, the most comparable measure under GAAP to Adjusted EBITDA. Further, Adjusted EBITDA should not be considered as an alternative to revenue growth, net income, diluted net income per share or any other performance measure derived in accordance with GAAP, or as an alternative to cash flow from operating activities as a measure of our liquidity. Adjusted EBITDA has limitations as an analytical tool, and you should not consider this financial measure either in isolation or as a substitute for analyzing our results as reported under GAAP.
+34
+Table of Contents
+The following table reconciles Adjusted EBITDA to Net income (loss), the most comparable GAAP financial measure:
+Three Months Ended
+Six Months Ended
+June 30, 
+June 30, 
+     2024
+     2023
+     2024
+     2023
+Net income (loss)
+$
+ (84,449)
+$
+ (27,387)
+$
+ 127,328
+$
+ (8,874)
+Interest (income) expense
+   (8,152)
+   (4,843)
+   (15,957)
+   (1,013)
+Income tax expense (benefit)
+   55
+   112
+   33
+   (4,857)
+Depreciation and amortization
+   37,326
+   66,162
+   69,669
+   125,502
+EBITDA
+   (55,220)
+   34,044
+   181,073
+   110,758
+                    Adjustments:
+                    Stock-based compensation expense
+   32,135
+   3,429
+   64,135
+   1,133
+Change in fair value of derivative asset
+   (27,484)
+   (13,109)
+   (47,716)
+   (7,331)
+Unrealized gain on marketable equity securities
+ (24,462)
+ —
+ (24,462)
+ —
+Loss (gain) on sale/exchange of equipment
+   68
+   30
+   68
+   30
+Casualty-related charges (recoveries), net
+ (187)
+ —
+ (2,487)
+ 1,526
+Other (income) expense
+   (33)
+   (65)
+   (41)
+   (65)
+License fees
+   (24)
+   (24)
+   (48)
+   (48)
+Adjusted EBITDA
+$
+ (75,207)
+$
+ 24,305
+$
+ 170,522
+$
+ 106,003
+LIQUIDITY AND CAPITAL RESOURCES
+As of June 30, 2024, we had net working capital of approximately $646.5 million, which included cash and cash equivalents of $481.2 million. We reported net income of $127.3 million during the six months ended June 30, 2024, which included $221.5 million in non-cash gains, primarily consisting of the change in fair value of Bitcoin of $157.7 million, revenue recognized from Bitcoin mined of $127.2 million, the change in fair value of the derivative asset of $47.7 million, and the unrealized gain on marketable equity securities of $24.5 million, partially offset by depreciation and amortization of $69.7 million and stock-based compensation of $64.1 million.
+During the six months ended June 30, 2024, we sold 212 Bitcoin for proceeds of approximately $9.5 million. We monitor our balance sheet on an ongoing basis and evaluate the level of Bitcoin retained from monthly production in consideration of our cash requirements for ongoing operations and expansion.
+Contractual Commitments (Miners and Related Equipment)
+Through June 30, 2024, we have paid approximately $412.9 million in total deposits and payments to MicroBT for the purchase of miners. The remaining commitment of approximately $148.0 million is due in installments through approximately April 2025 based on the estimated miner delivery schedule. Total payments of $97.5 million and $50.4 million are expected to be made in 2024 and 2025, respectively.
+Through June 30, 2024, we paid $64.3 million in total deposits and payments for the purchase of immersion cooling systems. The remaining commitment of approximately $15.4 million is due in installments in 2024, based on the estimated delivery schedule.
+35
+Table of Contents
+Development of the Corsicana Facility
+In 2022, we announced our planned development of the Corsicana Facility, our second large-scale Bitcoin mining facility located on a 265-acre site in Navarro County, Texas. The Corsicana Facility is expected, upon completion, to have 1.0 GW of developed capacity for Bitcoin mining, with an additional 200 MW of electrical capacity available for development, at our discretion, which is securely supplied with power by a substation being developed for us on the premises that will be interconnected with the nearby Navarro Switch. The strategic decision to locate the Corsicana Facility next to the Navarro Switch was made to limit electricity lost in transmission and maximize the efficiency of our substation’s power distribution facilities. The initial phase of the development of the Corsicana Facility involved the construction of a 400 MW substation and an equal amount of immersion-cooled Bitcoin mining infrastructure spread across multiple buildings, as well as construction of various utilities, offices, warehouses, and infrastructure to support the facility’s operations. Our Bitcoin mining operations commenced in April 2024, following commissioning of the substation. As of June 30, 2024, the first 100 MW building, Building A1, was complete and the second 100 MW building, Building A2, was nearly complete with nearly all immersion tanks and miners in the building being operational. Development for the third building, Building B1, continued on schedule with the building structure being fully erect and concrete slab pouring in progress and installation of immersion tanks has begun and is continuing into the third quarter.
+We estimate that the total cost of the first 400 MW phase of the development will be approximately $362.0 million. Through June 30, 2024, we had incurred costs of approximately $323.2 million related to the development of the Corsicana Facility, which consisted of $10.1 million for land, $308.4 million of initial developments costs and equipment, and a $4.7 million deposit for future power usage. We expect to incur the remaining $38.8 million during the remainder of 2024.
+Revenue from Operations
+Bitcoin Mining
+We expect to generate ongoing revenue from Bitcoin rewards from our Bitcoin Mining operations and our ability to liquidate Bitcoin rewards at future values will be regularly evaluated to generate cash for operations.
+Generating Bitcoin rewards which exceed our production and overhead costs will determine our ability to report profit margins related to such Bitcoin Mining operations, although accounting for our reported profitability is significantly complex. Furthermore, regardless of our ability to generate proceeds from the sale of our Bitcoin produced from our Bitcoin Mining business, we may elect to continue our strategy of holding the Bitcoin rewards we earn from our Bitcoin Mining operations, and we may need to raise additional capital in the form of equity or debt to fund our operations and pursue our business strategy.
+The ability to raise funds through the sale of equity, debt financings, or the sale of Bitcoin to maintain our operations is subject to many risks and uncertainties and, even if we were successful, future equity issuances or convertible debt offerings could result in dilution to our existing stockholders, and any future debt or debt securities may contain covenants that limit our operations or ability to enter into certain transactions. Our ability to realize revenue through Bitcoin production and successfully convert Bitcoin into cash or fund overhead with Bitcoin is subject to a number of risks, including regulatory, financial and business risks, many of which are beyond our control. Additionally, we have observed significant historical volatility in the market price of Bitcoin and, as such, future prices cannot be predicted.
+Engineering
+Substantially all Engineering revenue is derived from the sale of custom products built to customers’ specifications under fixed-price contracts. Revenue is recognized over time as performance creates or enhances an asset with no alternative use, and for which we have an enforceable right to receive compensation as defined under the contract. The length of time required to complete a custom product varies but is typically between four and 12 weeks.
+Customers are typically required to make periodic progress payments based on contractually agreed-upon milestones.
+If we are unable to generate sufficient revenue from our Bitcoin Mining and Engineering operations when needed or secure additional sources of funding, it may be necessary to significantly reduce our current rate of spending or explore other strategic alternatives.
+36
+Table of Contents
+Operating Activities
+For the six months ended June 30, 2024 and 2023, net cash used in operating activities was $100.4 million and $5.8 million, respectively. The increase in cash used was primarily attributable to $76.4 million reduction in proceeds from the sale of Bitcoin due to our ceasing of sales of Bitcoin early in 2024, increased power costs of $25.6 million, and a $22.5 million increase in selling, general, and administrative costs, excluding stock-based compensation, both of which were primarily driven by the increased mining capacity and headcount at the Rockdale Facility and Corsicana Facility, combined with other general operating costs such as insurance and information technology projects to support our growth.
+Investing Activities
+For the six months ended June 30, 2024 and 2023, net cash used in investing activities was $520.7 million and $107.5 million, respectively, which was attributable to purchases and deposits paid for miners and purchases of property and equipment for our ongoing expansions, as we continue towards our anticipated 36.3 EH/s of total self-mining hash rate capacity by the end of 2024. We completed our expansion of the Rockdale Facility during the year ended December 31, 2023, and continue to develop our Corsicana Facility, which commenced self-mining operations during the second quarter of 2024. We anticipate incurring additional costs related to the first phase of the Corsicana Facility of approximately $38.8 million during the remainder of 2024. During the six months ended June 30, 2024, we paid $279.0 million in deposits and payments for the purchase of miners, and anticipate additional payments of $97.5 million and $50.4 million to be made in 2024 and 2025, respectively.
+Financing Activities
+For the six months ended June 30, 2024 and 2023, net cash provided by financing activities was $505.1 million and $172.1 million, respectively, consisting primarily of proceeds from our ATM Offerings of $527.0 million and $188.4 million, respectively. We have less than $1.0 million in long-term debt and have primarily financed our strategic growth through proceeds from our ATM Offerings and issuances of our common stock. It is reasonably likely that we will continue to finance our ongoing growth with proceeds from current and future ATM Offerings.
+Critical Accounting Estimates
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions about future events that affect the amounts reported in the financial statements and accompanying notes. Future events and their effects cannot be determined with absolute certainty. Therefore, the determination of estimates requires the exercise of judgment. Actual results inevitably will differ from those estimates, and such differences may be material to the financial statements.
+Long-Lived Assets
+Long-lived assets are stated at cost and depreciated using the straight-line method over the estimated useful lives of the assets. Judgment is necessary in estimating the Company’s various assets’ useful lives. This includes evaluating the Company’s own usage experience with its currently owned assets, the quality of materials used in construction-related projects, and for its miners, the rate of technological advancement and market-related factors such as the price of Bitcoin and the Bitcoin network hash rate, which impact the value of the miners. Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable, which is determined based on a comparison of the carrying amount of an asset to undiscounted future cash flows expected to be generated by the asset. Significant judgment is used when estimating future cash flows, particularly the price of Bitcoin and the Bitcoin network hash rate. If such assets are considered impaired, an impairment is recognized based on the amount by which the carrying amount exceeds the estimated fair value of the assets.
+Should our estimates of useful lives, undiscounted future cash flows, or asset fair values change, additional and potentially material impairments may be required, which could have a material impact on our reported financial results.
+Stock-Based Compensation
+Stock-based compensation expense related to share-based payment awards is recognized at the grant date of the award and is estimated based on the fair market value of the Company’s common stock at the time of the grant. Compensation cost for performance-based, share-based payment awards is recognized over the performance period when achievement of the milestones and targets becomes probable. The Company uses significant judgment in determining the likelihood of meeting milestones and market conditions. Inputs into valuation models such as Monte Carlo simulations include both the Company’s and the Russell 3000’s
+37
+Table of Contents
+historical and expected annual volatilities, and depending on the inputs selected, the Company could calculate significantly different estimated grant date fair values, materially impacting the valuation of our stock-based awards and the stock-based compensation expense we recognize in future periods.
+Recent Accounting Pronouncements
+See Note 2. Significant Accounting Policies and Recent Accounting Pronouncements, to our Condensed Consolidated Financial Statements for a description of applicable recent accounting pronouncements and any material impact on our financial statements.
+Off-Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Market risk is the risk to earnings or asset and liability values resulting from movements in market prices. The following discussion about our market risk exposure involves forward-looking statements. Actual results could differ materially from those projected in our forward-looking statements. For more information regarding the forward-looking statements used in this section and elsewhere in this Quarterly Report, see the Cautionary Note Regarding Forward-Looking Statements at the forepart of this Quarterly Report.
+Risk Regarding the Price of Bitcoin
+Our business and development strategies are focused on maintaining and expanding our Bitcoin Mining operations to maximize the amount of new Bitcoin rewards we earn. As of June 30, 2024, we held 9,334 Bitcoin that was recognized at its fair value of $585.1 million. All our Bitcoin held were produced from our Bitcoin Mining operations.
+We cannot accurately predict the future market price of Bitcoin, the future value of which will affect revenue from our operations, and any future declines in the fair value of the Bitcoin we mine and hold for our account would be reported in our financial statements and results of operations as a charge against net income, which could have a material adverse effect on the market price for our securities.
+As of, and for the six months ended, June 30, 2024, a 10% increase in both the value of Bitcoin produced and the period end fair value of Bitcoin would have increased the fair value of our Bitcoin held and our net income by approximately $59.6 million, and a 10% decrease in both the value of Bitcoin produced and the period end fair value of Bitcoin would have decreased the fair value of our Bitcoin held and our net income by approximately $59.6 million.
+Risk Regarding the Price of Power
+As of, and for the six months ended, June 30, 2024, a 10% increase in future power prices would have increased the fair value of our derivative asset and our net income by approximately $45.8 million, and a 10% decrease in future power prices would have decreased the fair value of our derivative asset and our net income by approximately $45.8 million.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures:
+Our management, with the participation of our Chief Executive Officer (principal executive officer) and our Chief Financial Officer (principal financial officer), has evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of June 30, 2024 to ensure that the information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that information required to be disclosed in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer (principal executive officer) and Chief Financial Officer (principal financial officer), to allow timely decisions regarding required disclosures. It should be noted that the design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions, regardless of how remote.
+38
+Table of Contents
+Based on this evaluation, our management, with the participation of our Chief Executive Officer (principal executive officer) and our Chief Financial Officer (principal financial officer), concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of June 30, 2024.
+Changes in Internal Control over Financial Reporting:
+ There have not been any changes in our internal control over financial reporting during the quarter ended June 30, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings
+Disclosure under this Item is incorporated by reference to the disclosure provided in Note 17. Commitments and Contingencies in the Notes.
+Item 1A. Risk Factors
+Investors should carefully review and consider the information regarding certain factors that could materially affect our business, results of operations, financial condition, cash flows and equity as set forth herein and in Part I, Item 1A. Risk Factors in our 2023 Annual Report. We may disclose changes to our risk factors or disclose additional risk factors from time to time in our future filings with the SEC. Additional risks and uncertainties not presently known to us or that we currently believe not to be material also may adversely impact our business, financial condition, results of operations, cash flow and equity.
+The following risk factors are in addition to those presented in our 2023 Annual Report:
+Our revenue generation is subject to risks applicable to our mining pool, including risks outside of our control.
+We participate in a “Full-Pay-Per-Share” mining pool, which calculates Bitcoin payouts primarily based on the hash rate provided by us to the mining pool as a percentage of total network hash rate, along with other inputs. We currently derive a significant portion of our revenue from our mining pool participation, which accounted for 85.2% and 65.2% of our revenue for the six months ended June 30, 2024, and June 30, 2023, respectively. We own all of our miners and accompanying infrastructure, and the only connection between our assets and our mining pool is that the total hash rate capacity of our miners is currently allocated to our mining pool, which we are free to change at any time, in our discretion. Further, the mining pool in which we participate, like most mining pools, is decentralized and has protections in place to prevent malicious actors or technical errors from affecting the pool’s ability to operate; however, these protections are not foolproof, and we may lose access to the mining pool, perhaps permanently. Because of the monitoring systems we have in place, we would become aware within minutes if our mining pool were to suffer downtime or cease to exist altogether, and we would expect to be able to resume mining without a mining pool within minutes, or redirect our hash rate to another mining pool, within an hour of the downtime event. However, self-mining has, historically, been less successful in earning Bitcoin rewards than participating in a mining pool, and our Bitcoin Mining revenue would become more volatile and may decline–perhaps materially–as a result of the loss or unavailability of our mining pool. If such unanticipated circumstances associated with our mining pool arise, and we are unable to quickly switch to another pool, self-mine without a pool or otherwise diversify our sources of Bitcoin mining revenue, our business, results of operations, and financial condition may suffer as a result.
+Our success depends on external factors affecting the Bitcoin industry.
+The Bitcoin industry has historically been subject to various risks relating to Bitcoin, as an asset, which have affected, at times adversely, the market price of Bitcoin. The ownership of Bitcoin has, historically, been concentrated in a relatively small number of persons or entities that, collectively, hold a significant number of Bitcoin (referred to as “whales” in the Bitcoin industry). While the ownership of Bitcoin has diversified significantly in recent years, whales continue to exist whose market activity (e.g., sales of large numbers of Bitcoin) could have an adverse effect on the demand for, and market price of, Bitcoin, which could have an adverse effect on our business and results of operation. Further, while larger, increasingly regulated exchanges with greater transparency and oversight have begun to proliferate, the Bitcoin economy remains nascent and largely opaque. The venues for Bitcoin transactions may experience greater operational problems and be exposed to a greater risk of facilitating fraudulent or illicit transactions (such as “wash trading”), than traditional financial markets and securities exchanges. Further, venues for Bitcoin transactions do not typically make complete information regarding their ownership structure, management teams, corporate practices, and regulatory compliance available to the public, who are, therefore, unable to verify the impartiality of such venues in respect of the Bitcoin transactions they
+39
+Table of Contents
+facilitate. As a result of such lack of regulation and transparency, as well as the risk posed by Bitcoin whales, the public may lose confidence in Bitcoin transactions, which could adversely affect the market price of Bitcoin, perhaps materially, which would have an adverse impact on our business and results of operations.
+There is a finite supply of Bitcoin and the number of new Bitcoin rewarded per block algorithmically decreases over time, which poses a risk to our business.
+We earn revenue from Bitcoin Mining principally by earning Bitcoin rewards for solving blocks on the Bitcoin blockchain; however, the supply of new Bitcoin introduced to the market via Bitcoin mining is finite, with the last new Bitcoin expected to be mined in the year 2140 (approximately 116 years from now) according to experts. Accordingly, once the final new Bitcoin is introduced into the market, we will no longer earn revenue from Bitcoin Mining by earning Bitcoin rewards for solving a block. Instead, our Bitcoin Mining revenue will be dependent on the fees we earn from the transactions recorded on the blocks we solve. Historically, such transaction fees have been low; however, we have observed that, as the number of new Bitcoin introduced into the market is reduced in each halving, and as Bitcoin ownership and transactions in Bitcoin continue to proliferate, the fees charged for recorded transactions on the Bitcoin blockchain have increased. We cannot, however, predict whether such transaction fees will increase sufficiently to replace the value of earning new Bitcoin once the last Bitcoin in mined in the year 2140, and, therefore, we cannot guarantee that we will be able to earn sufficient revenue from Bitcoin Mining for our Bitcoin Mining business to continue as a going concern. Should any of these events come to pass, our business and results of operation may suffer, and the price of our securities may be affected, perhaps materially.
+We rely on intellectual property rights, including third-party intellectual property rights, which exposes us to potential liability.
+Our business relies on open-source technology and third-party intellectual property in certain respects. As a result, we may become the subject of third-party intellectual property right infringement claims relating to our use of such third-party intellectual property. For example, as further identified under the heading “Legal Proceedings” in Part II, Item 1 of this Quarterly Report, Green Revolution Cooling, Inc. (“GRC”) has alleged that the immersion cooling systems we use, which were purchased from Midas Immersion Cooling, LLC, infringe on certain of GRC’s patent claims. While we reasonably rely on the representations and warranties of third-party vendors, such as Midas Immersion Cooling, LLC, it is not possible for us to avoid all potential claims of infringement of third-party intellectual property rights. If such claims are successful, we may be required to pay royalties or be ordered to cease using any technologies found to be infringing on such third-party rights altogether. Additionally, any such legal action would cause the diversion of time, energy, and resources away from our operations and toward defending against such actions, and such risks may dissuade us from pursuing further technological innovation in support of our strategic objectives.
+40
+Table of Contents
+Our lack of insurance protection over our Bitcoin exposes us to enhanced risk of loss with respect to our Bitcoin.
+We rely on the protections afforded to us by our third-party custodian of our Bitcoin, which utilizes market leading, industrial-grade protections for custodied client assets, to protect against risk of loss of our Bitcoin. As such, we require our custodian to maintain insurance policies against cyber-attacks and other unauthorized intrusion events which may target our Bitcoin, and we have certain indemnification protections from our custodian in such events. Such protections are imperfect, however, and our custodian’s defenses may be breached, and our custodied Bitcoin may be lost, as a result. Further, the magnitude of such loss may exceed the amount of insurance coverage for our Bitcoin and the ability of our custodian, or its insurers, to indemnify us in full. Besides any third-party custodian insurance policies, we do not separately carry insurance policies covering our Bitcoin assets, and we may not be able to secure such insurance coverage in the future at rates or on terms acceptable to us, if at all, and we may choose to self-insure. If our digital assets are lost, stolen or destroyed, the responsible party may not have the financial resources sufficient to satisfy our claim. To the extent that we are unable to recover our losses from such action, error or theft, such events could have a material adverse effect on our business, results of operations and financial condition.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+During the three months ended June 30, 2024, certain of our employees surrendered shares of common stock awarded to them to satisfy statutory minimum federal and state tax obligations associated with the vesting of restricted stock awards issued under our 2019 Equity Incentive Plan. The following table summarizes these repurchases:
+          Total Number
+     Maximum
+of Shares
+Number of
+Purchased as
+Shares that
+Total
+Part of
+May Yet Be
+Number of
+Average
+Publicly
+Purchased
+Shares
+Price Paid
+Announced Plans
+Under the Plans
+Period
+Purchased
+per Share (a)
+or Programs
+or Programs
+April 1, 2024 through April 30, 2024
+ 3,564
+$
+10.38
+N/A
+N/A
+May 1, 2024 through May 31, 2024
+ 339
+10.38
+N/A
+N/A
+June 1, 2024 through June 30, 2024
+ 895,549
+9.75
+N/A
+N/A
+Total
+ 899,452
+$
+9.75
+      (a) The average price paid per share is based on the closing price of our common stock as of the date of the determination of the statutory minimum for federal and state tax obligations.
+Item 5. Other Information
+During the three months ended June 30, 2024, none of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted, modified, or terminated any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act or any “non-Rule 10b5-1 arrangement” as defined in Item 408(c) of Regulation S-K.
+41
+Table of Contents
+Item 6. Index of Exhibits
+The following are incorporated by reference herein to the exhibit previously filed with the SEC at the location indicated below or are filed herewith as indicated below:
+Exhibit
+     Description
+Location
+2.1
+Plan of Merger, dated effective as of December 30, 2022, by and between Riot Blockchain, Inc. and Riot Platforms, Inc.
+Exhibit 2.1 of the Current Report on Form 8-K filed January 3, 2023.
+3.1
+Articles of Incorporation filed September 19, 2017.
+Exhibit 3.1 of the Current Report on Form 8-K filed September 25, 2017.
+3.2
+Amendment to the Articles of Incorporation of Riot Blockchain, Inc. dated November 21, 2022.
+Exhibit 3.1 of the Current Report on Form 8-K filed November 23, 2022.
+3.3
+Certificate of Amendment to the Articles of Incorporation of Riot Platforms, Inc. dated June 13, 2024.
+Exhibit 3.1 of the Current Report on Form 8-K filed June 18, 2024.
+3.4
+Amended and Restated Bylaws effective June 27, 2023.
+Exhibit 3.1 of the Current Report on Form 8-K filed June 30, 2023.
+3.5
+Articles of Merger between Bioptix, Inc. and Riot Blockchain, Inc.
+Exhibit 3.1 of the Current Report on Form 8-K filed October 4, 2017.
+3.6
+Articles of Merger between Riot Blockchain, Inc. and Riot Platforms, Inc.
+Exhibit 3.1 of the Current Report on Form 8-K filed January 3, 2023.
+4.1+
+Sixth Amendment to the 2019 Equity Incentive Plan of Riot Platforms, Inc.
+Exhibit 4.1 of the Current Report on Form 8-K filed June 18, 2024.
+4.2+
+2019 Equity Plan of Riot Platforms, Inc., as amended.
+Exhibit 4.2 of the Current Report on Form 8-K filed June 18, 2024.
+10.1+
+Indemnification Agreement of Riot Platforms, Inc.
+Exhibit 10.1 of the Current Report on Form 8-K filed June 18, 2024.
+31.1
+Rule 13a-14(a)/15d-14(a) - Certification of Chief Executive Officer (principal executive officer).
+Filed herewith.
+31.2
+Rule 13a-14(a)/15d-14(a) - Certification of Chief Financial Officer (principal financial officer).
+Filed herewith.
+32.1
+Section 1350 Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Principal Executive Officer).
+Filed herewith.
+32.2
+Section 1350 Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Principal Financial Officer).
+Filed herewith.
+101
+Inline XBRL (Extensible Business Reporting Language). The following from this Quarterly Report, formatted in iXBRL (inline XBRL): (i) Condensed Consolidated Balance Sheets as of June 30, 2024 and December 31,
+Filed herewith.
+42
+Table of Contents
+2023; (ii) Condensed Consolidated Statements of Operations for the Three and Six Months Ended June 30, 2024 and 2023; (iii) Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three and Six Months Ended June 30, 2024 and 2023; (iv) Condensed Consolidated Statements of Stockholders’ Equity for the Three and Six Months Ended June 30, 2024 and 2023; (v) Condensed Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2024 and 2023; and (vi) Notes to Condensed Consolidated Financial Statements.
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+Filed herewith.
++ Indicates a management contract or compensatory plan or arrangement.
+43
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned thereunto duly authorized.
+Riot Platforms, Inc.
+Date: July 31, 2024
+/s/ Jason Les
+Jason Les
+Chief Executive Officer
+(principal executive officer and duly authorized officer)
+/s/ Colin Yee
+Colin Yee
+Chief Financial Officer
+(principal financial officer and duly authorized officer)
+44

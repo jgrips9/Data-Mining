@@ -1,0 +1,815 @@
+    UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+  FORM 10-Q
+  ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+  For The Quarterly Period Ended September 30, 2021
+  or
+  ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+  For the transition period from _________ to _________
+  Commission File Number 001-36492
+  AGEAGLE AERIAL SYSTEMS INC.
+(Exact name of registrant issuer as specified in its charter)
+  Nevada   88-0422242
+(State or other jurisdiction of
+incorporation or organization)   (I.R.S. Employer
+Identification No.)
+   8863 E. 34th Street North
+Wichita, Kansas 67226
+(Address of principal executive offices, including zip code)
+  620-325-6363
+  Registrant’s phone number, including area code
+  Securities registered pursuant to Section 12(b) of the Act:
+   Title of each class Trading Symbol(s) Name of each exchange on which registered
+Common Stock UAVS NYSE American
+   Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+   Yes ☒ NO ☐
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (section 232.405 of this chapter) during the preceding twelve months (or shorter period that the registrant was required to submit and post such files).
+  Yes ☒ NO ☐
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” or an “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+  Large accelerated filer ☐ Accelerated filer ☐
+Non-accelerated Filer ☒ Smaller reporting company ☒
+    Emerging growth company ☐
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+  Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+  Class   Outstanding at November 12, 2021
+Common Stock, $.001 par value   75,312,697
+        AGEAGLE AERIAL SYSTEMS INC.
+  TABLE OF CONTENTS
+      Page
+PART I FINANCIAL INFORMATION 3
+      ITEM 1. FINANCIAL STATEMENTS: 3
+        Condensed Interim Consolidated Balance Sheets as of September 30, 2021(unaudited) and December 31, 2020 3
+        Condensed Interim Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2021, and 2020 (unaudited) 4
+        Condensed Interim Consolidated Statements of Stockholders’ Equity for the Three and Nine Months Ended September 30, 2021, and 2020 (unaudited) 5
+        Condensed Interim Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2021, and 2020 (unaudited) 7
+        Notes to Condensed Interim Consolidated Financial Statements 8
+      ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 34
+      ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 41
+      ITEM 4. CONTROLS AND PROCEDURES 41
+      PART II OTHER INFORMATION 42
+      ITEM 1. LEGAL PROCEEDINGS 42
+      ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 43
+      ITEM 3. DEFAULTS UPON SENIOR SECURITIES 43
+      ITEM 4. MINE SAFETY DISCLOSURES 43
+      ITEM 5. OTHER INFORMATION 43
+      ITEM 6 EXHIBITS 44
+      SIGNATURES 45
+  2
+    PART I – FINANCIAL INFORMATION
+  Item 1. Financial Statements.
+  AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED INTERIM CONSOLIDATED BALANCE SHEETS
+                        As of
+    September 30,   December 31,
+ASSETS   2021   2020
+    (Unaudited)    
+CURRENT ASSETS:                
+Cash   $ 32,221,558     $ 23,940,333  
+Accounts receivable, net     672,263       —  
+Inventories, net     1,737,628       135,647  
+Prepaid and other current assets     1,001,271       122,011  
+Notes receivable     700,000       600,000  
+Total current assets     36,332,720       24,797,991  
+                  Property and equipment, net     382,936       122,589  
+Right of use asset     1,010,397       257,363  
+Intangible assets, net     6,310,818       440,527  
+Goodwill     64,573,288       3,108,000  
+Other assets     25,000       —  
+Total assets   $ 108,635,159     $ 28,726,470  
+                  LIABILITIES AND STOCKHOLDERS’ EQUITY                
+Accounts payable   $ 1,186,800     $ 159,812  
+Accrued expenses and other liabilities     1,009,221       1,844,825  
+Contract liabilities     615,860       2,302  
+Current portion of liability related to acquisition agreements     4,000,000       —  
+Current portion of lease liability     251,799       85,895  
+Current portion of promissory note     —       89,533  
+Total current liabilities     7,063,680       2,182,367  
+                  Long term portion of lease liability     767,491       171,468  
+Long term portion of promissory note     —       17,906  
+Long term portion of liability related to acquisition agreements     6,625,000       —  
+Total liabilities     14,456,171       2,371,741  
+                  COMMITMENTS AND CONTINGENCIES (SEE NOTE 11)                
+                  STOCKHOLDERS’ EQUITY:                
+Preferred Stock, $0.001 par value, 25,000,000 shares authorized, no shares issued and outstanding at September 30, 2021 and December 31, 2020     —       —  
+Common Stock, $0.001 par value, 250,000,000 shares authorized, 75,289,364 and 58,636,365 shares issued and outstanding at September 30, 2021 and December 31, 2020, respectively     75,289       58,636  
+Additional paid-in capital     126,428,967       47,241,757  
+Accumulated deficit     (32,325,268 )     (20,945,664 )
+Total stockholders’ equity     94,178,988       26,354,729  
+Total liabilities and stockholders’ equity   $ 108,635,159     $ 28,726,470  
+  See accompanying notes to these condensed interim consolidated financial statements.
+  3
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED INTERIM CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+                                        For the Three Months Ended   For the Nine Months Ended
+    September 30, 2021   September 30, 2020   September 30, 2021   September 30, 2020
+Revenues   $ 2,021,707     $ 750,325     $ 5,660,662     $ 1,157,930  
+Cost of sales     1,226,911       430,683       2,885,008       620,196  
+Gross Profit     794,796       319,642       2,775,654       537,734  
+                                  Operating Expenses:                                
+General and administrative     2,535,477       626,605       8,183,236       1,782,926  
+Professional fees     247,813       254,532       2,244,804       958,436  
+Research and development     777,036       —       2,115,367       —  
+Sales and marketing     1,034,004       16,242       1,813,069       32,751  
+Total Operating Expenses     4,594,330       897,379       14,356,476       2,774,113  
+Loss from Operations     (3,799,534 )     (577,737 )     (11,580,822 )     (2,236,379 )
+                                  Other Income (Expense):                                
+Interest income (expense)     3,834       (275 )     12,850       (275 )
+Paycheck protection program loan forgiveness     —       —       108,532       —  
+Loss on disposal of fixed assets     —       (594 )     (3,712 )     (594 )
+Other income, net     24,798       —       83,548       —  
+Total Other Income (Expense)     28,632       (869 )     201,218       (869 )
+Loss Before Income Taxes     (3,770,902 )     (578,606 )     (11,379,604 )     (2,237,248 )
+Provision for income taxes     —       —       —       —  
+Net Loss   $ (3,770,902 )   $ (578,606 )   $ (11,379,604 )   $ (2,237,248 )
+                                  Deemed dividend on Series C Preferred stock and Series D warrants     —       —       —       (4,050,838 )
+Deemed dividend on redemption of Series D Preferred stock     —       —       —       (3,763,591 )
+Deemed dividend on issuance and repurchase of Series E Preferred stock     —       —       —       (1,227,120 )
+Series D Preferred stock dividends     —       —       —       (69,778 )
+                                  Net Loss Available to Common Stockholders     (3,770,902 )     (578,606 )     (11,379,604 )     (11,348,575 )
+                                  Net Loss Per Common Share - Basic and Diluted   $ (0.05 )   $ (0.01 )   $ (0.17 )   $ (0.33 )
+                                  Weighted Average Number of Shares Outstanding During the Period -- Basic and Diluted     75,144,113       55,380,250       68,243,666       34,722,816  
+  See accompanying notes to these condensed interim consolidated financial statements.
+  4
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED INTERIM CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+                                                                                   Par $ .0001 Preferred Stock Series C Shares   Preferred Stock Series C Amount   Par $ .0001 Preferred Stock Series D Shares   Preferred Stock Series D Amount   Common   Shares   Common Stock Amount   Additional Paid-In Capital   Accumulated Deficit   Total Stockholders’ Equity
+Balance at June 30, 2021     —     $ —       —     $ —       74,668,560     $ 74,669     $ 123,377,671     $ (28,554,366 )   $ 94,897,974  
+Sale of Common stock, net of issuance costs     —       —       —       —       434,777       435       2,221,107       —       2,221,542  
+Common stock issued upon exercise of options     —       —       —       —       81,861       81       37,262       —       37,343  
+Stock-based compensation expense     —       —       —       —       104,166       104       792,927       —       793,031  
+Net loss     —       —       —       —       —       —       —       (3,770,902 )     (3,770,902 ) 
+Balance at September 30, 2021     —     $ —       —     $ —       75,289,364     $ 75,289     $ 126,428,967     $ (32,325,268 )   $ 94,178,988  
+                                                                          Balance at December 31, 2020     —     $ —       —     $ —       58,636,365     $ 58,636     $ 47,241,757     $ (20,945,664 )   $ 26,354,729  
+Sale of Common stock, net of issuance costs     —       —       —       —       6,763,091       6,763       37,175,883       —       37,182,646  
+Sale of Common stock from exercise of warrants     —       —       —       —       2,516,778       2,517       8,302,851       —       8,305,368  
+Issuance of Common stock for acquisition of MicaSense     —       —       —       —       540,541       541       2,999,459       —       3,000,000  
+Issuance of Common stock for acquisition of Measure                                     5,319,145       5,319       24,369,681       —       24,375,000  
+Stock issued in exchange for professional services     —       —       —       —       550,000       550       2,906,450       —       2,907,000  
+                                                                          Common stock issued upon exercise of options     —       —       —       —       487,876       488       112,680       —       113,168  
+Stock-based compensation expense     —       —       —       —       475,568       476       3,320,205       —       3,320,681  
+Net loss     —       —       —       —       —       —       —       (11,379,604 )     (11,379,604 ) 
+Balance at September 30, 2021     —     $ —       —     $ —       75,289,364     $ 75,289     $ 126,428,967     $ (32,325,268 )   $ 94,178,988  
+  5
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+CONDENSED INTERIM CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+                                                                                                Par $ .0001 Preferred Stock Series C Shares   Preferred Stock Series C Amount   Par $ .0001 Preferred Stock Series D Shares   Preferred Stock Series D Amount   Par $ .0001 Preferred Stock Series E Shares   Preferred Stock Series E Amount   Par $ .0001 Common Shares   Common Stock Amount   Additional Paid-In Capital   Accumulated Deficit   Total Stockholders’ Equity
+Balance at June 30, 2020     —     $ —       110     $ —       —     $ —       48,979,277     $ 48,979     $ 33,637,610     $ (17,671,855 )   $ 16,014,734  
+Conversion of Series D Preferred stock and accrued dividends     —       —       (110 )     —       —       —       635,815       636       (636 )     —       —  
+Sales of Common stock from exercise of warrants     —       —       —       —       —       —       3,906,236       3,906       2,630,550       —       2,634,456  
+Sale of Common stock, net of issuance costs     —       —       —       —       —       —       3,355,705       3,356       9,896,644       —       9,900,000  
+Common stock issued upon exercise of options     —       —       —       —       —       —       1,003,969       1,004       46,396       —       47,400  
+Stock-based compensation expense     —       —       —       —       —       —       —       —       124,831       —       124,831  
+Net loss     —       —       —       —       —       —       —       —       —       (578,606 )     (578,606 )
+Balance at September 30, 2020     —     $ —       —     $ —       —     $ —       57,881,002     $ 57,881     $ 46,335,395     $ (18,250,461 )   $ 28,142,815  
+                                                                                          Balance at December 31, 2019     3,501     $ 4       2,000     $ 2       —     $ —       15,424,394     $ 15,424     $ 12,456,989     $ (8,198,785 )   $ 4,273,634  
+Purchase of acquisition     —       —       —       —       —       —       (164,375 )     (164 )     164       —       —  
+Conversion of Series C Preferred stock     (3,501 )     (4 )     —       —       —       —       13,597,984       13,598       (13,594 )     —       —  
+Conversion of Series D Preferred stock and accrued dividends     —       —       (2,000 )     (2 )     —       —       4,135,815       4,136       159,421       —       163,555  
+Conversion of Series D warrants     —       —       —       —       —       —       6,853,975       6,854       2,627,602       —       2,634,456  
+Issuance of Series E Preferred stock, net of issuance costs     —       —       —       —       1,050       1       —       —       1,009,999       —       1,010,000  
+Repurchase of Series E Preferred stock     —       —       —       —       (262 )     —       —       —       (1,110,880 )     —       (1,110,880 )
+Conversion of Series E Preferred stock     —       —       —       —       (788 )     (1 )     3,152,000       3,152       (3,151 )     —       —  
+Deemed dividend on Series C Preferred stock and Series D warrants     —       —       —       —       —       —       —       —       4,050,838       (4,050,838 )     —  
+Deemed dividend on redemption of Series D Preferred stock     —       —       —       —       —       —       —       —       3,763,591       (3,763,591 )     —  
+Sale of Common stock, net of issuance costs     —       —       —       —       —       —       10,163,105       10,163       22,786,579       —       22,796,742  
+Sale of Common stock from conversion of pre-paid warrants     —       —       —       —       —       —       3,260,377       3,260       7       —       3,267  
+Issuance of Common stock for consulting services     —       —       —       —       —       —       250,000       250       297,250       —       297,500  
+Common stock issued upon exercise of options     —       —       —       —       —       —       1,037,727       1,038       46,362       —       47,400  
+Stock-based compensation expense     —       —       —       —       —       —       170,000       170       264,218       —       264,388  
+Net loss     —       —       —       —       —       —       —       —       —       (2,237,248 )     (2,237,248 )
+Balance at September 30, 2020     —     $ —       —     $ —       —     $ —       57,881,002     $ 57,881     $ 46,335,395     $ (18,250,461 )   $ 28,142,815  
+   See accompanying notes to these condensed interim consolidated financial statements
+  6
+    AGEAGLE AERIAL SYSTEMS, INC. AND SUBSIDIARIES
+CONDENSED INTERIM CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (Unaudited)
+                        For the Nine Months Ended September 30,
+    2021   2020
+CASH FLOWS FROM OPERATING ACTIVITIES:                
+Net loss   $ (11,379,604 )   $ (2,237,248 )
+Adjustments to reconcile net loss to net cash used in operating activities:                
+ Loss on disposal of fixed assets     3,712       594  
+Depreciation and amortization     784,701       128,318  
+Stock-based compensation     3,320,681       264,389  
+Stock issued in exchange for professional services     2,907,000       297,500  
+ Paycheck protection program loan forgiveness     (108,532 )     —  
+                  Changes in assets and liabilities:                
+Accounts receivable     (193,348 )     65,833  
+Inventories     (912,683 )     62,778  
+Prepaid expenses and other assets     (523,638 )     3,626  
+Accounts payable     622,825       100,921  
+Accrued expenses and other liabilities     (1,452,158 )     7,052  
+Contract liabilities     253,323       (136,682 )
+Net cash used in operating activities     (6,677,721 )     (1,442,919 )
+                  CASH FLOW FROM INVESTING ACTIVITIES:                
+Notes receivable     (200,000 )     —  
+Purchases of fixed assets     (225,642 )     (70,086 )
+Acquisition of MicaSense     (14,536,863 )     —  
+Acquisition of Measure     (14,916,850 )     —  
+Platform development costs     (762,881 )     —  
+Net cash used in investing activities     (30,642,236 )     (70,086 )
+                  CASH FLOWS FROM FINANCING ACTIVITIES:                
+Proceeds from promissory note     —       107,439  
+Issuance of Series E Preferred stock     —       1,010,000  
+Repurchase of Series E Preferred stock     —       (1,110,880 )
+Sales of Common stock, net of issuance cost     37,182,646       22,796,743  
+Sale of Common stock from exercise of warrants     8,305,368       2,637,723  
+Exercise of stock options     113,168       47,400  
+Net cash provided by financing activities     45,601,182       25,488,425  
+                  Net increase in cash     8,281,225       23,975,420  
+Cash at the beginning of the year     23,940,333       717,997  
+Cash at the end of the period   $ 32,221,558     $ 24,693,417  
+                  SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:                
+Interest cash paid   $ —     $ —  
+Income taxes paid   $ —     $ —  
+NON-CASH INVESTING AND FINANCING ACTIVITIES:                
+Conversion of Series B, C, D and E Preferred stock into Common stock   $ —     $ 6,551  
+Deemed dividends   $ —     $ 7,884,207  
+Liability related to MicaSense acquisition   $ 5,000,000     $ —  
+Liability related to Measure acquisition   $ 5,625,000     $ —  
+Stock consideration for MicaSense acquisition   $ 3,000,000     $ —  
+Stock consideration for Measure acquisition   $ 24,375,000     $ —  
+   See accompanying notes to these condensed interim consolidated financial statements.
+  7
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 1 – Description of Business
+  AgEagle™ Aerial Systems Inc. (“AgEagle” or the “Company”), through its wholly-owned subsidiaries, is actively engaged in designing, and delivering best-in-class drones, sensors and software that solve important problems for our customers. Founded in 2010, AgEagle was originally formed to pioneer proprietary, professional-grade, fixed-winged drones and aerial imagery-based data collection and analytics solutions for the agriculture industry. Today, the Company is earning distinction as a globally respected, industry leader offering best-in-class, full stack drone solutions to a wide range of industries, including energy, construction, agriculture and government. AgEagle is led by a proven management team with years of drone industry experience. Through participation on the U.S. Federal Aviation Administration’s (FAA) Drone Advisory Committee and the FAA’s BEYOND program, AgEagle is helping to establish entirely new rulemaking guidelines and regulations for the future of autonomous flight and the full integration of drones into the U.S. airspace.
+   In the first half of 2019, the Company introduced HempOverview™, a scalable, responsive and cost-effective Software-as-a-Service (“SaaS”) web- and map-based technology platform to support the operations of domestic industrial hemp programs for state and tribal nation departments of agriculture – a solution that provides users with what the Company believes is the gold standard for regulatory oversight, operational assistance and reporting capabilities for the fast emerging industrial hemp industry.
+  In January 2021, AgEagle acquired MicaSense™, Inc. (“MicaSense”), based in Seattle, Washington. MicaSense has been at the forefront of advanced drone sensor development since its founding in 2014, having formed integration partnerships with several leading fixed wing and multi-rotor drone manufacturers. MicaSense’s patented, high precision thermal and multispectral sensors serve the aerial mapping and analytics needs of the agriculture market. MicaSense’s high performance proprietary products, including Altum™, RedEdge-MX™, RedEdge-MX™ Blue and Atlas Flight, have global distribution in over 70 countries.
+  In April 2021, AgEagle acquired Measure Global, Inc. (“Measure”), a company founded in 2020 with business operations in Washington, D.C. and Austin, Texas. Serving a world class customer base, Measure enables its customers to realize the transformative benefits of drone technology through its Ground Control solution. Offered as Software-as-a-Service (SaaS), Ground Control is a cloud-based, plug-and-play operating system that empowers pilots and large enterprises with everything they need to operate drone fleets, fly autonomously, collaborate globally, visualize data, and integrate with existing business systems and processes.
+  We intend to grow our business and preserve our leadership position by developing new drones, sensors and software and capturing a significant share of the global drone market. In addition, we expect to accelerate our growth and expansion through strategic acquisitions of companies offering distinct technological and competitive advantages and have defensible IP protection in place, if applicable.
+  The Company is headquartered in Wichita, Kansas with business operations and several offices located throughout the United States.
+  8
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+   Note 2 – Summary of Significant Accounting Policies
+   Basis of Presentation and Consolidation – The condensed interim consolidated financial statements of the Company are presented in United States dollars and have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”). In the opinion of management, the Company has made all necessary adjustments, which include normal recurring adjustments, for a fair statement of the Company’s consolidated financial position and results of operations for the interim periods presented. Certain information and disclosures included in the annual consolidated financial statements prepared in accordance with U.S. GAAP have been condensed or omitted. These interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes for the year ended December 31, 2020, included in the Company’s annual Report on Form 10-K, as filed with the Securities and Exchange Commission (the “SEC”) on March 31, 2021. The results for the three and nine months ended September 30, 2021, and 2020 are not necessarily indicative of the results to be expected for a full year, any other interim periods or any future year or period.
+  The consolidated financial statements include the accounts of AgEagle Aerial Systems Inc. and its wholly -owned subsidiaries AgEagle Aerial, Inc., AgEagle Sensor Systems, Inc., MicaSense, Inc., and Measure Global, Inc., Inc. All significant intercompany balances and transactions have been eliminated in consolidation.
+  The summary of significant accounting policies presented below is designed to assist in understanding the Company’s condensed interim consolidated financial statements. Such consolidated financial statements and accompanying notes are the representations of the Company’s management, who are responsible for their integrity and objectivity.
+  Correction of Prior Period Information – During the review of the Company’s financial statements for the interim period June 30, 2021, the Company identified an error in the accounting and presentation of revenue and related expenses recorded for the MicaSense acquisition related to the three months ended March 31, 2021. As a result, the statement of operations for the nine months ended September 30, 2021 reflects the corrected revenues, cost of goods sold, operating expenses and net loss.
+  Use of Estimates – The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates. Significant estimates include the reserve for obsolete inventory, valuation of stock issued for services and stock options, valuation of intangible assets including goodwill and the valuation of deferred tax assets.
+  Impact of COVID-19 Pandemic– In December 2019, a novel coronavirus disease (“COVID-19”) was reported. On January 30, 2020, the World Health Organization (“WHO”) declared COVID-19 a Public Health Emergency of International Concern. On February 28, 2020, the WHO raised its assessment of the COVID-19 threat from high to very high at a global level due to the continued increase in the number of cases and affected countries, and on March 11, 2020, the WHO characterized COVID-19 as a pandemic.
+  9
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES  
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 2 – Summary of Significant Accounting Policies – Continued
+  As of September 30, 2021, our locations and primary suppliers continue to operate. During the first half of 2021, there has been a trend in many parts of the world of increasing availability and administration of the vaccine against COVID-19, as well as an easing of restrictions on social, business, travel and government activities and functions. However, infection rates and regulation continue to fluctuate, and there continues to be global impacts resulting from the pandemic, including increases in costs in connection with logistics services and supply chains, port congestion, supplier delays and shortfalls in microchip supply. We continue to work through supplier constraints caused by the COVID-19 outbreak, as well as the microchip shortage.
+  Fair Value Measurements and Disclosures – The Fair Value Measurements and Disclosures topic of the Accounting Standards Codification (“ASC”) requires companies to determine fair value based on the price that would be received to sell the asset or paid to transfer the liability to a market participant. The Fair Value Measurements and Disclosures topic emphasizes that fair value is a market-based measurement, not an entity-specific measurement.
+  The guidance requires that assets and liabilities carried at fair value be classified and disclosed in one of the following categories:
+  ● Level 1: Quoted market prices in active markets for identical assets or liabilities.
+    ● Level 2: Observable market-based inputs or unobservable inputs that are corroborated by market data.
+    ● Level 3: Unobservable inputs that are not corroborated by market data.
+  The carrying value of certain on-balance-sheet financial instruments approximated their fair values due to the short-term nature of these instruments. These financial instruments include cash and cash equivalents, accounts receivable, notes receivable and accounts payable. As of September 30, 2021, the Company did not have any financial assets or liabilities measured and recorded at fair value on the Company’s consolidated balance sheets on a recurring basis.
+  Concentrations – The Company maintains cash balances at financial institutions that are insured by the Federal Deposit Insurance Corporation (“FDIC”) up to $250,000. The Company’s bank balances at times may exceed the FDIC limit. To date, the Company has not experienced any losses on its invested cash.
+  As of September 30, 2021 and 2020, there was one significant vendor that the Company relied upon to perform certain services for the Company’s technology platforms. This vendor provides services to the Company which can be replaced by alternative vendors should the need arise.
+  Receivables and Credit Policy – Trade receivables due from customers are uncollateralized customer obligations due under normal trade terms requiring payment within 30 days from the invoice date. Trade receivables are stated at the amount billed to the customer. The Company generally does not charge interest on overdue customer account balances. Payments of trade receivables are allocated to the specific invoices identified on the customer’s remittance advice or, if unspecified, are applied to the earliest unpaid invoices. Accounts receivable, net at September 30, 2021 and 2020 was $672,263 and $0, respectively.
+  The Company estimates an allowance for doubtful accounts based upon an evaluation of the current status of receivables, historical experience, and other factors as necessary. It is reasonably possible that the Company’s estimate of the allowance for doubtful accounts will change. The Company determined that an allowance of $17,516 was necessary as of September 30, 2021, and none was necessary as of December 31, 2020.
+  10
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 2 – Summary of Significant Accounting Policies – Continued
+   Inventories – Inventories, which consist of raw materials, finished goods and work-in-process, are stated at the lower of cost or net realizable value, with cost being determined by the average-cost method, which approximates the first-in, first-out method. The Company’s sensor equipment is manufactured by a third-party organization. Cost components include direct materials and direct labor. At each balance sheet date, the Company evaluates its ending inventories for excess quantities and obsolescence. This evaluation primarily includes an analysis of forecasted demand in relation to the inventory on hand, among consideration of other factors. The physical condition (e.g., age and quality) of the inventories is also considered in establishing its valuation. Based upon the evaluation, provisions are made to reduce excess or obsolete inventories to their estimated net realizable values. Once established, write-downs are considered permanent adjustments to the cost basis of the respective inventories. These adjustments are estimates, which could vary significantly, either favorably or unfavorably, from the amounts that the Company may ultimately realize upon the disposition of inventories if future economic conditions, customer inventory levels, product discontinuances, sales return levels or competitive conditions differ from the Company’s estimates and expectations. As of September 30, 2021, and December 31, 2020, the Company recorded a provision for obsolescence of $10,000.
+  Goodwill and Intangible Assets – The assets and liabilities of acquired businesses are recorded under the acquisition method of accounting at their estimated fair values at the date of acquisition. Goodwill represents costs in excess of fair values assigned to the underlying identifiable net assets of acquired businesses. Goodwill is not subject to amortization and is tested annually for impairment, or more frequently if events or changes in circumstances indicate that the carrying value of the goodwill may not be recoverable.
+  Intangible assets from acquired businesses are recognized at fair value on the acquisition date and consist of customer programs, trademarks, customer relationships, technology, and other intangible assets. Customer programs include values assigned to major programs of acquired businesses and represent the aggregate value associated with the customer relationships, contracts, technology, and trademarks underlying the associated program and are amortized on a straight-line basis over a period of expected cash flows used to measure fair value, which ranges from two to ten years.
+  Business Combinations – The Company recognizes, with certain exceptions, 100% of the fair value of assets acquired, liabilities assumed, and non-controlling interests when the acquisition constitutes a change in control of the acquired entity. Shares issued in consideration for a business combination, contingent consideration arrangements and pre-acquisition loss and gain contingencies are all measured and recorded at their acquisition-date fair value. Subsequent changes to fair value of contingent consideration arrangements are generally reflected in earnings. Any in-process research and development assets acquired are capitalized as of the acquisition date. Acquisition-related transaction costs are expensed as incurred. The operating results of entities acquired are included in the accompanying condensed interim consolidated statements of operations from the date of acquisition.
+  11
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 2 – Summary of Significant Accounting Policies – Continued
+  Revenue Recognition and Concentration – The majority of the Company’s revenue is generated primarily by three segments of the business; 1) the sale of sensors and cameras along with the related accessories 2) contractual agreements to develop, manufacture and/or modify complex drone related products, and to provide associated engineering, technical and other services according to customer specifications and 3) Software-as-a-Service (“SAAS) subscription sales. All contracts and agreements are a fixed price and are accounted for in accordance with ASC Topic 606, Revenue from Contracts with Customers (“ASC 606”).
+  The Company generally recognizes revenue on sales to customers, dealers and distributors upon satisfaction of performance obligations which generally occurs once controls transfer to customers, which is when product is shipped or delivered depending on specific shipping terms and, where applicable, a customer acceptance has been obtained. The fee is not considered to be fixed or determinable until all material contingencies related to the sales have been resolved. The Company records revenue in the statements of operations net of any sales, use, value added, or certain excise taxes imposed by governmental authorities on specific sales transactions and net of any discounts, allowances and returns.
+  Under fixed-price contracts, the Company agrees to perform the specified work for a pre-determined price. To the extent the Company’s actual costs vary from the estimates upon which the price was negotiated, it will generate more or less profit or could incur a loss. The Company accounts for a contract after it has been approved by all parties to the arrangement, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable.
+  Additionally, customer payments received in advance of the Company completing performance obligations are recorded as contract liabilities. Customer deposits represent customer prepayments and are recognized as revenue when the term of the sale or performance obligation are completed. The balance of contract liabilities as of September 30, 2021 was $615,860 and $2,302 as of December 31, 2020.
+  The Company’s FarmLens, Atlas and Ground Control platforms are offered on a subscription basis. These subscription fees are recognized ratably over each monthly membership period as the services are provided.
+  Sales concentration information for customers comprising more than 10% of the Company’s total net sales is summarized as follows:
+                      Percent of total revenues for the nine months ended September 30,
+Customers   2021   2020
+Customer A     — %     94.4 %
+  No accounts receivable was due from Customer A as of September 30, 2021, and December 31, 2020, respectively.
+  12
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 2 – Summary of Significant Accounting Policies – Continued
+   The table below reflects our revenue for the quarters indicated by product mix.
+                                      For the three months ended September 30,   For the nine months ended September 30,
+Type   2021   2020   2021   2020
+Drone and Custom Manufacturing Sales   $ (59,493 )   $ 733,493     $ 400     $ 1,105,971  
+Sensors Sales     1,905,829       —       5,288,397       —  
+Software Subscription Sales     175,371       16,832       371,865       51,959  
+Total   $ 2,021,707     $ 750,325     $ 5,660,662     $ 1,157,930  
+  Shipping Costs – Shipping costs recorded for the three months ended September 30, 2021, and 2020 were $27,024 and $98, respectively and $62,614, and $6,122 for the nine months ended September 30, 2021 and 2020, respectively. All shipping costs billed directly to the customer are directly offset to shipping costs resulting in a net expense to the Company which is included in cost of goods sold on the accompanying condensed interim consolidated statements of operations.
+  Research and Development Expenses – Research and development costs are expensed as incurred and are included as part of the accompanying condensed interim consolidated statements of operations. For the three and nine months ended September 30, 2021, the Company recorded research and development costs of $777,036 and $2,115,367, respectively. For the three and nine months ended September 30, 2020, no research and development costs were recorded during that period.
+  Loss Per Common Share – Basic loss per share is computed by dividing net loss by the weighted average number of common shares outstanding for the period. Diluted loss per share is computed by dividing net loss by the weighted average number of common shares outstanding plus Common Stock, par value $0.001 (“Common Stock”), equivalents (if dilutive) related to warrants, options, and convertible instruments.
+  Potentially Dilutive Securities – The Company has excluded all common equivalent shares outstanding for warrants, options and convertible instruments to purchase Common Stock from the calculation of diluted net loss per share, because all such securities are anti-dilutive for the periods presented. As of September 30, 2021, the Company had no warrants, 539,735 unvested restricted stock awards and 2,378,957 options to purchase Common Stock. As of September 30, 2020, the Company had 3,022,254 warrants, and 2,110,154 options to purchase Common Stock.
+  Leases – The Company accounts for its operating leases in accordance with FASB Accounting Standards Update 2016-02 – Leases (Topic 842). Lessees recognize a right-of-use asset and a lease liability for virtually all their leases. Additionally, the Company recognizes assets and liabilities for leases with lease terms of more than twelve months. Consistent with current GAAP, the recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification as a finance or operating lease.
+   Income Taxes – The Company accounts for income taxes in accordance with FASB ASC Topic 740, Accounting for Income Taxes. This topic requires an asset and liability approach for accounting for income taxes. The Company evaluates its tax positions that have been taken or are expected to be taken on income tax returns to determine if an accrual is necessary for uncertain tax positions. The Company will recognize future accrued interest and penalties related to unrecognized tax benefits in income tax expense if incurred. All income tax returns not filed more than three years ago are subject to federal and state tax examinations by tax authorities.
+  13
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 2 – Summary of Significant Accounting Policies – Continued
+  Stock-Based Compensation Awards – The Company accounts for its stock-based awards in accordance with ASC Subtopic 718-10, “Compensation – Stock Compensation”, which requires fair value measurement on the grant date and recognition of compensation expense for all stock-based payment awards made to employees and directors. For stock options, the Company estimates the fair value using a closed option valuation (Black-Scholes) model. The estimated fair value is then expensed over the requisite service period of the award which is generally the vesting period, and the related amount is recognized in the accompanying consolidated statements of operations within general and administrative expenses. The Company recognizes forfeitures at the time they occur.
+  The Black-Scholes option-pricing model requires the input of certain assumptions that require the Company’s judgment, including the expected term and the expected stock price volatility of the underlying stock. The assumptions used in calculating the fair value of stock-based compensation represent management’s best estimates, but these estimates involve inherent uncertainties and the application of judgment. As a result, if factors change resulting in the use of different assumptions, stock-based compensation expense could be materially different in the future.
+  Recently Issued Accounting Pronouncements
+  In June 2016, the FASB issued ASU 2016-13, Financial Instruments – Credit Losses (Topic 326), which provides guidance on how an entity should measure credit losses on financial instruments. The ASU is effective for smaller reporting companies for fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. The Company does not expect this ASU to have a material impact on its consolidated financial statements.
+  In December 2019, the FASB issued ASU 2019-12, “Income Taxes (Topic 740) - Simplifying the Accounting for Income Taxes.” The guidance issued in this update simplifies the accounting for income taxes by eliminating certain exceptions to the guidance in ASC 740 related to the approach for intra-period tax allocation, the methodology for calculating income taxes in an interim period and the recognition for deferred tax liabilities for outside basis differences. ASU 2019-12 also simplifies aspects of the accounting for franchise taxes and enacted changes in tax laws or rates and clarifies the accounting for transactions that result in a step-up in the tax basis of goodwill. The ASU became effective for the Company on March 1, 2021 and is not expected to have a significant impact on the Company’s consolidated financial statements.
+  Other recent accounting pronouncements issued by FASB did not or are not believed by management to have a material impact on the Company’s present or future consolidated financial statements.
+  Note 3 – Inventories
+  Inventories consist of the following at:
+                      September 30,
+2021   December 31,
+2020
+Raw materials   $ 1,281,411     $ 88,091  
+Work-in process     219,373       50,447  
+Finished goods     246,844       7,109  
+Gross inventory     1,747,628       145,647  
+Less: inventory reserve     (10,000 )     (10,000 )
+Total   $ 1,737,628     $ 135,647  
+  14
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 4 – Notes Receivable
+  On October 14, 2020, the Company executed a Convertible Promissory Note pursuant to which the Company has made a loan to Valqari, LLC (“Valqari”), in the principal aggregate amount of $500,000 (the “Note”), which amount accrues interest at a rate of three percent per annum.
+  The loan matured on April 15, 2021 (the “Maturity Date”), at which time all outstanding principal and interest that has accrued, but remains, unpaid was due. The Note provides for an automatic six month extension of the Maturity Date under the following circumstances (i) Valqari has received in writing, (x) a good faith acquisition offer at a consideration value greater than $15,000,000, (y) such offer, upon consummation, would result in a change in control (as defined in the note) of Valqari, and (z) at such time Valqari, is actively engaged in the negotiation or finalization of such acquisition transaction; or (ii) Valqari has initiated, or is in the process of initiating, a conversion to a “C-Corporation” under the Internal Revenue Code, whereas such conversion will be completed no later than one day prior to the extended Maturity Date. Valqari may not prepay the Note prior to the Maturity Date. On April 15, 2021, the Note was extended for an additional six months as outlined per the agreement until October 14, 2021.
+   In the event of a change in control or conversion of Valqari to a “C-Corporation” under the Internal Revenue Code on or before the Maturity Date, the Company may convert the outstanding principal amount of the Note and any unpaid accrued interest into (i) Class B Common Units of Valqari: immediately prior to the closing of a Change in Control or (ii) upon Valqari’s conversion to a C-corporation, shares of Valqari Common stock, in both cases at a conversion price no higher than a pre-money valuation of $15,000,000.
+  The Note is subject to customary representations and warranties by Valqari, as well as events of default, which may lead to acceleration of the payment of the Note such as (i) failure to pay all of the outstanding principal, plus accrued interest on the Maturity Date, (ii) Valqari filing a petition or action under any bankruptcy, or other law, or (iii) an involuntary petition is filed again Valqari under any bankruptcy statute (that is not dismissed or discharged within 60 days). The indebtedness evidenced by the Note is subordinated in right of payment to the prior payment in full of any senior indebtedness (as defined in the Note) in existence on the date of the Note or incurred thereafter.
+  AgEagle demanded payment of the Note, including accrued interest; based on the initial maturity date of April 14, 2021; however, Valqari has alleged that the note’s maturity date was extended to October 14, 2021. Upon maturity in October 2021, AgEagle has demanded payment of the note, including accrued interest; however, Valqari has sought a substantial discount on the amount due under the note to compensate for alleged breaches by AgEagle under the manufacturing agreement. AgEagle disputes the allegations of breach and believes that it is owed a net amount by Valqari under the manufacturing agreement, in addition to the amount due under the note. The parties are continuing to negotiate in an attempt to reach an amicable resolution of their disputes; however, AgEagle reserves the right to take legal action to collect the note in the event that a prompt settlement is not reached.
+  On November 16, 2020, the Company (Payee) executed a promissory note in connection with its acquisition for 100% of the capital stock of MicaSense Inc., (“MicaSense”) (the “MicaSense Acquisition”). As of June 30, 2021, Parrot Drones S.A.S. promised to pay to the Company the principal amount of $100,000 provided, however that such principal amount was off-set and reduced by all amounts paid or due in connection with the purchase price upon closing of the MicaSense Acquisition.
+  On August 25, 2021, the Company (Payee) executed a promissory note in connection with its acquisition for 100% of the capital stock of senseFly S.A., (“senseFly”) and senseFly Inc. (the “senseFly Acquisition”). As of September 30, 2021, Parrot Drones S.A.S. promised to pay to the Company the principal amount of $200,000 provided, however that such principal amount would be off-set and reduced by all amounts paid or due in connection with the purchase price upon closing of the senseFly Acquisition.
+  15
+     AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 5 – Property and Equipment
+  Property and equipment consist of the following at:
+                      Type   Estimated Life   September 30, 2021   December 31, 2020
+Leasehold improvements   3 Years   $ 22,265     $ 22,265  
+Equipment and vehicles   5 Years     126,667       100,532  
+Computer equipment   3-5 Years     175,598       23,369  
+Office furniture   5 Years     57,604       54,798  
+Drone equipment   3 Years     95,393       32,138  
+Production fixtures   5 Years     91,149       —  
+Total         568,676       233,102  
+Less accumulated depreciation         (185,740 )     (110,513 )
+Total Property and equipment, net       $ 382,936     $ 122,589  
+  Depreciation expense for the three months ended September 30, 2021 and 2020 was $36,226 and $5,722 respectively and $90,281 and $13,608 for the nine months ended September 30, 2021 and 2020, respectively. During the nine months ended September 30, 2021, the company recorded $15,054 on disposal, resulting in a loss of $3,712 which is included in other expenses on the consolidated interim statements of operations.
+   Note 6 – Goodwill and Intangible Assets
+  Intangible assets are recorded at cost and consist of the intangible assets acquired and platform development costs incurred for HempOverview and Measure Ground Control. The acquired intangibles consist of the FarmLens platform, acquired in 2018, and the intangibles acquired as a result of the acquisitions of MicaSense, Inc. and Measure Global, Inc., acquired in 2021 (see Note 7).
+  Goodwill and intangible assets were comprised of the following as of September 30, 2021and December 31, 2020:
+                                              Name   Estimated Life   Balance at December 31, 2020   Additions   Amortization   Impairment   Balance at September 30, 2021
+Intellectual property/technology    5-7 Years   $ 231,146     $ 2,664,448     $ (280,553 )   $ —     $ 2,615,041  
+Customer relationships    3-10 Years     38,400       1,878,658       (178,324 )     —       1,738,734  
+Tradenames and trademarks    5-10 Years     31,040       1,196,203       (78,838 )     —       1,148,405  
+Non-compete agreement   2-4 Years     67,042       62,521       (45,799 )     —       83,764  
+Platform development costs   3 Years     72,899       762,881       (110,906 )     —       724,874  
+ Total Intangible Assets       $ 440,527     $ 6,564,711     $ (694,420 )   $     $ 6,310,818  
+ 
+ 
+Goodwill       $ 3,108,000     $ 61,465,288     $ —     $ —     $ 64,573,288  
+Total       $ 3,548,527     $ 68,029,999     $ (694,420 )   $ —     $ 70,884,106  
+  The weighted average remaining amortization period in years is 6.28 years. Amortization expense for the three months ended September 30, 2021, and 2020 was $293,599 and $38,236, respectively; and $694,420 and $114,710 for the nine months ended September 30, 2021 and 2020, respectively.
+  16
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+   Note 6 – Goodwill and Intangible Assets – Continued
+  Future amortization is as follows for fiscal years ending:
+                                                      Remaining 2021   2022   2023   2024   2025 and Thereafter   Total
+Intellectual property/technology   $ 116,829     $ 467,315     $ 438,422     $ 380,635     $ 1,211,840     $ 2,615,041  
+Customer relationships     75,230       300,921       296,121       180,819       885,643       1,738,734  
+Tradenames and trademarks     32,815       131,260       127,380       119,620       737,330       1,148,405  
+Non-compete agreement     17,871       58,077       7,816       —       —       83,764  
+Platform development costs     50,854       278,593       278,593       116,834       —       724,874  
+Total   $ 293,599     $ 1,236,166     $ 1,148,332     $ 797,908     $ 2,834,813     $ 6,310,818  
+  Note 7 – Acquisition
+  MicaSense
+  On January 27, 2021, the Company entered into a stock purchase agreement (the “MicaSense Purchase Agreement”) with Parrot Drones S.A.S. and Justin B. McAllister (the “MicaSense Sellers”) pursuant to which the Company agreed to acquire 100% of the issued and outstanding capital stock of MicaSense, Inc. (“MicaSense”) from the MicaSense Sellers. MicaSense is based in Washington and manufactures and sells its patented, high precision thermal and multispectral sensors, serving the aerial mapping and analytics needs of the agriculture market. In addition, MicaSense’s patented technologies are well positioned to address applications in advanced inspection in the energy, construction and government sectors, among other solutions. MicaSense’s high performance proprietary products, including Altum, RedEdge-MX, RedEdge-MX Blue and Atlas Flight, have global distribution in over 70 countries. The aggregate purchase price for the shares of MicaSense was $23,000,000, less any debt and subject to a customary working capital adjustment. A portion of the consideration is comprised of shares of Common stock of the Company, having an aggregate value of $3,000,000 based on a volume weighted average trading price of the Common stock over a ten consecutive trading day period prior to the date of issuance of the shares of Common stock to the MicaSense Sellers on April 27, 2021 (the “Shares”), in the amount of 540,541 restricted shares of Common stock. The consideration is also subject to a $4,750,000 holdback to cover any post-closing indemnification claims and to satisfy any purchase price adjustments. The holdback is scheduled to be released in two equal installments, less any amounts paid or reserved for outstanding indemnity claims, on March 31, 2022 and March 31, 2023 in accordance with the terms of the MicaSense Purchase Agreement. As a result of this transaction, MicaSense is now a wholly-owned subsidiary of the Company.
+  The Company filed a Form S-3 Registration Statement (the “Registration Statement”) covering the resale of the Shares with the SEC on May 10, 2021. The Registration Statement was declared effective on June 1, 2021 (File Number: 333-255940). In addition, the Company shall use its best efforts to keep the Registration Statement effective and in compliance with the provisions of the Securities Act (including by preparing and filing with the SEC such amendments, including post-effective amendments, and supplements to the Registration Statement and the prospectus used in connection therewith as may be necessary) until all Shares and other securities covered by such Registration Statement have been disposed of. The MicaSense Sellers are required to reimburse the Company up to $50,000 for reasonable legal fees and expenses incurred by the Company in connection with such registration.
+  17
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 7 – Acquisition – Continued
+  The MicaSense Purchase Agreement contains certain customary representations, warranties and covenants, including representations and warranties by the MicaSense Sellers with respect to MicaSense’s business, operations and financial condition. The MicaSense Purchase Agreement also includes post-closing covenants relating to the confidentiality and employee non-solicitation obligations of the MicaSense Sellers, and the agreement of the MicaSense Sellers not to compete with certain aspects of the business of MicaSense following the closing of the transaction. The completion of the transactions contemplated by the MicaSense Purchase Agreement is subject to customary closing conditions, including, among others: (i) the absence of a material adverse effect on MicaSense, (ii) the delivery by the parties of certain ancillary documents, including the Registration Rights Agreement, and (iii) the execution by a key employee of MicaSense of an employment agreement. Subject to certain limitations, each of the parties will be indemnified for damages resulting from third party claims and breaches of the parties’ respective representations, warranties, and covenants in the MicaSense Purchase Agreement.
+  The fair value of the purchase consideration was allocated to the net tangible assets acquired and to the separately identifiable intangible assets. The excess of the aggregate fair value of the net tangible assets and identified intangible assets has been treated as goodwill in accordance with ASC 805.
+  The Company has performed a preliminary valuation analysis of the fair market value of the assets acquired and liabilities assumed. Using the total consideration for the Acquisition, the Company has estimated the allocations to such assets and liabilities.
+  The final purchase price allocation will be determined when the Company has completed the detailed valuations and necessary calculations. The final allocation could differ materially from the preliminary allocation used in the pro forma adjustments. The final allocation may include (1) changes in fair values of tangible assets; (2) changes in allocations to intangible assets such as trade names, developed technology and customer relationships, as well as goodwill; and (3) other changes to assets and liabilities. As of September 30, 2021, the Company has recorded a change to Goodwill as a result of changes in the preliminary allocation used to determine revenue and costs attributed to the purchase price allocation.
+  The following table summarizes the allocation of the purchase price as of the acquisition date of January 27, 2021:
+      Calculation of Goodwill:    
+Net purchase price, including debt paid at close   $ 23,554,169  
+          Plus: fair value of liabilities assumed:        
+Deferred revenue     40,812  
+Fair value of liabilities assumed   $ 40,812  
+          Less: fair value of assets acquired:        
+Cash & short-term investments     885,272  
+Other tangible assets     542,978  
+Identifiable intangibles     3,133,141  
+          Fair value of assets acquired   $ 4,561,391  
+          Net nonoperating assets     25,000  
+Adjustment for seller transaction expenses related to purchase price allocation     32,032  
+Goodwill   $ 18,976,558  
+  18
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 7 – Acquisition – Continued
+  Measure
+  On April 19, 2021, the Company entered into a stock purchase agreement (the “Measure Purchase Agreement”) with Brandon Torres Declet, in his capacity as Measure Sellers’ representative, and the sellers named in the Measure Purchase Agreement (the “Measure Sellers”) pursuant to which the Company agreed to acquire 100% of the issued and outstanding capital stock of Measure Global Inc., a Delaware corporation (“Measure”) from the Measure Sellers. Measure is an aerial intelligence company that builds software to automate drone operations workflows. The aggregate purchase price for the shares of Measure is $45,000,000, less the amount of Measure’s debt and transaction expenses and subject to a customary working capital adjustment. The purchase price is comprised of $15,000,000 in cash, and shares of Common stock of the Company, having an aggregate value of $30,000,000 based on a volume weighted average trading price of the Common stock over a seven consecutive trading day period prior to the date of issuance of the shares of Common stock to the Measure Sellers (the “Shares”). The Company issued 5,319,145 shares, in the aggregate, to the Measure Sellers and will pay $5,000,000 of the cash portion of the purchase price 90 days after the closing date of the transaction. As a result of this transaction, Measure is now a wholly-owned subsidiary of the Company. As of September 2021, the Company completed the payment of the cash portion of the purchase price.
+  The consideration is also subject to a $5,625,000 holdback to cover any post-closing indemnification claims and to satisfy any purchase price adjustments. The holdback is scheduled to be released on the date that is 18 months from the closing date, less any amounts paid or reserved for outstanding indemnity claims and certain amounts subject to employee retention conditions set forth in the Measure Purchase Agreement.
+  The Measure Purchase Agreement contains certain customary representations, warranties and covenants, including representations and warranties by the Measure Sellers with respect to Measure’s business, operations and financial condition. The Measure Purchase Agreement also includes post-closing covenants relating to the confidentiality and employee non-solicitation obligations of the Measure Sellers, and the agreement of the Measure Sellers not to compete with certain aspects of the business of Measure following the closing of the transaction. The completion of the transactions contemplated by the Purchase Agreement is subject to: (i) the absence of a material adverse effect on Measure, (ii) the delivery by the parties of certain ancillary documents, and (iii) the execution by key employees of Measure of employment offer letters. Subject to certain limitations, each of the parties will be indemnified for damages resulting from third party claims and breaches of the parties’ respective representations, warranties and covenants in the Purchase Agreement.
+  The Shares issuable to the Measure Sellers pursuant to the Measure Purchase Agreement were issued in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended (the “Securities Act”), to a limited number of persons who are “accredited investors” or “sophisticated persons” as those terms are defined in Rule 501 of Regulation D promulgated by the SEC, without the use of any general solicitation or advertising to market or otherwise offer the securities for sale. None of the Shares have been registered under the Securities Act, or applicable state securities laws, and none may be offered or sold in the United States absent registration under the Securities Act or an exemption from such registration requirements.
+  The fair value of the purchase consideration was allocated to the preliminary fair value of the net tangible assets acquired and to the separately identifiable intangible assets. The excess of the aggregate fair value of the net tangible assets and identified intangible assets has been treated as goodwill in accordance with ASC 805.
+  19
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 7 – Acquisition – Continued
+  The Company has performed a preliminary valuation analysis of the fair market value of the assets to be acquired and liabilities to be assumed. Using the total consideration for the Acquisition, the Company has estimated the allocations to such assets and liabilities.
+  The preliminary purchase price allocation has been used to prepare pro forma adjustments in the pro forma balance sheet. The final purchase price allocation will be determined when the Company has completed the detailed valuations and necessary calculations. The final allocation could differ materially from the preliminary allocation used in the pro forma adjustments. The final allocation may include (1) changes in fair values of tangible assets; (2) changes in allocations to intangible assets such as trade names, developed technology and customer relationships, as well as goodwill; and (3) other changes to assets and liabilities.
+  The following table summarizes the allocation of the preliminary purchase price as of the acquisition date of April 19, 2021:
+      Calculation of Goodwill:    
+Net purchase price, including debt paid at close   $ 45,403,394  
+          Plus: fair value of liabilities assumed:        
+Deferred revenue     319,422  
+Fair value of liabilities assumed   $ 319,422  
+          Less: fair value of assets acquired:        
+Cash     486,544  
+Other tangible assets     39,078  
+Identifiable intangibles     2,668,689  
+          Fair value of assets acquired   $ 3,194,311  
+          Net nonoperating assets     39,775  
+Goodwill   $ 42,488,730  
+  Note 8 – Promissory Note
+  On May 6, 2020, the Company received a loan in the amount of $107,439 from the Small Business Administration (SBA) as part of Coronavirus Aid, Relief and Economic Security Act’s Paycheck Protection Plan (PPP). The loan is unsecured, nonrecourse, accrues interest at one percent per annum, with a due date of May 6, 2022. Under the terms of the loan, a portion or all of the loan is forgivable to the extent that the loan proceeds are used to fund qualifying payroll, rent and utilities during a designated twenty-four-week period through October 21, 2020.
+  The unforgiveable portion of the PPP loan was payable over two years and could be extended to five years if agreed upon by both parties and bears interest at a rate of 1%, with a deferral of payments for the first six months. The Company intended to use the proceeds for purposes consistent with the PPP. On May 16, 2021, the outstanding principal and interest accrued on the PPP Term Note were fully forgiven. The Company recognized $108,532 in gain on the forgiveness of the PPP Term Note including interest accrued, which was recorded in other (expense) income on the condensed interim consolidated statements of operations.
+  20
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity
+  Capital Stock Issuances
+  On January 2021, the Company issued 1,057,214 shares of Common stock in connection with a securities purchase agreement (the “December Purchase Agreement”) entered on December 31, 2020, the gross proceeds associated to this exercise were $6,313,943, net of issuance costs.
+  On February 8, 2021, the Company received $8,305,368 in additional gross proceeds associated with the exercise of 2,516,778 of warrants issued at a price of $ in connection with a securities purchase agreement dated August 4, 2020.
+  Securities Purchase Agreement Dated December 31, 2020
+  On December 31, 2020, the Company and an Investor entered into the December Purchase Agreement pursuant to which the Company agreed to sell to the Investor in a registered direct offering pre-funded warrants (the “December Pre-Funded Warrants”) to purchase up to 1,057,214 shares of Common stock, par value $0.001 Common Stock, for gross proceeds of approximately $6.35 million (which includes subsequent payment of the exercise price of the December Pre-Funded Warrants in the amount of $1,057). The shares of Common Stock underlying the December Pre-Funded Warrants are referred to as the “December Warrant Shares.”
+  The purchase price for each December Pre-Funded Warrant was $6.029, the exercise price for each December Pre-Funded Warrant was $0.001. Net proceeds from the sale were used for working capital. The December Pre-Funded Warrants and the December Warrant Shares were offered by the Company pursuant to an effective shelf registration statement on Form S-3 (File No. 333-239157), which was declared effective on June 19, 2020.
+  Pursuant to the terms of the December Purchase Agreement, the Company agreed to certain restrictions on future stock offerings, including that during the 45-trading day period following the closing, the Company did not issue (or enter into any agreement to issue) any shares of Common Stock or Common Stock equivalents, subject to certain limited exceptions. The Investor had a right from the date of the December Purchase Agreement until April 30, 2021 to participate in a subsequent financing by the Company or any of its Subsidiaries of Common Stock or Common Stock equivalents for cash consideration, indebtedness or a combination of units thereof (a “Subsequent Financing”), in an amount equal to 50% of the Subsequent Financing on the same terms, conditions and price provided for in the Subsequent Financing.
+  The exercise price of the December Prefunded Warrants and the number of December Warrant Shares issuable upon the exercise thereof were subject to adjustment in the event of any stock dividends and splits, reverse stock split, recapitalization, reorganization or similar transaction, as described in the December Prefunded Warrants. The December Pre-Funded Warrants allowed for cashless exercise at any time. The December Pre-Funded Warrants contained a beneficial ownership limitation such that none of the December Pre-Funded Warrants could be exercised, if, at the time of such exercise, the holder would become the beneficial owner of more than 9.99% of our outstanding shares of Common Stock following the exercise of such December Pre-Funded Warrants.
+  21
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity – Continued
+  Filing of Registration Statement and Sales Agreement
+  Pursuant to the terms of the Registration Rights Agreement executed on February 5, 2021, the Company filed an initial registration statement for up to $200,000,000 of securities which may be issued by the registrant from time to time in indeterminate amounts and at indeterminate times.
+  On May 25, 2021, the Company entered into an at-the-market Sales Agreement (the “Sales Agreement”) with Stifel, Nicolaus & Company, Incorporated and Raymond James & Associates, Inc. as sales agents (the “Agents”), in connection with the offer and sale from time to time of shares of the Company’s Common stock, having an aggregate offering price of up to $100,000,000 (the “ATM Shares”), through an at-the-market equity offering program (the “ATM Offering”).
+  The ATM Shares are being offered and sold pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-252801), which was filed with the Securities and Exchange Commission (the “SEC”) on February 5, 2021 and declared effective on May 6, 2021. A prospectus supplement relating to the ATM Offering was filed with the SEC on May 25, 2021.
+  Subject to the terms and conditions of the Sales Agreement, the Sales Agents will use reasonable efforts, consistent with its normal trading and sales practices and applicable law and regulations to sell ATM Shares from time to time based upon the Company’s instructions, including any price, time or size limits or other customary parameters or conditions the Company may impose.
+  Under the Sales Agreement, the Sales Agents may sell ATM Shares by any method permitted by law deemed to be an “at the market offering” as defined in Rule 415 of the Securities Act of 1933, as amended (the “Securities Act”), and the rules and regulations thereunder, including, without limitation, sales made by means of ordinary brokers’ transactions, directly on or through NYSE American LLC, on or through any other national securities exchange or facility thereof, a trading facility of a national securities association, an alternative trading system, or any other market venue, in the over-the-counter market, in privately negotiated transactions, to or through a market maker or a combination of any such methods. The Company agreed to pay the Sales Agents a commission equal to 3% of the gross proceeds from the sales of ATM Shares pursuant to the Sales Agreement.
+  The Sales Agreement contains customary representations and warranties and also contains customary indemnification obligations of the Company and the Sales Agents, including for liabilities under the Securities Act, other obligations of the parties and termination provisions.
+  The provisions of the Sales Agreement, including the representations and warranties contained therein, are not for the benefit of any party other than the parties to such agreement and are not intended as documents for investors and the public to obtain factual information about the current state of affairs of the parties to those documents and agreements. Rather, investors and the public should look to other disclosures contained in the Company’s filings with the SEC.
+  During the period from May 29, 2021, through September 30, 2021, the Company sold 5,705,877 shares of Common stock, par value $0.001, at a stock price between $5.00 and $6.30 per shares, for proceeds of $30,868,703, net of costs.
+  22
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity – Continued
+  Issuances of Restricted Stock Units (RSUs)
+  On May 18, 2020, the Company issued in connection with the commencement of employment of its Chief Executive Officer (“CEO”), 100,000 shares of RSUs under the Company’s 2017 Omnibus Equity Incentive Plan (the “Plan”), which will fully vest after one year of continued employment. The Company determined the fair-market value of the RSUs to be $134,000. In connection with the issuance of these RSUs, the Company recognized $0 and $50,516, respectively in stock compensation expense for the three and nine months ended September 30, 2021. For the three and nine months ended September 30, 2020 the Company recognized $33,688 and $49,794, respectively. All stock compensation costs are included within general and administrative expenses on the condensed interim consolidated statements of operations. There was no remaining unrecognized stock compensation expense as of September 30, 2021.
+  On March 5, 2021, the Company issued its Chief Financial Officer 10,000 restricted shares of Common Stock and 5,000 restricted shares of Common Stock to another employee of the Company. The Company recognized a total of $0 and $87,600 of expense at a fair value of $5.84 per share within stock compensation expense related to these issuances for the three and the nine months ended September 30, 2021, respectively, which is included in general and administrative expenses on the consolidated statements of operations.
+  On April 19, 2021, the board of directors of the Company (the “Board”), upon recommendation of the Compensation Committee, approved an award under the Company’s Plan of 100,000 RSUs to the Company’s former Chief Executive Officer, and 125,000 RSUs to the Company’s Chief Financial Officer and EVP of Operations, in accordance therewith with their amended respective employment letters. The Company determined the fair market value of the restricted stock units to be $1,215,000 based on the market price of the Company’s Common stock at the date of grant and will vest equally on a pro-rata basis over one year of continued employment. Upon separation of the former CEO, 91,667 of the RSUs granted were canceled. For the three months ended September 30, 2021, the Company recorded $168,750 related to these awards and $348,022 for the nine months ended September 30, 2021, in stock expenses which are included in general and administrative expenses on the consolidated statements of operations.
+  On April 19, 2021, the Board approved, in connection with the acquisition of Measure, an award of 125,000 RSUs under the Company’s Plan to Brandon Torres Declet upon his appointment as senior management of the Company. The Company determined the fair market value of the restricted stock units to be $675,000 based on the market price of the Company’s Common stock at the date of grant and will vest equally on a pro-rata basis over one year of continued employment. For the three and nine months ended September 30, 2021, the Company recorded $168,750 and $303,023, respectively in stock expense related to these awards which are included in general and administrative expenses on the consolidated statements of operations.
+  On April 19, 2021, the Board approved, in connection with the acquisition of Measure, an award of 10,000 RSUs under the Company’s Plan to Jesse Stepler upon his appointment of as senior management of Measure Global, Inc. The Company determined the fair market value of the restricted stock units to be $54,000 based on the market price of the Company’s Common stock at the date of grant and will vest equally on a pro-rata basis over one year of continued employment. For the three and nine months ended September 30, 2021, the Company recorded $13,500 and $24,238 respectively in stock expense related to these awards which are included in general and administrative expenses on the consolidated statements of operations.
+  During the month of May 2021, pursuant to a review of the compensation of the senior management managements’ performance in 2020, the Board granted 229,750 RSUs to certain senior managers of the Company. These awards were valued at approximately $1,196,565 at the date of issuance, based upon the market price of the Company’s Common stock at the date of the grant, and vested immediately. For the three and nine months ended September 30, 2021, the Company recorded $0 and $1,196,565, respectively in stock-based expense related to these awards which are included in general and administrative expenses on the consolidated statements of operations.
+  23
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity – Continued
+  On May 24, 2021, the Company issued to the former Chief Executive Officer, 26,652 RSUs as part of the separation agreement. These awards were valued at approximately $125,000 at the date of issuance, based upon the market price of the Company’s common stock at the date of the grant, and vested immediately. For the three and nine months ended September 30, 2021, the Company recorded $0 and $125,000, respectively in stock expense related to these awards which are included in general and administrative expenses on the consolidated statements of operations.
+  The following table outlines the restricted stock unit activity for the nine months ended September 30, 2021:
+                  Weighted
+        Average
+        Grant Date
+    Shares   Fair Value
+Non-vested, December 31, 2020     100,000     $ 1.34  
+Granted     631,402     $ 5.31  
+Canceled     (91,667 )   $ 5.40  
+Vested     (475,568 )   $ 5.25  
+Non-vested, September 30, 2021     164,167     $ 5.40  
+  As of September 30, 2021, the Company had approximately $773,716 of total unrecognized compensation cost related to RSUs which will be amortized over approximately ten months.
+  Issuance of common stock for acquisitions
+  On April 19, 2021, the Company issued 5,319,145 shares of Common Stock in connection with the Measure Purchase Agreement based on a volume weighted average trading price of the Common Stock over a ten consecutive trading day period prior to the date of issuance of these shares of Common Stock at the fair market value of $24,375,000.
+  On April 27, 2021, the Company issued 540,541 shares of Common Stock in connection with the MicaSense Purchase Agreement based on a volume weighted average trading price of the Common Stock over a ten consecutive trading day period prior to the date of issuance of these shares of Common Stock at the fair market value of $3,000,000.
+  Options
+  On March 26, 2018, the 2017 Omnibus Equity Incentive Plan (the “Plan”) became effective. Under the Plan, the Company can grant equity-based and other incentive awards to officers, employees, and directors of, and consultants and advisers to, the Company. The purpose of the Plan is to help the Company attract, motivate, and retain such persons and thereby enhance shareholder value. The Plan shall continue in effect, unless sooner terminated, until the tenth (10th) anniversary of the date on which it is adopted by the Board of Directors (except as to awards outstanding on that date). The Board of Directors in its discretion may terminate the Plan at any time with respect to any shares for which awards have not theretofore been granted; provided, however, that the Plan’s termination shall not materially and adversely impair the rights of a holder, without the consent of the holder, with respect to any award previously granted.
+  24
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity – Continued
+  On June 16, 2021, the Company held its 2021 annual meeting of stockholders and approved a proposal to increase the number of shares of Common Stock reserved for issuance under the Plan from 4,000,000 to 10,000,000. To the extent that an award lapses, expires, is canceled, is terminated unexercised or ceases to be exercisable for any reason, or the rights of its holder terminate, any shares subject to such award shall again be available for the grant of a new award. The number of shares for which awards which are options or SARs may be granted to a participant under the Plan during any calendar year is limited to 500,000. For purposes of qualifying awards as “performance-based” compensation under Code Section 162(m), the maximum amount of cash compensation that may be paid to any person under the Plan in any single calendar year shall be $500,000.
+  During the nine months ended September 30, 2021, the Company issued options to purchase 849,500 shares of Common Stock to directors and employees of the Company at exercise prices ranging from $2.94 to $10.11 per share expiring on dates between January 3, 2025 and September 29, 2026. The Company determined the fair-market value of these unvested options to be $2,787,934. In connection with the issuance of these options to employees and directors, the Company recognized $274,831 and $601,326 in stock compensation expense for the three and nine months ended September 30, 2021, respectively.
+  The Company previously issued options to purchase 3,469,540 shares of Common Stock to directors and employees of the Company at exercise prices ranging from $0.06 to $3.18 per share expiring on dates between March 30, 2023 and September 29, 2029. In connection with the issuance of these options to employees and directors, the Company recognized $167,200 and $584,391 in stock compensation expense for the three and nine months ended September 30, 2021. The Company recognized $ 91,144 and $214,594 in stock compensation expense for the three and nine months ended September 30, 2020, respectively.
+  During the nine months ended September 30, 2021, 237,934 options were cancelled for a fair-market value of $307,950 due to employee terminations.
+  The fair value of options granted during the nine months ended September 30, 2021 and 2020 were determined using the Black-Scholes option valuation model. The expected term of options granted is based on the simplified method in accordance with Securities and Exchange Commission Staff Accounting Bulletin 107 and represents the period of time that options granted are expected to be outstanding. The Company makes assumptions with respect to expected stock price volatility based on the average historical volatility of peers with similar attributes. In addition, the Company determines the risk-free rate by selecting the U.S. Treasury with maturities similar to the expected terms of grants, quoted on an investment basis in effect at the time of grant for that business day.
+  The significant assumptions relating to the valuation of the Company’s stock options granted during the nine months ended September 30, 2021, were as follows:
+              September 30, 2021
+Dividend yield     0.00 %
+Expected life     3.01 Years  
+Expected volatility     84.01 %
+Risk-free interest rate     0.37 %
+Exercise price     $2.94 - $10.11  
+  25
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 9 – Equity – Continued
+  A summary of the options activity for the nine months ended September 30, 2021 is as follows:
+                                      Shares   Weighted Average Exercise Price   Weighted Average Remaining Contractual Term   Aggregate Intrinsic Value
+Outstanding at December 31, 2020     2,255,267     $ 1.46       5.31 years      $ 10,247,548  
+Granted     849,500       6.12       3.01 years       1,050  
+Exercised     (487,876 )     0.23       —       1,356,398  
+Expired/Forfeited     (237,934 )     5.66       —       28,854  
+Outstanding at September 30, 2021     2,378,957     $ 2.95       4.46 years     $ 3,074,130  
+Exercisable at period end     1,340,832     $ 1.68       4.34 years     $ 2,649,122  
+  For options granted during the nine months ended September 30, 2021, the fair value of the Company’s Common Stock was based upon the close of market price on the date of grant. The future expected stock-based compensation expense expected to be recognized in future years is $1,878,657 through September 30, 2023.
+  Intrinsic value is measured using the fair market value at the date of exercise (for shares exercised) or at September 30, 2021 (for outstanding options), less the applicable exercise price.
+  A summary of the options activity for the nine months ended September 30, 2020 is as follows:
+      Shares   Weighted Average Exercise Price   Weighted Average Remaining Contractual Term (Years)   Aggregate Intrinsic Value
+Outstanding at January 1, 2020     2,480,470     $ 0.39       6.28     $ 378,111  
+Granted     481,167       1.52       4.75       —  
+Exercised/Forfeited     (851,483 )     0.53       —       —  
+Outstanding at September 30, 2020     2,110,154       0.59       5.67     $ 3,605,844  
+Exercisable at period end     1,156,062     $ 0.31       5.89     $ 2,276,254  
+  26
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 10 – Warrants to Purchase Common Stock
+  Warrant Conversions
+  On February 8, 2021, the Company received $8,305,368 in additional gross proceeds associated with the exercise of 2,516,778 of warrants issued at a price of $3.30 in connection with a securities purchase agreement dated August 4, 2020.
+  A summary of activity related to warrants for the nine months ended September 30, 2021 follows:
+  Summary of activity related to warrants                        
+    Shares   Weighted Average Exercise Price   Weighted Average Remaining Contractual Term
+Outstanding at January 1, 2021     2,516,778     $ 3.30       0.83  
+Issued     —       —       —  
+Exercised     (2,516,778 )     3.30       —  
+Outstanding at September 30, 2021     —     $ —       —  
+  A summary of activity related to warrants for the nine months ended September 30, 2020 follows:
+      Shares   Weighted Average Exercise Price   Weighted Average Remaining Contractual Term
+Outstanding at January 1, 2020     4,531,924     $ 0.72       4.05  
+Issued     4,972,254       2.34       0.92  
+Exercised     (6,481,924 )     0.74       —  
+Outstanding at September 30, 2020     3,022,254     $ 2.97       0.69  
+Exercisable at September 30, 2020     505,476     $ 2.97       0.69  
+  Note 11 – Commitments and Contingencies
+  Operating Leases
+  Right-of-use assets and lease liabilities are recognized based on the present value of the future minimum lease payments over the lease terms at the commencement dates. The Company uses its incremental borrowing rates as the discount rate for its leases, which is equal to the rate of interest the Company would have to pay on a collateralized basis to borrow an amount equal to the lease payments under similar terms. The incremental borrowing rate for all existing leases as of the opening balance sheet date was based upon the remaining terms of the leases; the incremental borrowing rate for all new or amended leases is based upon the lease terms. The lease terms for all the Company’s leases include the contractually obligated period of the leases, plus any additional periods covered by options to extend the leases that the Company is reasonably certain to exercise.
+  Operating lease expense is recognized on a straight-line basis over the lease term and is included in operating costs or General and administrative expense. Variable lease payments are expensed as incurred.
+  The Company determines if an arrangement is or contains a lease at contract inception and recognizes a right-of-use asset and a lease liability at the lease commencement date. Leases with an initial term of 12 months or less but greater than one month are not recorded on the balance sheet for select asset classes. The lease liability is measured at the present value of future lease payments as of the lease commencement date, or the opening balance sheet date for leases existing at adoption of Topic 842. The right-of-use asset recognized is based on the lease liability adjusted for prepaid and deferred rent and unamortized lease incentives.
+  27
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 11 – Commitments and Contingencies – Continued
+  The Company has various operating leases, one of which is located at 8863 E. 34th Street North, Wichita, Kansas 67226, which serves as our corporate headquarters. The commencement date of the lease was November 1, 2020 and will expire on October 31, 2023, unless sooner terminated or extended. The second lease is for office space in Seattle, Washington under a noncancelable operating lease that expires in January 2026 with a 3% per year increase, and two months of abated rent for December 2020 and January 2021. Both leases are operating leases and included in the right-of-use asset, current portion of lease liability and long-term lease liability captions on the Company’s consolidated balance sheet.
+  As a result of the Measure acquisition the Company acquired leases for office space in Washington, D.C. and Austin, Texas. The prior operating lease in Washington, D.C. expired in September 2021 and the current operating lease in Austin, Texas expires in December 2021. The Company signed a new operating lease agreement for its office space in Washington, D.C. in July 2021, beginning on October 1, 2021 and expiring in December 2022, also, the company signed a new operating lease agreement for its office space in Austin, Texas in August 2021, beginning immediately and expiring in December 2022.
+  The aggregate estimated rent payments due over the initial three-to-six-year term is $1,629,600. Operating lease liabilities are recorded net of accumulated amortization of $1,019,290 as of September 30, 2021. Lease expense for lease payments is recognized on a straight-line basis over the lease terms. The aggregate estimated rent payments due over the option term would be $314,640. Lease expense payment was $361,642 and $23,100 for the nine months ended September 30, 2021 and 2020, respectively, which is included in general and administrative expenses on the condensed interim consolidated statements of operations.
+  The following is a maturity analysis of the annual discounted cash flows of the operating lease liabilities as of September 30, 2021:
+    Year Ending December 31,   Amount
+2021     $ 60,787  
+2022       257,133  
+2023       262,886  
+2024       200,500  
+2025       219,125  
+2026       18,859  
+ Total     $ 1,019,290  
+  GreenBlock Capital LLC Consulting Agreement
+  On May 3, 2019, we entered into a consulting agreement with GreenBlock Capital LLC (“Consultant”) to serve as strategic advisor and consultant with respect to the development of new business opportunities and the implementation of business strategies related to expansion into the emerging domestic hemp cultivation market. The extent of the services will be set forth in separate scopes of work, from time to time, to be prepared and mutually agreed to by the parties. As compensation for the services under the terms of the agreement, the Consultant can receive (i) $25,000 per month during the term of the agreement, (ii) 500,000 shares of restricted Common stock upon execution of the agreement and up to (iii) up to 2,500,000 shares of restricted Common stock upon the achievement of predetermined milestones.
+  On October 31, 2019, the consulting agreement was terminated as a result of the Company no longer needing these services to be provided by an outside consultant.
+  The Company has settled with the Consultant. The Consultant made a demand for an additional 750,000 shares of Common stock to be issued. Although the Company disputed that the milestones were successfully achieved by the Consultant and believed that no additional shares of Common stock were owed, the Company has offered and the Consultant has accepted, in the form of a settlement, a total of 550,000 additional shares of Common stock issued on May 17, 2021. On March 31, 2021, the Company recorded additional stock compensation expense within general & administrative expenses in the amount of $1,407,000 based upon the fair market value of $4.69 per share of the Company’s Common stock as of May 12, 2021, resulting in a liability amount of $2,907,000 for purposes of payment of the settlement.
+  28
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 11 – Commitments and Contingencies – Continued
+  Valqari Agreement
+  On October 14, 2020, in connection with, and as an incentive to the entry into a two-year exclusive manufacturing agreement to produce a patented Drone Delivery Station for Valqari, the Company entered into a Convertible Promissory Note (see Note 4).
+  Also on October 14, 2020, AgEagle entered into a manufacturing agreement with Valqari for the manufacture and assembly of Valqari’s patented Drone Delivery Station, in accordance with the specifications provided by, and the components designated by Valqari, for sale and delivery to its customers. AgEagle was appointed as Valqari’s exclusive manufacturer of its products in the United States of America for a term of two-years, unless terminated earlier. Valqari, based in Chicago, Illinois, is engaged in the development, manufacture and sale of a patented Drone Delivery Station, including related software.
+  In June 2021, AgEagle gave notice of termination of the manufacturing agreement for cause based on material defects in the specifications and other information provided by Valqari, and without cause as otherwise permitted in the agreement. Valqari disputes the allegations of breach and alleges breaches by AgEagle, which AgEagle denies. AgEagle believes that Valqari has in effect consented to termination of the agreement, with both parties reserving their rights to claim damages based on alleged past breaches. AgEagle has claimed that Valqari owes $43,945 for two outstanding invoices from AgEagle for units built and delivered, as well as additional amounts for two units as to which Valqari has refused to take delivery.
+  Upon maturity in October 2021, AgEagle has demanded payment of the note, including accrued interest; however, Valqari has sought a substantial discount on the amount due under the note to compensate for alleged breaches by AgEagle under the manufacturing agreement. AgEagle disputes the allegations of breach and believes that it is owed a net amount by Valqari under the manufacturing agreement, in addition to the amount due under the note. The parties are continuing to negotiate in an attempt to reach an amicable resolution of their disputes; however, AgEagle reserves the right to take legal action to collect the note in the event that a prompt settlement is not reached.
+  Appointment of Chief Operating Officer
+  On April 19, 2021, in connection with the acquisition of Measure, the Board of Directors of the Company (the “Board”) approved the appointment of Brandon Torres Declet as the Company’s Chief Operating Officer. Mr. Declet also served as the President of Measure, the Company’s wholly-owned subsidiary. Prior to joining the Company, Mr. Declet, age 45, co-founded Measure and served as its President since 2014.
+  In his position as Chief Operating Officer, Mr. Declet received a base salary of $225,000 per year, subject to increase at the discretion of the Board. Mr. Declet will be eligible for an annual cash bonus of up to 20% of his then-current base salary, as determined by the Board in its good faith discretion, based on the achievement of a combination of personal and Company objectives. Mr. Declet was also eligible to participate in any benefit plans offered by the Company as in effect from time to time on the same basis as generally made available to other employees of the Company. Mr. Declet was awarded a one-time grant of 125,000 Restricted Stock Units (RSUs) that will vest on a pro rata basis over one year commencing on the date of closing of the acquisition of Measure. Such grant of 125,000 RSUs shall be subject to the terms of an RSU grant agreement. Additionally, Mr. Declet will be granted, on a quarterly basis, non-qualified options to acquire 25,000 shares of Company Common Stock. Such options will be subject to the terms of the Company’s 2017 Omnibus Equity Incentive Plan (the “Plan”), and the vesting requirements, the term of the option and exercisability at an exercise price equal to the fair market value of the option shares will be set forth in a grant agreement as of each date of grant.
+  Mr. Declet is subject to the terms of a confidentiality and proprietary rights agreement. In the event that Mr. Declet is terminated by the Company other than for cause or for good reason (as such terms are defined in Mr. Declet’s employment offer letter), he is entitled to base salary continuation for six months, reimbursement of COBRA health insurance premiums for a period of 6 months, and a grant of fully-vested restricted shares of Common Stock of the Company with a fair market value of $125,000 on the date of termination of employment. Furthermore, in the event the Board determines in its discretion that Mr. Declet must relocate from his principal place of performance of his duties, the Company shall pay and/or reimburse him for expenses, up to $100,000, in connection with such relocation.
+  Appointment of Director
+  Effective on April 19, 2021, the closing date of Measure acquisition, Mr. Declet was appointed to serve as a non-independent member of the Board until his successor is elected and qualified or until his earlier death or resignation.
+  29
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 11 – Commitments and Contingencies - Continued
+  Approval of Changes to Executive Compensation
+  On April 19, 2021, the Board of Directors of the Company, upon recommendation of the Compensation Committee, approved changes in the compensation of Mr. Michael Drozd, the Company’s Chief Executive Officer, and Ms. Nicole Fernandez-McGovern, the Company’s Chief Financial Officer and EVP of Operations, and in accordance therewith, amended their respective employment offer letters. With respect to Mr. Drozd, the Board approved the following amendments to current compensation terms: (i) an additional one-time grant of 100,000 RSUs that will vest on a pro rata basis over one year subject to the terms of an RSU grant agreement, and (ii) an increase in the number of grants, on a quarterly basis, of non-qualified options from 15,000 to 25,000 shares of Company Sommon stock subject to the terms of the Plan, and the vesting requirements, the term of the option and exercisability at an exercise price equal to the fair market value of the option shares will be set forth in a grant agreement as of each date of grant. Mr. Drozd’s current base salary and potential bonus payments have not been changed.
+  With respect to Ms. Fernandez-McGovern, the Board approved: (i) an additional one-time grant of 125,000 RSUs that will vest on a pro rata basis over one year subject to the terms of an RSU grant agreement, and (ii) an increase in the number of grants, on a quarterly basis, of non-qualified options from 15,000 to 25,000 shares of Company Common stock subject to the terms of the Plan, and the vesting requirements, the term of the option and exercisability at an exercise price equal to the fair market value of the option shares will be set forth in a grant agreement as of each date of grant. Ms. Fernandez-McGovern’s current base salary and potential bonus payments have not been changed.
+  In addition, Mr. Drozd and Ms. Fernandez-McGovern were provided with severance benefits in the event of termination without cause or for good reason, as defined in the amended employment offer letters. The severance benefits consist of (i) 6 months of base salary, paid in the form of salary continuation, in accordance with the terms of a Separation Agreement to be entered into at the time of termination; (ii) reimbursement of COBRA health insurance premiums at the same rate as if the executive officer were an active employee of the Company (conditioned on the executive officer having elected COBRA continuation coverage) for a period of 6 months or, if earlier, until the executive officer is eligible for group health insurance benefits from another employer; and (iii) a grant of fully-vested restricted shares of Common stock of the Company with a fair market value of $125,000 on the date of termination of employment, pursuant to the terms of, and effective on the effective date of, the Separation Agreement. The severance benefits are conditioned upon each persons (i) continued compliance in all material respects with their respective continuing obligations to the Company, including, without limitation, the terms of the amended employment offer letter and of the confidentiality agreement that survive termination of employment with the Company, and (ii) signing (without revoking if such right is provided under applicable law) a separation agreement and general release in a form provided to the executive officer by the Company on or about the date of termination of employment. Furthermore, in the event the Board determines in its discretion that the executive officers must relocate their principal place of performance of their duties, the Company shall pay and/or reimburse them for expenses, up to $100,000, in connection with such relocation.
+  30
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 11 – Commitments and Contingencies - Continued
+  Departure-Appointment of Certain Officers and Changes in Compensatory Arrangements
+  On May 24, 2021, the Company and J. Michael Drozd mutually agreed to Mr. Drozd’s resignation as Chief Executive Officer of the Company, effective on May 24, 2021 (the “Termination Date”). Mr. Drozd resigned to pursue new career opportunities.
+  In connection with Mr. Drozd’s departure, the Company and Mr. Drozd entered into a Separation Agreement and General Release, dated June 11, 2021 (the “Separation Agreement”), pursuant to which, among other things, the Company has agreed to pay Mr. Drozd (i) regular base salary at the annual rate of $235,000 through the Termination Date; (ii) an annual performance bonus consisting of $37,130 in cash and 118,500 shares of the Company’s Common stock, (iii) severance pay equal to six (6) months of his base salary as of the Termination Date; and (iv) cash payment equal to three (3) days of accrued and unused vacation days.
+  Pursuant to the Separation Agreement, Mr. Drozd was also granted 26,652 fully-vested restricted shares of the Company’s Common stock valued at approximately $125,000 on the Termination Date. In addition, Mr. Drozd’s outstanding equity awards from the Company continue to be governed by the terms of the applicable award agreements, except that 8,333 of the 100,000 RSUs granted to him in accordance with his employment agreement with the Company became vested as of the effective date of the Separation Agreement.
+  Mr. Drozd’s receipt of any of the payments or benefits set forth in the Separation Agreement was conditioned upon the execution and non-revocation of a general release of claims, and was made in lieu of any payments, severance or other benefits described in his employment agreement. Under the Separation Agreement, Mr. Drozd confirmed the continued effectiveness of the restrictive covenants applicable to him under his existing confidentiality and proprietary rights agreement with the Company and his continuing noncompetition and non-solicitation obligations to the Company.
+  Mr. Brandon Torres Declet, the Company’s current Chief Operating Officer, was appointed to serve as the new Chief Executive Officer of the Company. Mr. Torres Declet will not continue to serve as Chief Operating Officer.
+  On June 11, 2021, the Board of Directors of the Company, upon recommendation of the Compensation Committee, approved an increase in Mr. Torres Declet’s annual base salary from $225,000 to $235,000, effective as of May 24, 2021, to be commensurate with his new position as Chief Executive Officer.
+  On June 14, 2021, the Company’s Board, upon recommendation of the Compensation Committee, also approved the adoption of its 2021 Executive Bonus Plan pursuant to which, if all performance milestones related to the Company’s operational, financial and strategic targets are met, the following bonuses shall be paid:
+  (i) Mr. Torres Declet, as the Company’s Chief Executive Officer, can receive up to a maximum of an additional $47,000 (i.e., 20% of the annual base salary) in cash bonus and 300,000 RSUs;
+  (ii) Ms. Nicole Fernandez-McGovern, the Company’s Chief Financial Officer, can receive up to a maximum of an additional $44,000 (i.e., 20% of the annual base salary) in cash bonus and 275,000 RSUs; and
+  (iii) the Company’s Chief Operating Officer, at such time as the position has been filled, can receive up to a maximum of an additional $45,000 (i.e., 20% of the annual base salary) in cash bonus and 285,000 RSUs.
+  On June 14, 2021, the Company’s Board also approved the promotion of Mr. Jesse Stepler, SVP of Product and Strategy of Measure Global, Inc., the Company’s wholly-owned subsidiary (“Measure”) to become President of Measure, effective June 17, 2021.
+  Purchase Commitment
+  The Company routinely places orders for manufacturing services and materials. At September 30, 2021, the Company had purchase commitments that approximate $2,800,000. These commitments are expected to be realized during the 2021 and 2022 fiscal years.
+  31
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 12 – Related Party Transactions
+  The following reflects the related party transactions during the nine months ended September 30, 2021 and 2020.
+  Transactions with Officers
+  The Company’s Chief Financial Officer, Nicole Fernandez-McGovern, is one of the principals of Premier Financial Filings, a full-service financial printer. Premier Financial Filings provided contracted financial services to the Company and their related expenses have been included within general and administrative expenses. For the nine months ended September 30, 2021 and 2020, Premier Financial Filings provided services to the Company resulting in fees of $22,003 and $18,720, respectively.
+  One of four directors, Thomas Gardner, is one of the principals of NeuEon, Inc, which provide fractional Chief Technology Officer services to the Company. For the nine months ended September 30, 2021 and 2020, the Company recorded $107,500 and $86,000, respectively, of expenses which is included in general and administrative expenses.
+  Note 13 – Subsequent Events
+  On October 18, 2021, the Company entered into a stock purchase agreement (the “senseFly S.A. Purchase Agreement”) with Parrot Drones S.A.S. (“Parrot”) pursuant to which the Company acquired 100% of the issued and outstanding capital stock of senseFly S.A. (“senseFly S.A.”) and senseFly, Inc. from Parrot. senseFly S.A. provides fixed-wing drone solutions for commercial and government markets. The aggregate purchase price for the shares of senseFly S.A. is $21,000,000, less the amount of senseFly S.A.’s debt and subject to a customary working capital adjustment. The consideration is also subject to a $4,565,000 holdback to cover any post-closing indemnification claims and to satisfy any purchase price adjustments. The holdback is scheduled to be released in two equal installments, less any amounts paid or reserved for outstanding indemnity claims, on December 31, 2022 and December 31, 2023 in accordance with the terms of the senseFly S.A. Purchase Agreement.
+  On October 18, 2021, AgEagle Aerial, Inc., a wholly-owned subsidiary of the Company (“AgEagle Aerial”), and the Company entered into a stock purchase agreement (the “senseFly Inc. Purchase Agreement”) with Parrot Inc. (“Parrot U.S.”) pursuant to which AgEagle Aerial agreed to acquire 100% of the issued and outstanding capital stock of senseFly Inc. (“senseFly Inc.”) from Parrot U.S. senseFly Inc. provides fixed-wing drone solutions for commercial and government markets. The aggregate purchase price for the shares of senseFly Inc. is $2,000,000, less the amount of senseFly Inc.’s debt and subject to a customary working capital adjustment. The consideration is also subject to a $435,000 holdback to cover any post-closing indemnification claims and to satisfy any purchase price adjustments. The holdback is scheduled to be released in two equal installments, less any amounts paid or reserved for outstanding indemnity claims, on December 31, 2022 and December 31, 2023 in accordance with the terms of the senseFly Inc. Purchase Agreement.
+  A portion of the consideration under the senseFly S.A. Purchase Agreement is comprised of shares ofCommon stock of the Company, par value $0.001, having an aggregate value of $3,000,000 based on a volume weighted average trading price of the Common stock over a ten consecutive trading day period prior to the date of issuance of the shares of Common stock to Parrot (the “Shares”). The Shares are issuable 90 days after the closing date of the transaction. Pursuant to the terms of the senseFly S.A. Purchase Agreement and a Registration Rights Agreement, dated as of October 19, 2021, the Company has agreed to file a Form S-3 Registration Statement (the “Registration Statement”) covering the resale of the Shares with the Securities and Exchange Commission (the “SEC”) no later than ten business days following the date the Shares are issued to Parrot. The Company shall use its best efforts to cause the Registration Statement to be declared effective as soon as possible after the filing date, but in any event no later than 90 days after the filing date, and shall use its best efforts to keep the Registration Statement effective and in compliance with the provisions of the Securities Act (including by preparing and filing with the SEC such amendments, including post-effective amendments, and supplements to the Registration Statement and the prospectus used in connection therewith as may be necessary) until all Shares and other securities covered by such Registration Statement have been disposed of. Parrot is required to reimburse the Company up to $50,000 for reasonable legal fees and expenses incurred by the Company in connection with such registration.
+  Pursuant to the senseFly S.A. Purchase Agreement, Parrot, senseFly S.A. and the Company entered into a transition services agreement and a technology license and support agreement. Pursuant to the 6-month transition services agreement, Parrot will provide senseFly S.A. with certain information technology and related transition services. Under the technology license and support agreement, Parrot is granting a perpetual license, subject to certain termination rights of the parties, to senseFly S.A. with respect to certain technology used in the fixed-wing drone manufacturing business of senseFly S.A.
+  32
+    AGEAGLE AERIAL SYSTEMS INC. AND SUBSIDIARIES
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020
+(Unaudited)
+  Note 13 – Subsequent Events – Continued
+  The senseFly S.A. Purchase Agreement and the senseFly Inc. Purchase Agreement contain certain customary representations, warranties and covenants, including representations and warranties by the applicable seller with respect to the business, operations and financial condition of the target company. The purchase agreements also include post-closing covenants relating to the confidentiality and employee non-solicitation obligations of the respective seller, and the agreement of each such seller not to compete with certain aspects of the business of the target companies following the closing of the transaction. The purchase agreements further include post-closing covenants relating to employee non-solicitation obligations of the respective buyer.
+  33
+    ITEM 2.   MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+  The following discussion highlights the principal factors that have affected our financial condition and results of operations as well as our liquidity and capital resources for the periods described. This discussion should be read in conjunction with our Consolidated Financial Statements and the related notes included in Item 8 of the Form 10-K as filed on March 31, 2021. This discussion contains forward-looking statements. Please see the explanatory note concerning “Forward-Looking Statements” in Part I of the Annual Report on Form 10-K and Item 1A. Risk Factors for a discussion of the uncertainties, risks and assumptions associated with these forward-looking statements. The operating results for the periods presented were not significantly affected by inflation.
+  Company Overview
+  AgEagle™ Aerial Systems Inc. (“AgEagle,” “the Company,” “us,” “we,” “our”) through its wholly owned subsidiaries, is actively engaged in designing and delivering best-in-class drones, sensors, and software that solve important problems for our customers. Founded in 2010, AgEagle was originally formed to pioneer proprietary, professional-grade, fixed-winged drones and aerial imagery-based data collection and analytics solutions for the agriculture industry. Today, our Company is earning distinction as a globally respected, industry leader offering best-in-class, full stack drone solutions to a wide range of industries, including energy, construction, agriculture and government. AgEagle is led by a proven management team with years of drone industry experience. Through participation on the U.S. Federal Aviation Administration’s (FAA) Drone Advisory Committee and the FAA’s BEYOND program, AgEagle is helping to establish entirely new rulemaking guidelines and regulations for the future of autonomous flight and the full integration of drones into the U.S. airspace.
+   In the first half of 2019, the Company introduced HempOverview™, a scalable, responsive and cost-effective Software-as-a-Service (“SaaS”) web- and map-based technology platform to support the operations of domestic industrial hemp programs for state and tribal nation departments of agriculture – a solution that provides users with what the Company believes is the gold standard for regulatory oversight, operational assistance and reporting capabilities for the fast emerging industrial hemp industry.
+  In January 2021, AgEagle acquired MicaSense™, Inc. (“MicaSense”), based in Seattle, Washington. MicaSense has been at the forefront of advanced drone sensor development since its founding in 2014, having formed integration partnerships with several leading fixed wing and multirotor drone manufacturers. MicaSense’s patented, high precision thermal and multispectral sensors serve the aerial mapping and analytics needs of the agriculture market. MicaSense’s high performance proprietary products, including Altum™, RedEdge-MX™, RedEdge-MX™ Blue and Atlas Flight, have global distribution in over 70 countries.
+  In April 2021, AgEagle acquired Measure Global, Inc. (“Measure”), a company founded in 2020 with business operations in Washington, D.C. and Austin, Texas. Serving a world class customer base, Measure enables its customers to realize the transformative benefits of drone technology through its Ground Control solution. Offered as Software-as-a-Service (SaaS), Ground Control is a cloud-based, plug-and-play operating system that empowers pilots and large enterprises with everything they need to operate drone fleets, fly autonomously, collaborate globally, visualize data, and integrate with existing business systems and processes.
+  We intend to grow our business and preserve our leadership position by developing new drones, sensors and software and capturing a significant share of the global drone market. In addition, we expect to accelerate our growth and expansion through strategic acquisitions of companies offering distinct technological and competitive advantages and have defensible IP protection in place, if applicable.
+  The Company is headquartered in Wichita, Kansas with business operations and several offices located throughout the United States.
+  34
+    Key Growth Strategies
+  Our near- and mid-term growth strategies are centered on designing high performance, full stack drone solutions for customers in a broad range of industries, including energy, construction, agriculture and government. We aim to define a new world in which autonomous drones play a key role in making businesses more efficient, infrastructure safer and people more connected.
+  Key components of our growth strategy include the following:
+    ● Delivering new and innovative solutions. AgEagle’s research and development efforts are the foundation of the Company, and we intend to continue investing in our own innovations, pioneering new and enhanced products and solutions that enable us to exceed the expectations of our customers and grow organically. AgEagle believes that by investing in research and development, the Company can be a leader in delivering innovative drones, sensors and software that address applications and needs within our current target verticals, enabling us to create new opportunities for growth.
+        ● Pursuing new business opportunities outside of our legacy focus on agriculture as we continue to expand and grow AgEagle’s full stack solutions. We intend to grow our business and preserve our leadership position by developing new drones, sensors and software and capturing a significant share of the global drone market. We are confident that the efficiencies and value which we have endeavored to provide our customers in the agriculture industry can be expanded to an increasing number of customers in the energy, construction and government verticals.
+        ● Achieving greater market penetration of the U.S. industrial hemp industry. We are working to establish HempOverview software platform as the gold industry standard for hemp cultivation oversight, compliance, enforcement and commerce. AgEagle is leveraging best-in-class technology to provide a solution for state and tribal regulatory departments of agriculture, industrial hemp and hemp-derived CBD growers and processors.
+        ● Growth through acquisition. Through successful execution of our growth-through-acquisition strategies, we intend to acquire technologically advanced companies and intellectual property that complement and strengthen our value proposition to the market. We believe that by investing in complementary acquisitions, we can accelerate our revenue growth and deliver a broader array of innovative drone systems and solutions that address specialized market needs within our current target markets and in emerging drone industry sectors.
+  Competitive Strengths
+  AgEagle believes the following attributes and capabilities provide us with long-term competitive advantages:
+    ● Proprietary technologies, in-house capabilities and industry experience. We believe our eleven years of experience in commercial drone design and engineering; in-house manufacturing, assembly and testing capabilities; and advanced technology development serve to differentiate AgEagle in the marketplace. As of today, we develop and manufacture our products and software in the United States. Also, through our acquisitions of MicaSense and Measure, we have added people to the AgEagle team with dozens of years of experience operating in the global drone industry with unique insights into regulations and how to operationalize drones and scale their use for enterprise customers.
+  35
+      ● Advanced technology solutions allow users to remove the guesswork in effectively managing hemp cultivation oversight, compliance, enforcement, reporting and commerce. To our knowledge, there is no other SaaS solution available on the market today – particularly one that has been developed by a proven Agtech company with the level of experience and expertise of AgEagle – that provides the multi-faceted level of support and services that HempOverview offers to all stakeholders in the industry.
+        ● AgEagle is a respected industry pioneer helping to establish entirely new standards of rule for the future of autonomous flight. Through our active advocacy efforts and direct involvement with government- and industry-sponsored agencies and organizations, AgEagle’s leadership team remains at the forefront of shaping the rulemaking guidelines and regulations that will make autonomous flight of unmanned aerial systems safe, reliable and accessible to more businesses worldwide.
+        ● Through our wholly owned subsidiary MicaSense, AgEagle offers branded multispectral and thermal sensor solutions that provides users with unparalleled operational efficiency, collecting and outputting multiple data sets which provide actionable intelligence to its customers. From farmers to scientists to researchers, MicaSense sensors are relied upon for computer-aided analysis of data to detect crop disease, crop stress, field moisture conditions, weed populations and other factors.
+        ● Through our wholly owned subsidiary Measure and its proprietary Ground Control aerial intelligence solution, AgEagle provides customers with the ability to capitalize on significant economic, safety and efficiency benefits made possible by drones used at scale. With end-to-end program management, user-friendly flight control, and in-platform data analysis, Ground Control helps our customers save thousands of hazardous man-hours and create millions of dollars in operational benefits.
+  Impact of COVID-19 On Our Business Operations
+  The outbreak of the novel coronavirus (COVID-19) has evolved into a global pandemic. The coronavirus has spread to many regions of the world, including the United States. The extent to which COVID-19 impacts our business and operating results will depend on future developments that are highly uncertain and cannot be accurately predicted, including new information that may emerge concerning COVID-19 and the actions to contain the coronavirus or treat its impact, among others.
+  Should the coronavirus continue to spread, our business operations could be delayed or interrupted. For instance, we currently utilize third parties to, among other things, manufacture components and parts for the proprietary and contracted drones we produce, and to perform quality testing. We also manufacture and assemble products and perform various services at our manufacturing facility. If either we or any third-parties in the supply chain for materials used in our manufacturing and assembly processes are adversely impacted by restrictions resulting from the coronavirus pandemic, our supply chain may be disrupted, limiting our ability to manufacture and assemble products.
+  The spread of the coronavirus, which has caused a broad impact globally, including restrictions on travel and quarantine policies put into place by businesses and governments, may have a material economic effect on our business. While the potential economic impact brought on by and the duration of the pandemic may be difficult to assess or predict, it has already caused, and is likely to result in further, significant disruptions of global financial markets, which may reduce our future ability to access capital either at all or on favorable terms. In addition, a recession, depression or other sustained adverse market event resulting from the spread of the coronavirus could materially and adversely affect our business and the value of our Common Stock.
+  The ultimate impact of the current pandemic, or any other health epidemic, is highly uncertain and subject to change. We do not yet know the full extent of potential delays or impacts on our business or the global economy as a whole. However, these effects could have a material impact on our operations in the future. We will continue to monitor the situation closely.
+  36
+    Critical Accounting Policies and Estimates
+  Our management’s discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amount of revenues and expenses during the reporting period. Our most critical estimates include those related to revenue recognition, inventories and reserves for excess and obsolescence, accounting for stock-based awards, and income taxes. On an ongoing basis, we evaluate our estimates and assumptions. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Our actual results may differ from these estimates under different assumptions or conditions.
+  We believe the following critical accounting estimates affect the more significant judgments and estimates used in preparing our consolidated financial statements. Please see Note 2 to our unaudited condensed consolidated interim financial statements, which are included in Item 8 “Financial Statements and Supplementary Data” of this Annual Report, for our Summary of Significant Accounting Policies. There have been no material changes made to the critical accounting estimates during the periods presented in the unaudited condensed interim consolidated financial statements.
+  Results of Operations
+  For the Three and Nine Months Ended September 30, 2021 as Compared to the Three and Nine Months Ended September 30, 2020
+  For the three months ended September 30, 2021, we recorded revenues of $2,021,707 compared to revenues of $750,325 for the same period in 2020, a 169% increase. The increase was mainly due to new revenues derived from the acquisition of MicaSense business related specifically to sensor sales for the Red Edge and Altum. Revenue growth was also positively impacted by increased sales of our HempOverview platform to the states of Iowa and Florida. Lastly the increase in revenue was also impacted by the Measure acquisition, which accounted for subscription sales related to the Ground Control platform. For the nine months ended September 30, 2021, we recorded revenues of $5,660,662 compared to revenues of $1,157,930 for the same period in 2020, an 389% increase. The increase was largely due to new revenues derived from the acquisition of MicaSense and its strong sensor sales along with the acquisition of the Measure business and continued growth of our HempOverview platform sales.
+  During the three months ended September 30, 2021, cost of sales totaled $1,226,911, a $796,228, or 185%, increase when compared to $430,683 in the three months ended September 30, 2020. Costs of sales totaled $2,885,008 and $620,196, for the nine months ended September 30,2021 and 2020, respectively, reflecting an increase in our cost of goods sold of 365%. We had a gross profit of $794,796, or 39% gross profit margin, during the three months ended September 30, 2021, compared to $319,642, or 43% gross profit margin, for the three months ended September 30, 2020. For the nine months ended September 30, 2021, and 2020, we had a gross profit of $2,775,654 or 49% and $537,734 or 46%, respectively, an increase in our profit margins of 6%. The primary factors contributing to the increase in our cost of sales and gross profit margin was due to increase in our sales volume along with continued shift in mix of products we offer customers in the new markets we serve that have resulted in higher margin for our sales specifically for our sensor sales related to the MicaSense acquisition and our Measure Ground Control and HempOverview SaaS offerings.
+  We recorded total operating expenses of $4,594,330 during the three months ended September 30, 2021, a 412% increase as compared to operating expenses of $897,379 in the same period of 2020. Our operating expenses are comprised of general and administrative expenses, professional fees, research and development and sales and marketing expenses. General and administrative expenses totaled $2,535,477 during the three months ended September 30, 2021, compared to $626,605 in the same period of 2020, an increase of 305%. The increase was primarily due to costs for additional payroll and bonus payments associated with new hires and existing employees for the MicaSense and Measure acquisitions, and stock compensation expenses related to employees and directors, ERP and related implementation costs, rent cost associated with our new leases for Wichita, Seattle, Washington D.C. and Austin offices, and additional amortization expense associated to the intangibles acquired as part of the recent acquisitions and platform development costs. Professional fees decreased 3% as we had $247,813 of expenses for the current period versus $254,532 in the comparable prior period mainly due to increased legal fees, offset by lower consulting expenses. Also included in operating expenses was sales and marketing costs that increased 6,266% to $1,034,004 versus $16,242 in the prior year’s comparable period due to the addition of the MicaSense and Measure sales and marketing teams, hiring of additional headcount and related business development consultants. Lastly, we recorded research and development expenses totaled $777,036 during the three months ended September 30, 2021, no expenses were recorded for the same period during 2020, the increase was due to the MicaSense and Measure acquisitions costs incurred for the development of new sensor products and software maintenance costs.
+  37
+    We recorded total operating expenses of $14,356,476 and $2,774,113, respectively, for the nine months ended September 30, 2021, and 2020, a 418% increase. Our operating expenses are comprised of general and administrative costs, professional fees, research and development and sales and marketing expenses. For the nine months ended September 30, 2021 and 2020, we recorded $8,183,236 and $1,782,926 in general and administrative expenses, respectively, resulting in a 359% increase. The increase was primarily due to costs for additional payroll and bonus payments associated with new hires and existing employees for our acquisitions, and stock compensation expenses related to employees and directors, expenses related to annual shareholders meeting, ERP and related implementation costs, rent cost associated with our new leases for Wichita, Seattle, Washington D.C. and Austin offices, additional amortization expense associated with the intangibles acquired as part of the recent acquisitions and platform development costs and added costs associated with financial audits, tax and valuation services. Professional fees also increased 134% as we had $2,244,804 of expenses for the current period versus $958,436 in the comparable prior period mainly due to stock-based compensation associated with the termination of the GreenBlock Capital LLC consulting agreement, and increased legal fees, offset by lower consulting expenses. Also included in our operating expenses was sales and marketing costs that increased 5,436% to $1,813,069 versus $32,751 in the prior year’s comparable period due to addition of the MicaSense and Measure sales and marketing teams, hiring of additional headcount and related business development consultants. Lastly, we recorded research and development expenses totaled $2,115,367 during the nine months ended September 30, 2021, no expenses were recorded for the same period during 2020, the increase was due to the MicaSense and Measure acquisitions costs incurred for the development of new sensor products and software products.  
+  Other income (expense) for the three months ended September 30, 2021 and 2020, was $28,632 and $(869), respectively and other income (expense) for the nine months ended September 30, 2021 and 2020, was $201,218 and $(869), respectively. The majority of the increase represented the forgiveness of the PPP loan for AgEagle offset by grant income for Measure contracts.
+  Our net loss was $3,770,902 for the three months ended September 30, 2021. This represents a $3,192,296 increase over our net loss of $578,606 in the same period during 2020. For the nine months ended September 30, 2021 and 2020, we had a net loss of $11,379,603 and $2,237,248 respectively, an increase of $9,142,355 or 409%. Overall, the increase in net loss is due to greater operating costs primarily within general and administrative costs along with added professional and research and development costs because of the shift in our sales and long-term growth strategies that required increased resources and investments to support our growth and acquisition strategies. We are in the process of continuing to address these shifts by developing new platforms, products and services that support prevailing growth opportunities in the full stack drone solutions market.
+  For the three months ended September 30, 2021, and 2020, our net loss available to common stockholders was $3,770,902 and $578,606, respectively, an increase of $3,192,296. For the nine months ended September 30, 2021 and 2020, our net loss available to common stockholders was $11,379,604 and $11,348,575, respectively, an increase of $31,029. The increase in net loss available to common stockholders during this period compared to the prior period was due to Series D Preferred Stock dividends recorded during the period of June 2020, non-cash charges stemming from required deemed dividend accounting for modifications to certain preferred stock, redemption of preferred stock and the trigger of down round provisions on certain preferred stock and warrants.
+  38
+    Cash Flows
+  September 30, 2021 As Compared to September 30, 2020
+  Cash on hand was $32,221,558 on September 30, 2021, an increase of $7,528,141 compared to $24,693,417 at September 30, 2020. Cash used in operations for the nine months ended September 30,2021 was $6,677,721 compared to $1,442,919 of cash used by operations for the same period during 2020. The increase in cash used in operating activities was mainly driven by an increase in operating loss due to greater overhead expenses along with an increase in accrued expenses related to issuance of Common stock and accrued liabilities for the MicaSense and Measure acquisitions.
+  Cash used in investing activities during the nine months ended September 30, 2021, was $30,642,236, compared to $70,086 during the same period during 2020. The increase in cash used in our investing activities resulted from the acquisitions of MicaSense and Measure, purchase of property and equipment and building improvements related to the new leased warehouse and corporate offices in Wichita, along with recording capitalized costs associated with the development of the HempOverview and Measure Ground Control platforms.
+  Cash provided by financing activities during the nine months ended September 30, 2021, was $45,601,182, which compared to $25,488,425 cash used in financing activities during the same period in 2020. The increase in cash provided by our financing activities was due to sales of our Common stock and the exercise of warrants issued in connection with a securities purchase agreement dated August 4, 2020 and the at-the-market Sales Agreement on May 25, 2021, in connection with the Company’s ATM Offering.
+  Liquidity and Capital Resources
+   As of September 30, 2021, we had working capital of $29,269,041 and a loss from operations of $11,379,604 for the period then ended. While there can be no guarantees, we believe cash on hand, in connection with cash generated from revenue, will be sufficient to fund the next year of operations. In addition, we intend to pursue other opportunities of raising capital with outside investors.
+  During 2021, we raised capital of $6,313,943 as a result of the sale of 1,057,214 shares of Common Stock in connection with a securities purchase agreement (the “December Purchase Agreement”) entered on December 31, 2020. Also on February 8, 2021, we received $8,305,368 in additional gross proceeds associated with the exercise of 2,516,778 of warrants issued at a price of $3.30 in connection with a securities purchase agreement dated August 4, 2020. During the period from May 29, 2021, through September 30, 2021, we raised approximately $30,868,703 by utilizing our ATM Offering with co-agents Stifel, Nicolaus & Company, Incorporated and Raymond James & Associates.
+  We continue to realize losses from operations. However, as a result of our capital raising efforts, we believe we will have sufficient cash to meet our anticipated operating costs and capital expenditure requirements through December 2022. Our primary need for liquidity is to fund working capital requirements of our business, capital expenditures, acquisitions, debt service, and for general corporate purposes. Our primary source of liquidity is funds generated by financing activities and from private placements. Our ability to fund our operations, to make planned capital expenditures, to make planned acquisitions, to make scheduled debt payments, and to repay or refinance indebtedness depends on our future operating performance and cash flows, which are subject to prevailing economic conditions and financial, business and other factors, some of which are beyond our control.
+  39
+    Off-Balance Sheet Arrangements
+  On September 30, 2021, we did not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures or capital resources. Since our inception, except for standard operating leases, we have not engaged in any off-balance sheet arrangements, including the use of structured finance, special purpose entities or variable interest entities. We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to stockholders.
+  Inflation
+  Our opinion is that inflation has not had, and is not expected to have, a material effect on our operations.
+  Climate Change
+  Our opinion is that neither climate change, nor governmental regulations related to climate change, have had, or are expected to have, any material effect on our operations.
+  New Accounting Pronouncements
+  There were various updates recently issued, most of which represented technical corrections to the accounting literature or application to specific industries and are not expected to a have a material impact on the Company’s consolidated financial position, results of operations or cash flows.
+  40
+    ITEM 3   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+  As a “smaller reporting company” as defined by Item 10 of Regulation S-K, we are not required to provide information required by this Item.
+   ITEM 4   CONTROLS AND PROCEDURES
+  We maintain disclosure controls and procedures designed to ensure information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+  Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures as of the end of the period covered by this report are functioning effectively to provide reasonable assurance that the information required to be disclosed by us in reports filed under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and (ii) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding disclosures. A controls system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the controls system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected.
+  No change in our internal control over financial reporting occurred during the nine months ended September 31, 2021, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+  Changes in Internal Control over Financial Reporting
+  There were no changes in our internal control over financial reporting, as defined in Rules 13a-15(t) and 15d-15(f) under the Exchange Act, during the three-month period ended September 30, 2021, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. The Company’s management is in the process of the remediation and improvement of our internal control over financial reporting.
+  41
+    PART II OTHER INFORMATION
+  ITEM 1. LEGAL PROCEEDINGS
+  Legal Proceedings
+  From time to time, we may become involved in lawsuits and legal proceedings which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. Although we currently maintain liability insurance coverage intended to cover professional liability and certain other claims, we cannot assure that our insurance coverage will be adequate to cover liabilities arising out of claims asserted against us in the future where the outcomes of such claims are unfavorable to us. Liabilities in excess of our insurance coverage, including coverage for professional liability and certain other claims, could have a material adverse effect on our business, financial condition and results of operations.
+  Lopez v. AgEagle Aerial Systems, Inc., et al., Case No. 2:21-cv-01810 (C.D. Cal.), consolidated with Madrid v. AgEagle Aerial Systems, Inc., et al., Case No. 2:21-cv-01991 (C.D. Cal.)
+  As previously disclosed, AgEagle and certain of its current and former officers and directors were named as defendants in two putative securities class actions filed in the U.S. District Court for the Central District of California (Lopez v. AgEagle Aerial Systems Inc., et al., Case No. 2:21-cv01810; and Madrid v. AgEagle Aerial Systems Inc., et al., Case No. 2:21-cv-01991). These matters were consolidated, and a Lead Plaintiff designated by Court Order. On July 30, 2021, the Court-appointed Lead Plaintiff filed a voluntary dismissal of the consolidated securities class action.
+  Nostrand and Rickerson v. Mooney et al. (Defendants) and AgEagle Aerial Systems, Inc. (Nominal Defendant), Case No. 3:21-cv-00130 (D. Nev.)
+  As previously disclosed, on March 17, 2021, John Nostrand and Drew Rickerson filed a shareholder derivative complaint against the Company as the nominal defendant, Barrett Mooney, Grant Begley, Luisa Ingargolia, Thomas Gardner, Bret Chilcott, J. Michael Drozd, and Nicole Fernandez-McGovern.  On July 20, 2021, the Plaintiffs in this derivative action filed a voluntary dismissal of the action.  
+Granja v. AgEagle Aerial Systems Inc. (Nominal Defendant), et al, Case No. 2:21-cv-06056 (C.D. Cal.)
+  On July 27,2021, a separate shareholder filed a similar derivative complaint against the Company as the nominal defendant and certain of its current and former officers and directors in the U.S. District Court for the Central District of California (Granja v. AgEagle Aerial Systems Inc., et al, Case No. 2:21-cv-06056).  On August 11, 2021, the Plaintiff in this California derivative action filed a voluntary dismissal of the action.
+  42
+    Item 1A. Risk Factors.
+  We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item.
+  Item 2. Recent Sales of Unregistered Equity Securities and Use of Proceeds
+  None.
+  Item 3. Defaults Upon Senior Securities.
+  None
+  Item 4. Mine Safety Disclosures
+  Not applicable
+  Item 5. Other Information.
+  None
+  43
+    Item 6. Exhibits
+  Exhibit No.   Description
+31.1   Rule 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer
+31.2   Rule 13(a)-14(a)/15(d)-14(a) Certification of principal financial and accounting officer
+32.1   Section 1350 Certification of principal executive officer
+32.2   Section 1350 Certification of principal financial and accounting officer
+101.INS   XBRL INSTANCE DOCUMENT
+101.SCH    XBRL TAXONOMY EXTENSION SCHEMA
+101.CAL    XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+101.DEF    XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+101.LAB   XBRL TAXONOMY EXTENSION LABEL LINKBASE
+101.PRE    XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+  44
+    SIGNATURES
+  In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    AGEAGLE AERIAL SYSTEMS INC.
+      Dated: November 12, 2021 By: /s/ Brandon Torres Declet
+    Brandon Torres Declet
+    Chief Executive Officer & Board Director
+      Dated: November 12, 2021 By: /s/ Nicole Fernandez-McGovern 
+    Nicole Fernandez-McGovern
+    Chief Financial Officer, EVP of Operations and Secretary
+  45
+   

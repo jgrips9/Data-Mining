@@ -1,0 +1,639 @@
+    UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+  Form 10-Q
+  (Mark One)
+☒ QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+  For the quarterly period ended March 31, 2022
+  or
+  ☐ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT
+  For the transition period from _______________ to _______________. 
+  Commission file number 002-76219-NY
+  VICTORY OILFIELD TECH, INC.
+(Exact Name of Registrant as Specified in its Charter)
+  Nevada   87-0564472
+(State or other jurisdiction of
+incorporation or organization)   (I.R.S. Employer
+Identification No.)
+      3355 Bee Caves Road Suite 608, Austin, Texas   78746
+(Address of principal executive offices)   (Zip Code)
+  (512)-347-7300
+(Registrant’s telephone number, including area code)
+  N/A
+(Former name, former address and former fiscal year, if changed since last report)
+  Securities registered pursuant to Section 12(b) of the Act: None
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ 
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes ☒ No ☐ 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+  Large accelerated filer ☐ Accelerated filer ☐
+Non-accelerated filer ☒ Smaller reporting company ☒
+    Emerging growth company ☐
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to section 13(a) of the Exchange Act. ☐
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+  As of May 13, 2022, there were 28,037,713 shares of common stock, par value $0.001, issued and outstanding.
+          VICTORY OILFIELD TECH, INC.
+  TABLE OF CONTENTS 
+      Page
+    Part I – Financial Information 1
+      Item 1. Financial Statements 1
+  Consolidated Balance Sheets as of March 31, 2022 (unaudited) and December 31, 2021 1
+  Consolidated Statements of Operations for the Three Months Ended March 31, 2022 and 2021 (unaudited) 2
+  Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2022 and 2021 (unaudited) 3
+  Statement of Stockholders’ Equity for the Three Months Ended March 31, 2022 and 2021 (unaudited) 4
+  Notes to Consolidated Financial Statements for the Three Months Ended March 31, 2022 and 2021 5
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 12
+Item 3. Qualitative and Quantitative Discussions about Market Risk 23
+Item 4. Controls and Procedures 23
+      Part II – Other Information 25
+      Item 1. Legal Proceedings 25
+Item 1A. Risk Factors 25
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 25
+Item 3. Default Upon Senior Securities 25
+Item 4. Mine Safety Disclosures 25
+Item 5. Other Information 25
+Item 6. Exhibits 26
+  i
+  Part I – Financial Information
+  Item 1. Consolidated Financial Statements
+  VICTORY OILFIELD TECH, INC.
+CONSOLIDATED BALANCE SHEETS
+      March 31,     December 31,  
+    2022     2021  
+              ASSETS            
+Current Assets            
+Cash and cash equivalents   $ 34,254     $ 52,908  
+Accounts receivable, net     204,785       153,383  
+Inventory     41,700       24,915  
+Prepaid & other current assets     122,109       31,271  
+Total current assets     402,848       262,477  
+                  Property, plant and equipment     764,739       764,739  
+Accumulated depreciation     (557,590 )     (521,534 )
+Property, plant and equipment, net     207,149       243,205  
+Goodwill     145,149       145,149  
+Other intangible assets, net     109,263       113,575  
+Total Assets   $ 864,408     $ 764,406  
+                  LIABILITIES AND STOCKHOLDERS’ EQUITY                
+Current Liabilities                
+Accounts payable   $ 125,055     $ 100,754  
+Short term advance from Shareholder     180,150       180,150  
+Accrued and other short term liabilities     139,085       66,826  
+Short term notes payable, net     8,772       8,772  
+Short term notes payable - affiliate, net     3,634,976       3,550,276  
+Total current liabilities     4,088,038       3,906,778  
+Long term notes payable, net     239,850       239,850  
+Total long term liabilities     239,850       239,850  
+Total Liabilities     4,327,888       4,146,628  
+                  Stockholders’ Equity                
+Preferred Series D stock, $0.001 par value, 20,000 shares authorized, 8,333 shares and 8,333 shares issued and outstanding at March 31, 2022 and December 31, 2021, respectively     8       8  
+Common stock, $0.001 par value, 300,000,000 shares authorized, 28,037,713 shares and 28,037,713 shares issued and outstanding at March 31, 2022 and December 31, 2021 respectively     28,038       28,038  
+Receivable for stock subscription     (245,000 )     (245,000 )
+Additional paid-in capital     95,750,830       95,750,830  
+Accumulated deficit     (98,997,356 )     (98,916,098 )
+Total stockholders’ equity     (3,463,480 )     (3,382,222 )
+Total Liabilities and Stockholders’ Equity   $ 864,408     $ 764,406  
+  The accompanying notes are an integral part of these consolidated financial statements.
+  1
+  VICTORY OILFIELD TECH, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+      Three Months
+Ended
+March 31,  
+    2022     2021  
+Total revenue   $ 333,118     $ 156,372  
+                  Total cost of revenue     171,227       93,627  
+                  Gross profit     161,891       62,745  
+                  Operating expenses                
+Selling, general and administrative     227,322       189,983  
+Depreciation and amortization     5,260       5,126  
+Total operating expenses     232,582       195,109  
+Loss from operations     (70,691 )     (132,364 )
+Other expense                
+Interest expense     (10,567 )     (12,290 )
+Total other expense     (10,567 )     (12,290 )
+Loss applicable to common stockholders   $ (81,258 )   $ (144,654 )
+                  Loss per share applicable to common stockholders    
+            Loss per share, basic and diluted   $ (0.00 )   $ (0.01 )
+Weighted average shares, basic and diluted     28,037,713       28,037,713  
+  The accompanying notes are an integral part of these consolidated financial statements.
+  2
+  VICTORY OILFIELD TECH, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+      Three Months
+Ended
+March 31,  
+    2022     2021  
+CASH FLOWS FROM OPERATING ACTIVITIES            
+Net loss   $ (81,258 )   $ (144,654 )
+Adjustments to reconcile net loss to net cash used in operating activities                
+Amortization of intangible assets     4,313       4,312  
+Depreciation     36,056       33,561  
+Amortization of original issue discount     7,700       12,100  
+Change in operating assets and liabilities:                
+Accounts receivable     (51,402 )     26,291  
+Inventory     (16,785 )     (12,556 )
+Prepaid and other current assets     (90,838 )     (94,951 )
+Accounts payable     24,301       (47,723 )
+Accrued and other short term liabilities     72,259       71,377  
+Net cash used in operating activities     (95,654 )     (152,243 )
+                  CASH FLOWS FROM INVESTING ACTIVITIES                
+Investment in fixed assets    
+-
+      (32,998 )
+Net cash used in investing activities    
+-
+      (32,998 )
+                  CASH FLOWS FROM FINANCING ACTIVITIES                
+Debt financing proceeds - affiliate     77,000       121,000  
+Short term notes payable    
+-
+      98,622  
+Net cash provided by financing activities     77,000       219,622  
+Net change in cash and cash equivalents     (18,654 )     34,381  
+Beginning cash and cash equivalents     52,908       192,337  
+Ending cash and cash equivalents   $ 34,254     $ 226,718  
+      Three Months
+Ended
+March 31,  
+    2022     2021  
+Supplemental cash flow information:            
+Cash paid for:            
+Interest   $ 2,867     $ 190  
+  The accompanying notes are an integral part of these consolidated financial statements.
+  3
+  VICTORY OILFIELD TECH, INC.
+STATEMENT OF STOCKHOLDERS’ EQUITY
+(Unaudited)
+      Common Stock
+$0.001 Par Value     Preferred D
+$0.001 Par Value     Receivable
+for Stock     Additional
+Paid In     Accumulated     Total  
+    Number     Amount     Number     Amount     Subscription     Capital     Deficit     Equity  
+January 1, 2022 Balance     28,037,713     $ 28,038       8,333     $ 8     $ (245,000 )   $ 95,750,830     $ (98,916,098 )   $ (3,382,222 )
+Loss attributable to common stockholders     -      
+-
+      -      
+       -
+      -
+      -
+      (81,258 )     (81,258 )
+March 31, 2022 Balance     28,037,713     $ 28,038       8,333     $ 8     $ (245,000 )   $ 95,750,830     $ (98,997,356 )   $ (3,463,480 )
+      Common Stock
+$0.001 Par Value     Preferred D
+$0.001 Par Value     Receivable
+for Stock     Additional
+Paid In     Accumulated     Total  
+    Number     Amount     Number     Amount     Subscription     Capital     Deficit     Equity  
+January 1, 2021 Balance     28,037,713     $ 28,038       8,333     $ 8     $ (245,000 )   $ 95,750,830     $ (98,655,239 )   $ (3,121,363 )
+Loss attributable to common stockholders     -      
+-
+      -      
+       -
+      -
+      -
+      (144,654 )     (144,654 )
+March 31, 2021 Balance     28,037,713     $ 28,038       8,333     $ 8     $ (245,000 )   $ 95,750,830       (98,799,893 )   $ (3,266,017 )
+  The accompanying notes are an integral part of these consolidated financial statement
+  4
+  VICTORY OILFIELD TECH, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+March 31, 2022
+(Unaudited)
+  1. Organization and Basis of Presentation
+  Organization and nature of operations
+  Victory Oilfield Tech, Inc. (“Victory”), a Nevada corporation, is an oilfield technology products company offering patented oil and gas drilling products designed to improve well performance and extend the lifespan of the industry’s most sophisticated and expensive equipment. On July 31, 2018, Victory entered into an agreement to acquire Pro-Tech Hardbanding Services, Inc., an Oklahoma corporation (“Pro-Tech”), which provides various hardbanding solutions to oilfield operators for drill pipe, weight pipe, tubing and drill collars.
+  Basis of Presentation
+  The accompanying unaudited consolidated financial statements include the accounts of Victory and Pro-Tech, its wholly owned subsidiary, for all periods presented. All significant intercompany transactions and accounts between Victory and Pro-Tech (together, the “Company”) have been eliminated.
+  The preparation of the Company’s financial statements is in conformity with U.S. generally accepted accounting principles (“GAAP”), which requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses during the reporting period. Actual results could differ from those estimates.
+  The accompanying unaudited consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and note disclosures normally included in annual financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to those rules and regulations, although the Company believes that the disclosures made are adequate to make the information not misleading.
+  In the opinion of the Company’s management, the unaudited interim financial information contained herein includes all normal recurring adjustments, necessary to present fairly the financial position of the Company as of March 31, 2022, and the results of its operations and cash flows for the three months ended March 31, 2022 and 2021.
+  The results reported in these consolidated financial statements should not be regarded as necessarily indicative of results that may be expected for the full year or any future periods.
+  Going Concern
+  Historically the Company has experienced, and the Company continues to experience, net losses, net losses from operations, negative cash flow from operating activities, and working capital deficits. The Company has incurred an accumulated deficit of $(98,997,356) through March 31, 2022, and has a working capital deficit of $(3,685,190) at March 31, 2022. These conditions raise substantial doubt about the Company’s ability to continue as a going concern within one year after the date of issuance of the consolidated financial statements. The consolidated financial statements do not reflect any adjustments that might result if the Company was unable to continue as a going concern.
+  The Company anticipates that operating losses will continue in the near term as management continues efforts to leverage the Company’s intellectual property through the platform provided by the acquisition of Pro-Tech and, potentially, other acquisitions. The Company intends to meet near-term obligations through funding under the New VPEG Note (See Note 8, Related Party Transactions) as it seeks to generate positive cash flow from operations.
+  In addition to increasing cash flow from operations, we will be required to obtain other liquidity resources in order to support ongoing operations. We are addressing this need by developing additional capital sources, which we believe will enable us to execute our recapitalization and growth plan. This plan includes the expansion of Pro-Tech’s core hardbanding business through additional drilling services and the development of additional products and services including wholesale materials, RFID enclosures and mid-pipe coating solutions.
+  Based upon anticipated new sources of capital, and ongoing near-term funding provided through the New VPEG Note, we believe we will have enough capital to cover expenses through at least the next twelve months. We will continue to monitor liquidity carefully, and in the event we do not have enough capital to cover expenses, we will make the necessary and appropriate reductions in spending to remain cash flow positive. While management believes our plans help mitigate the substantial doubt that we are a going concern, there is no guarantee that our plans will be successful or if they are, will fully alleviate the conditions that raise substantial doubt that we are a going concern.
+  Capital Resources
+  During the three months ended March 31, 2022, the Company received loan proceeds of $77,000 from VPEG through the New VPEG Note. As of the date of this report and for the foreseeable future the Company expects to cover operating shortfalls, if any, with funding through the New VPEG Note while we enact our strategy to become a technology-focused oilfield services company and seek additional sources of capital. As of the date of this report, the remaining amount available for the Company for additional borrowings on the New VPEG Note was approximately $348,524. The Company is actively seeking additional capital from VPEG and potential sources of equity and/or debt financing.
+  5
+  2. Summary of Significant Accounting Policies
+  Revenue Recognition
+  The Company recognizes revenue as it satisfies contractual performance obligations by transferring promised goods or services to the customers. The amount of revenue recognized reflects the consideration the Company expects to be entitled to in exchange for those promised goods or services A good or service is transferred to a customer when, or as, the customer obtains control of that good or service.
+  The Company has one revenue stream, which relates to the provision of hardbanding services by its subsidiary Pro-Tech. All performance obligations of the Company’s contracts with customers are satisfied over the duration of the contract as customer-owned equipment is serviced and then made available for immediate use as completed during the service period. The Company has reviewed its contracts with Pro-Tech customers and determined that due to their short-term nature, with durations of several days of service at the customer’s location, it is only those contracts that occur near the end of a financial reporting period that will potentially require allocation to ensure revenue is recognized in the proper period. The Company has reviewed all such transactions and recorded revenue accordingly.
+  For the three months ended March 31, 2022 and 2021, all of the Company’s revenue was recognized from contracts with oilfield operators. See Note 9 “Segment and Geographic Information and Revenue Disaggregation” for further information.
+  Because the Company’s contracts have an expected duration of one year or less, the Company has elected the practical expedient in ASC 606-10-50-14(a) to not disclose information about its remaining performance obligations.
+  Concentration of Credit Risk, Accounts Receivable and Allowance for Doubtful Accounts
+  Financial instruments that potentially subject the Company to concentrations of credit risk primarily consist of cash and cash equivalents placed with high credit quality institutions and accounts receivable due from Pro-Tech’s customers. Management evaluates the collectability of accounts receivable based on a combination of factors. If management becomes aware of a customer’s inability to meet its financial obligations after a sale has occurred, the Company records an allowance to reduce the net receivable to the amount that it reasonably believes to be collectable from the customer. Accounts receivable are written off at the point they are considered uncollectible. An allowance of $5,002 and $5,002 has been recorded at March 31, 2022 and December 31, 2021, respectively. The Company suffered no bad debt losses in the three months ended March 31, 2022 and 2021, respectively. If the financial conditions of Pro-Tech’s customers were to deteriorate or if general economic conditions were to worsen, additional allowances may be required in the future. 
+  As of March 31, 2022 and December 31, 2021, four and three customers comprised 43% and 65% of the Company’s gross accounts receivables, respectively. For the three months ended March 31, 2022 and 2021, two and two customers comprised 48% and 54% of the Company’s total revenue, respectively.
+  Property, Plant and Equipment
+  Property, Plant and Equipment is stated at cost. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized. When property, plant and equipment is disposed of, the cost and related accumulated depreciation are removed from the consolidated balance sheets and any gain or loss is included in Other income/(expense) in the consolidated statements of operations.
+  Depreciation is computed using the straight-line method over the estimated useful lives of the related assets, as follows:
+  Asset category   Useful Life
+Welding equipment, Trucks, Machinery and equipment   5 years
+Office equipment   5 - 7 years
+Computer hardware and software   7 years
+  See Note 3, Property, Plant and Equipment, for further information.
+  6
+  Goodwill and Other Intangible Assets
+  Finite-lived intangible assets are recorded at cost, net of accumulated amortization and, if applicable, impairment charges. Amortization of finite-lived intangible assets is provided over their estimated useful lives on a straight-line basis or the pattern in which economic benefits are consumed, if reliably determinable. The Company reviews its finite-lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+  We perform an impairment test of goodwill annually and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. A goodwill impairment loss is recognized for the amount that the carrying amount of a reporting unit, including goodwill, exceeds its fair value, limited to the total amount of goodwill allocated to that reporting unit. We have determined that the Company is comprised of one reporting unit at March 31, 2022 and December 31, 2021, and the goodwill balances of $145,149 are included in the single reporting unit. To date, an impairment of goodwill has not been recorded. For the year ended December 31, 2021, we bypassed the qualitative assessment, and proceeded directly to the quantitative test for goodwill impairment.
+  The Company’s Goodwill balance consists of the amount recognized in connection with the acquisition of Pro-Tech. The Company’s other intangible assets are comprised of contract-based and marketing-related intangible assets, as well as acquisition-related intangibles. Acquisition-related intangibles include the value of Pro-Tech’s trademark and customer relationships, both of which are being amortized over their expected useful lives of 10 years beginning August 2018.
+  PPP Loans
+  The Company accounts for loans issued pursuant to the Paycheck Protection Program of the U.S. Small Business Administration as debt. The Company will continue to record the Second PPP Note as debt until either (1) the Second PPP Note is partially or entirely forgiven and the Company has been legally released, at which point the amount forgiven will be recorded as income or (2) the Company pays off the Second PPP Note. See Note 5, Notes Payable, for further information.
+  Business Combinations
+  Business combinations are accounted for using the acquisition method of accounting. Under the acquisition method, assets acquired and liabilities assumed are recorded at their respective fair values as of the acquisition date in the Company’s consolidated financial statements. The excess of the fair value of consideration transferred over the fair value of the net assets acquired is recorded as goodwill.
+  Share-Based Compensation
+  The Company from time to time may issue stock options, warrants and restricted stock as compensation to employees, directors, officers and affiliates, as well as to acquire goods or services from third parties. In all cases, the Company calculates share-based compensation using the Black-Scholes option pricing model and expenses awards based on fair value at the grant date on a straight-line basis over the requisite service period, which in the case of third party suppliers is the shorter of the period over which services are to be received or the vesting period, and for employees, directors, officers and affiliates is typically the vesting period. Share-based compensation is included in general and administrative expenses in the consolidated statements of operations. See Note 6, Stockholders’ Equity, for further information.
+  Income Taxes
+  The Company accounts for income taxes in accordance with ASC 740, Income Taxes, which requires an asset and liability approach for financial accounting and reporting of income taxes. Deferred income taxes reflect the impact of temporary differences between the amount of assets and liabilities for financial reporting purposes and such amounts as measured by tax laws and regulations. Deferred tax assets, if any, include tax loss and credit carry forwards and are reduced by a valuation allowance if, based on available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+  Earnings per Share
+  Basic earnings per share are computed using the weighted average number of common shares outstanding at March 31, 2022 and 2021, respectively. The weighted average number of common shares outstanding was 28,037,713 and 28,037,713, respectively, at March 31, 2022 and March 31, 2021. Diluted earnings per share reflect the potential dilutive effects of common stock equivalents such as options, warrants and convertible securities. Given the historical and projected future losses of the Company, all potentially dilutive common stock equivalents are considered anti-dilutive.
+  In May 2021, the FASB issued ASU 2021-04, Earnings Per Share (Topic 260), Debt - Modifications and Extinguishments (Subtopic 470-50), Compensation - Stock Compensation (Topic 718), and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40): Issuer’s Accounting for Certain Modifications or Exchanges of Freestanding Equity-Classified Written Call Options (“ASU 2021-04”). ASU 2021-04 provides guidance as to how an issuer should account for a modification of the terms or conditions or an exchange of a freestanding equity-classified written call option (i.e., a warrant) that remains classified after modification or exchange as an exchange of the original instrument for a new instrument. An issuer should measure the effect of a modification or exchange as the difference between the fair value of the modified or exchanged warrant and the fair value of that warrant immediately before modification or exchange and then apply a recognition model that comprises four categories of transactions and the corresponding accounting treatment for each category (equity issuance, debt origination, debt modification, and modifications unrelated to equity issuance and debt origination or modification). ASU 2021-04 is effective for all entities for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. An entity should apply the guidance provided in ASU 2021-04 prospectively to modifications or exchanges occurring on or after the effective date. The Company adopted ASU 2021-04 effective January 1, 2022. The adoption of ASU 2021-04 did not have any impact on the Company’s consolidated financial statement presentation or disclosures.
+  7
+  3. Property, plant and equipment
+  Property, plant and equipment, at cost, consisted of the following: 
+        March 31,     December 31,  
+    2022     2021  
+Trucks   $ 393,055     $ 393,055  
+Welding equipment     285,991       285,991  
+Office equipment     23,408       23,408  
+Machinery and equipment     18,663       18,663  
+Furniture and equipment     12,768       12,768  
+Computer hardware     8,663       8,663  
+Computer software     22,191       22,191  
+Total property, plant and equipment, at cost     764,739       764,739  
+Less -- accumulated depreciation     (557,590 )     (521,534 )
+Property, plant and equipment, net   $ 207,149     $ 243,205  
+  Depreciation expense for the three months ended March 31, 2022 and 2021 was $36,056 and $33,561, respectively.
+  4. Goodwill and Other Intangible Assets
+  The Company recorded $4,313 and $4,312 of amortization of intangible assets for the three months ended March 31, 2022 and 2021, respectively.
+  The following table shows intangible assets other than goodwill and related accumulated amortization as of March 31, 2022 and December 31, 2021.
+      March 31,
+2022     December 31,
+2021  
+Pro-Tech customer relationships   $ 129,680     $ 129,680  
+Pro-Tech trademark     42,840       42,840  
+Accumulated amortization and impairment     (63,257 )     (58,945 )
+Other intangible assets, net   $ 109,263     $ 113,575  
+  5. Notes Payable
+  Paycheck Protection Program Loan
+  On April 15, 2020, the Company received loan proceeds in the amount of $168,800 under the Paycheck Protection Program (the “PPP”). The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act of 2020 (the “CARES Act”) and administered by the U.S. Small Business Administration (the “SBA”), provides for loans to qualifying businesses for amounts up to 2.5 times of the average monthly payroll expenses of the qualifying business. The unsecured loan (the “First PPP Loan”) is evidenced by a promissory note (the “First PPP Note”) issued by the Company, dated April 14, 2020, in the principal amount of $168,800 with Arvest Bank.
+  As of August 6, 2021, the Company received notice from Arvest Bank and the SBA that the full amount of the First PPP Loan had been forgiven. The amount forgiven, including principal of $168,800 and accrued interest of $2,373, has been recorded as other income in the consolidated statements of operations. The entire amount of recorded gain on forgiveness of the First PPP Loan will be excluded from income for tax purposes.
+  The foregoing description of the First PPP Note does not purport to be complete and is qualified in its entirety by reference to the full text of the First PPP Note, a copy of which is filed as Exhibit 10.5 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  On February 1, 2021, the Company received loan proceeds in the amount of $98,622 pursuant to a second draw loan under the PPP. The unsecured loan (the “Second PPP Loan”) is evidenced by a promissory note (the “Second PPP Note”) issued by the Company, dated January 28, 2021, in the principal amount of $98,622 with Arvest Bank.
+  8
+  Under the terms of the Second PPP Note and the PPP, interest accrues on the outstanding principal at the rate of 1.0% per annum with a deferral of payments for the first 10 months. The term of the Second PPP Note is five years, though it may be payable sooner in connection with an event of default under the Second PPP Note. To the extent the amount of the Second PPP Loan is not forgiven under the PPP, the Company will be obligated to make equal monthly payments of principal and interest beginning after a ten-month deferral period provided in the Second PPP Note and through January 28, 2026.
+  The CARES Act and the PPP provide a mechanism for forgiveness of up to the full amount borrowed. Under the PPP, the Company may apply for forgiveness for all or a part of the Second PPP Loan. The amount of the Second PPP Loan proceeds eligible for forgiveness is based on a formula established by the SBA. Subject to the other requirements and limitations on the Second PPP Loan forgiveness, only that portion of the Second PPP Loan proceeds spent on payroll and other eligible costs during the covered twenty-four -week period will qualify for forgiveness. Although the Company has used the entire amount of the Second PPP Loan for qualifying expenses, and although the Company has already obtained forgiveness for the full amount borrowed pursuant to the First PPP Loan,, no assurance is provided that the Company will obtain forgiveness of the Second PPP Loan in whole or in part.
+  The Second PPP Note may be prepaid in part or in full, at any time, without penalty. The Second PPP Note provides for certain customary events of default, including the Company’s: (i) failure to make a payment when due; (ii) breach of the note terms; (iii) default on any other loan with the Lender; (iv) filing of a bankruptcy petition by or against the Company; (v) reorganization merger, consolidation or other change in ownership or business structure without the Lender’s prior written consent; (vi) adverse change in financial condition or business operation that the Lender believes may affect the Company’s ability to pay the Second PPP Note; and (vii) default on any loan or agreement with another creditor, if the Lender believes the default may materially affect the Company’s ability to pay the Second PPP Note. Upon the occurrence of an event of default, the Lender has customary remedies and may, among other things, require immediate payment of all amounts owed under the Second PPP Note, collect all amounts owing from the Company and file suit and obtain judgment against the Company.
+  The foregoing description of the Second PPP Note does not purport to be complete and is qualified in its entirety by reference to the full text of the Second PPP Note, a copy of which is filed as Exhibit 10.7 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  Economic Injury Disaster Loan
+  Additionally, on June 15, 2020, the Company received $150,000 in loan funding from the SBA under the Economic Injury Disaster Loan (“EIDL”) program administered by the SBA, which program was expanded pursuant to the CARES Act. The EIDL is evidenced by a promissory note, dated June 11, 2020 (the “EIDL Note”) in the original principal amount of $150,000 with the SBA, the lender.
+  Under the terms of the EIDL Note, interest accrues on the outstanding principal at the rate of 3.75% per annum. The term of the EIDL Note is 30 years, though it may be payable sooner upon an event of default under the EIDL Note. Under the EIDL Note, the Company is obligated to make equal monthly payments of principal and interest beginning on July 11, 2021 through the maturity date of June 11, 2050. The EIDL Note may be prepaid in part or in full, at any time, without penalty.
+  The Company made payments of $731 and $0 on the EIDL Note during the three months ended March 31, 2022 and 2021.
+  The Company recorded interest expense of $1,406 and $1,406 related to the EIDL Note for the three months ended March 31, 2022 and 2021, respectively.
+  The EIDL Note provides for certain customary events of default, including: (i) a failure to comply with any provision of the EIDL Note, the related Loan Authorization and Agreement, or other EIDL loan documents; (ii) a default on any other SBA loan; (iii) a sale or transfer of, or failure to preserve or account to SBA’s satisfaction for, any of the collateral or its proceeds; (iv) a failure of the Company or anyone acting on its behalf to disclose any material fact to SBA; (v) the making of a materially false or misleading representation to SBA by the Company or anyone acting on their behalf; (vi) a default on any loan or agreement with another creditor, if SBA believes the default may materially affect the Company’s ability to pay the EIDL Note; (vii) a failure to pay any taxes when due; (viii) if the Company becomes the subject of a proceeding under any bankruptcy or insolvency law; (ix) if a receiver or liquidator is appointed for any part of the Company’s business or property; (x) the making of an assignment for the benefit of creditors; (xi) has any adverse change in financial condition or business operation that SBA believes may materially affect the Company’s ability to pay the EIDL Note; (xii) effects any reorganization, merger, consolidation, or other transaction changing ownership or business structure without SBA’s prior written consent; or (xiii) becomes the subject of a civil or criminal action that SBA believes may materially affect the Company’s ability to pay the EIDL Note. The foregoing description of the EIDL Note does not purport to be complete and is qualified in its entirety by reference to the full text of the EIDL Note, a copy of which is filed as Exhibit 10.6 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  9
+  New VPEG Note
+  See Note 8, Related Party Transactions, for a description of the New VPEG Note. The outstanding balance on the New VPEG Note was $3,634,976 and $3,550,276 at March 31, 2022 and December 31, 2021, respectively.
+  The Company recorded interest expense of $7,700 and $12,100 related to the New VPEG Note for the three months ended March 31, 2022 and 2021, respectively.
+  6. Stockholders’ Equity
+  Common Stock
+  During the three months ended March 31, 2022 and 2021, the Company did not issue any shares of its common stock.
+  Stock Options
+  During the three months ended March 31, 2022 and 2021, the Company did not grant any stock awards to directors, officers, or employees.
+  As of March 31, 2022, all share-based compensation for unvested options, net of expected forfeitures, was fully recognized.
+  Warrants for Stock
+  During the three months ended March 31, 2022 and 2021, the Company did not grant any warrants to purchase shares of its common stock.
+  7. Commitments and Contingencies
+  We are subject to legal claims and litigation in the ordinary course of business, including but not limited to employment, commercial and intellectual property claims. The outcome of any such matters is currently not determinable, and the Company is not actively involved in any ongoing litigation as of the date of this report.
+  Rent expense for the three months ended March, 31 2022 and 2021 was $0.00 and $3,000, respectively. The Company’s office space is leased on a month-to-month basis, and as such there are no future annual minimum payments as of March 31, 2022 and 2021, respectively.
+  8. Related Party Transactions
+  Settlement Agreement
+  On August 21, 2017, the Company entered into a secured convertible original issue discount promissory note issued by the Company to VPEG (the “VPEG Note”). The VPEG Note was subsequently amended on October 11, 2017 and again on January 17, 2018. On April 10, 2018, the Company and Visionary Private Equity Group I, LP, a Missouri limited partnership (“VPEG”) entered into a settlement agreement and mutual release (the “Settlement Agreement”), pursuant to which VPEG agreed to release and discharge the Company from its obligations under the VPEG Note (see below). Pursuant to the Settlement Agreement, and in consideration and full satisfaction of the outstanding indebtedness of $1,410,200 under the VPEG Note, the Company issued to VPEG 1,880,267 shares of its common stock and a five-year warrant to purchase 1,880,267 shares of its common stock at an exercise price of $0.75 per share, to be reduced to the extent the actual price per share in a proposed future private placement (the “Proposed Private Placement”) is less than $0.75. The Company recorded share-based compensation of $11,281,602 in connection with the Settlement Agreement.
+  On April 10, 2018, in connection with the Settlement Agreement, the Company and VPEG entered into a loan Agreement (the “New Debt Agreement”), pursuant to which VPEG loaned to the Company $2,000,000 under a secured convertible original issue discount promissory note (the “New VPEG Note”). The loans made pursuant to the New VPEG Note reflect a 10% original issue discount, do not bear interest in addition to the original issue discount, are secured by a security interest in all of the Company’s assets, and at the option of VPEG are convertible into shares of the Company’s common stock at a conversion price equal to $0.75 per share or, such lower price as shares of Common Stock are sold to investors in the Proposed Private Placement. On October 30, 2020, the Company and VPEG amended the New Debt Agreement to increase the loan amount to up to $3,000,000. On January 31, 2021, the Company and VPEG amended the New Debt Agreement to increase the loan amount to up to $3,500,000. On September 3, 2021, the Company and VPEG amended the New Debt Agreement to increase the loan amount to up to $4,000,000. See Note 5, Notes Payable, for further information.
+  10
+  9. Segment and Geographic Information and Revenue Disaggregation
+  The Company has one reportable segment: Hardband Services. Hardband Services provides various hardbanding solutions to oilfield operators for drill pipe, weight pipe, tubing and drill collars. All Hardband Services revenue is generated in the United States, and all assets related to Hardband Services are located in the United States. Because the Company operates with only one reportable segment in one geographical area, there is no supplementary revenue or asset information to present.
+  To provide users of the financial statements information depicting how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors, we have disaggregated revenue by customer, with customers representing more than five percent of total annual revenues comprising the first category, and those representing less than five percent of total annual revenues comprising the second category.
+      Three Months Ended
+March 31,  
+Category   2022   2021  
+            > 5%   $ 239,056   $ 130,886  
+< 5%     94,062     31,704  
+    $ 333,118   $ 156,372  
+  10. Net Loss Per Share
+  Basic loss per share is computed using the weighted average number of common shares outstanding at March 31, 2022 and 2021, respectively. Diluted loss per share reflects the potential dilutive effects of common stock equivalents such as options, warrants and convertible securities. Basic and diluted weighted average number of common shares outstanding was 28,037,713 and 28,037,713 for the three months ended March 31, 2022 and 2021, respectively.
+  The following table sets forth the computation of net loss per common share – basic and diluted: 
+      Three months ended
+March 31,
+      2022   2021  
+Numerator:          
+Net loss   $ (81,258 ) $ (144,654 )
+Denominator              
+Basic weighted average common shares outstanding     28,037,713     28,037,713  
+Effect of dilutive securities    
+-
+    -
+  Diluted weighted average common shares outstanding     28,037,713     28,037,713  
+                Net loss per common share              
+Basic   $ (0.00 ) $ (0.01 )
+Diluted   $ (0.00 ) $ (0.01 )
+  11. Subsequent Events
+  During the period of April 1, 2022 through May 13, 2022 the Company received additional loan proceeds of $15,000 from VPEG pursuant to the New VPEG Note. See Note 5, Notes Payable, for further information.
+  In January 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a “Public Health Emergency of International Concern,” which continues to spread throughout the world and has adversely impacted global commercial activity and contributed to significant declines and volatility in financial markets. The coronavirus outbreak and government responses are creating disruption in global supply chains and adversely impacting many industries. The outbreak could have a continued material adverse impact on economic and market conditions and trigger a period of global economic slowdown. The rapid development and fluidity of this situation precludes any prediction as to the ultimate material adverse impact of the coronavirus outbreak. Nevertheless, the outbreak presents uncertainty and risk with respect to the Company, its performance, and its financial results. We remain alert to the potential impacts of new variants, shutdowns or restrictions put in place on our future results of operations, financial condition and cash flows.
+  The Company continues to actively monitor and manage supply chain challenges, including logistics, but, thus far, there have been no significant disruptions caused by COVID-19. The Company is coordinating with its suppliers to identify and mitigate potential areas of risk and manage inventories.
+  11
+  Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+  Introduction
+  The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand Victory Oilfield Tech, Inc. MD&A is presented in the following seven sections:
+  ● Cautionary Information about Forward-Looking Statements;
+  ● Business Overview;
+  ● Results of Operations;
+  ● Liquidity and Capital Resources;
+  ● Critical Accounting Policies and Estimates;
+  ● Recently Adopted Accounting Standards; and
+  ● Recently Issued Accounting Standards.
+  MD&A is provided as a supplement to, and should be read in conjunction with, the consolidated financial statements and notes thereto included elsewhere in this Quarterly Report on Form 10-Q and Items 7 and 8 of our Annual Report on Form 10-K for the year ended December 31, 2021.
+  In MD&A, we use “we,” “our,” “us,” “Victory” and “the Company” to refer to Victory Oilfield Tech. and its wholly-owned subsidiary, unless the context requires otherwise. Amounts and percentages in tables may not total due to rounding. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. We caution readers that important facts and factors described in MD&A and elsewhere in this document sometimes have affected, and in the future could affect our actual results, and could cause our actual results during 2022 and beyond to differ materially from those expressed in any forward-looking statements made by, or on behalf of, us.
+  As reported in the Report of Independent Registered Public Accounting Firm on our December 31, 2021 consolidated financial statements, we have suffered recurring losses from operations which raises substantial doubt about our ability to continue as a going concern.
+  On July 31, 2018, we purchased 100% of the issued and outstanding common stock of Pro-Tech, a hardbanding service provider.
+  Cautionary Information about Forward-Looking Statements
+  Many statements made in the following discussion and analysis of our financial condition and results of operations and elsewhere in this Quarterly Report on Form 10-Q that are not statements of historical fact, including statements about our beliefs and expectations, are “forward-looking statements” within the meaning of federal securities laws and should be evaluated as such. Forward-looking statements include information concerning possible or assumed future results of operations, including descriptions of our business plan, strategies and capital structure. In particular, the words “anticipate,” “expect,” “suggests,” “plan,” “believe,” “intend,” “estimates,” “targets,” “projects,” “should,” “could,” “would,” “may,” “will,” “forecast,” variations of such words, and other similar expressions identify forward-looking statements, but are not the exclusive means of identifying such statements and their absence does not mean that the statement is not forward-looking. We base these forward-looking statements or projections on our current expectations, plans and assumptions that we have made in light of our experience in the industry, as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate under the circumstances and at such time. As you read and consider this Quarterly Report on Form 10-Q, you should understand that these statements are not guarantees of performance or results. The forward-looking statements and projections are subject to and involve risks, uncertainties and assumptions, including, but not limited to, the risks and uncertainties described in Item 1A “Risk Factors” of our Annual Report on Form 10-K for the year ended December 31, 2021 and you should not place undue reliance on these forward-looking statements or projections. Although we believe that these forward-looking statements and projections are based on reasonable assumptions at the time they are made, you should be aware that many factors could affect our actual financial results or results of operations and could cause actual results to differ materially from those expressed in the forward-looking statements and projections. Factors that may materially affect such forward-looking statements and projections include:
+  ● continued operating losses;
+  ● adverse developments in economic conditions and, particularly, in conditions in the oil and gas industries;
+  ● volatility in the capital, credit and commodities markets;
+  ● our inability to successfully execute on our growth strategy;
+  ● the competitive nature of our industry;
+  12
+  ● credit risk exposure from our customers;
+  ● price increases or business interruptions in our supply of raw materials;
+  ● failure to develop and market new products and manage product life cycles;
+  ● business disruptions, security threats and security breaches, including security risks to our information technology systems;
+  ● terrorist acts, conflicts, wars, natural disasters, pandemics and other health crises that may materially adversely affect our business, financial condition and results of operations;
+  ● failure to comply with anti-terrorism laws and regulations and applicable trade embargoes;
+  ● risks associated with protecting data privacy;
+  ● significant environmental liabilities and costs as a result of our current and past operations or products, including operations or products related to our licensed coating materials;
+  ● transporting certain materials that are inherently hazardous due to their toxic nature;
+  ● litigation and other commitments and contingencies;
+  ● ability to recruit and retain the experienced and skilled personnel we need to compete;
+  ● work stoppages, labor disputes and other matters associated with our labor force;
+  ● delays in obtaining permits by our future customers or acquisition targets for their operations;
+  ● our ability to protect and enforce intellectual property rights;
+  ● intellectual property infringement suits against us by third parties;
+  ● our ability to realize the anticipated benefits of any acquisitions and divestitures;
+  ● risk that the insurance we maintain may not fully cover all potential exposures;
+  ● risks associated with changes in tax rates or regulations, including unexpected impacts of the U.S. TCJA legislation, which may differ with further regulatory guidance and changes in our current interpretations and assumptions;
+  ● our substantial indebtedness;
+  ● the results of pending litigation;
+  ● our ability to obtain additional capital on commercially reasonable terms may be limited;
+  ● any statements of belief and any statements of assumptions underlying any of the foregoing;
+  ● other factors disclosed in this Quarterly Report on Form 10-Q and our other filings with the Securities and Exchange Commission; and
+  ● other factors beyond our control.
+  These cautionary statements should not be construed by you to be exhaustive and are made only as of the date of this Quarterly Report on Form 10-Q. Except as expressly required by the federal securities laws, there is no undertaking to publicly update or revise any forward-looking statements, whether as a result of new information, future events, changed circumstances or any other reason. Potential investors should not make an investment decision based solely on our projections, estimates or expectations.
+  Business Overview
+  General
+  Victory Oilfield Tech, Inc. (“Victory”, the “Company”, “we”), a Nevada corporation, is an Austin, Texas based publicly held oilfield energy technology products company focused on improving well performance and extending the lifespan of the industry’s most sophisticated and expensive equipment. America’s resurgence in oil and gas production is largely driven by new innovative technologies and processes as most dramatically and recently demonstrated by fracking. We provide and apply wear-resistant alloys for use in the global oilfield services industry which are mechanically stronger, harder and more corrosion resistant than typical alloys found in the market today. This combination of characteristics creates opportunities for drillers to dramatically improve lateral drilling lengths, well completion time and total well costs.
+  13
+  On July 31, 2018, we entered into a stock purchase agreement to purchase 100% of the issued and outstanding common stock of Pro-Tech Hardbanding Services, Inc., an Oklahoma corporation (“Pro-Tech”), which provides various hardbanding solutions to oilfield operators for drill pipe, weight pipe, tubing and drill collars and servicing Oklahoma, Texas, Kansas, Arkansas, Louisiana, and New Mexico. We believe that the acquisition of Pro-Tech will create opportunities to leverage its existing portfolio of intellectual property to fulfill its mission of operating as a technology-focused oilfield services company. The stock purchase agreement was included as Exhibit 10.1 on the Form 8-K filed by us on August 2, 2018.
+  Our wear-resistant alloys reduce drill-string torque, friction, wear and corrosion in a cost-effective manner, while protecting the integrity of the base metal. We apply our coatings using advanced welding techniques and thermal spray methods. We also utilize common materials, such as tungsten carbide to chromium carbide, to deliver the optimal solution to the customers. Some of our hardbanding processes protect wear in tubulars using materials that achieve a low coefficient of friction to protect the drill string and casing from abrasion.
+  Growth Strategy
+  We plan to continue our U.S. oilfield services company acquisition initiative, aimed at companies which are already recognized as a high-quality service providers to strategic customers in the major North American oil and gas basins. When completed, we expect that each of these oilfield services company acquisitions will provide immediate revenue from their current regional customer base, while also providing us with a foundation for channel distribution and product development of our existing products. We intend to grow each of these established oilfield services companies by providing better access to capital, more disciplined sales and marketing development, integrated supply chain logistics and infrastructure build out that emphasizes outstanding customer service and customer collaboration, future product development and planning.
+  We believe that a well-capitalized technology-enabled oilfield services business will provide the basis for more accessible financing to grow the Company and execute our oilfield services company acquisitions strategy. We anticipate new innovative products will come to market as we collaborate with drillers to solve their other down-hole needs.
+  Recent Developments
+  Impact of Coronavirus Pandemic
+  In December 2019, a novel strain of coronavirus was reported to have surfaced in Wuhan, China. The virus has since spread to over 150 countries and every state in the United States. On March 11, 2020, the World Health Organization declared the outbreak a pandemic, and on March 13, 2020, the United States declared a national emergency. Most states and cities have reacted by instituting quarantines, restrictions on travel, “stay-at-home” rules and restrictions on the types of businesses that may continue to operate, as well as guidance in response to the pandemic and the need to contain it.
+  We do not expect to experience any material impairments or changes in accounting judgements related to COVID-19. Although we continue to face a period of uncertainty regarding the ongoing impact of the COVID-19 pandemic and emergence of new variants on projected customer demand, market conditions continue to gradually improve. In the midst of this challenging environment, we remain focused on taking the necessary steps to respond appropriately to changes in our business through specific contingency plans including (but not limited to): reviewing and monitoring planned capital expenditures, reviewing all operating expenses for opportunities to reduce and/or defer spending, and exploring new sources of revenue.
+  We continue to monitor the evolving situation related to COVID-19 including guidance from federal, state, and local public health authorities and may take additional actions based on these recommendations. In these circumstances, there may be developments outside our control requiring us to adjust our operating plan. As such, given the dynamic nature of this situation, we cannot reasonably estimate the impacts of COVID-19 or the emergence of new variants on our results of operations, cash flows and liquidity in the future, but they could be material.
+  Two additional issues continue to affect national and global market conditions. First, supply chain disruptions have become more frequent in recent months. Thus far, we have not experienced material adverse effects from materials shortages; however, timely sourcing of certain materials is of increased concern. Second, published articles and corporate announcements continue to address the global semiconductor chip shortage, which is anticipated to continue for at least the remainder of 2022. This shortage could affect some of our customers which could impact our revenue, volume, and profitability. We continue to actively monitor these developments, including ongoing contact with our suppliers and customers, and adapting to their specific circumstances and forecasts. 
+  New VPEG Note
+  During the period of April 1, 2022 through May 13, 2022, we received additional loan proceeds of $15,000 from VPEG pursuant to the New VPEG Note (See Note 8, Related Party Transactions, to the consolidated financial statements for a definition and description of the New VPEG Note).
+  14
+  Filings with the SEC
+  On September 16, 2020, the Securities and Exchange Commission (“SEC”) adopted extensive amendments to Rule 15c2-11 (“Rule”) under the Securities Exchange Act of 1934 (“Exchange Act”). The Rule governs the publication of quotations for securities in the over-the-counter (“OTC”) market, including the OTC Pink Market where our common stock is quoted. Rule 15c2-11 makes it unlawful for a broker-dealer to initiate a quotation for a security unless the broker dealer has in its records prescribed information about the issuer that is current and publicly available. The lack of full time accounting personnel and financial constraints resulting in delayed payments to our external professional services providers have restricted our ability to gather, analyze and properly review information related to financial reporting in a timely manner. For these reasons, we were unable to timely file our quarterly and annual reports during 2019 and 2020 and our quarterly reports for the first and second quarters of 2021. We resumed timely current public reporting practices as of the third quarter of 2021.
+    Factors Affecting our Operating Results
+  The following discussion sets forth certain components of our statements of operations as well as factors that impact those items.
+  Total revenue
+  We generate revenue from hardbanding solutions to oilfield operators for drill pipe, weight pipe, tubing and drill collars and grinding services.
+  Our revenues are generally impacted by the following factors:
+  ● our ability to successfully develop and launch new solutions and services
+  ● changes in buying habits of our customers
+  ● changes in the level of competition faced by our products
+  ● domestic drilling activity and spending by the oil and natural gas industry in the United States
+  Total cost of revenue
+  The costs associated with generating our revenue fluctuate as a result of changes in sales volumes, average selling prices, product mix, and changes in the price of raw materials and consist primarily of the following:
+  ● hardbanding production materials purchases
+  ● hardbanding supplies
+  ● labor
+  ● depreciation expense for hardbanding equipment
+  ● field expenses
+  15
+  Selling, general and administrative expenses (“SG&A”)
+  Our selling, general and administrative expense consists of all expenditures incurred in connection with the sales and marketing of our products, as well as administrative overhead costs, including:
+  ● compensation and benefit costs for management, sales personnel and administrative staff, which includes share-based compensation expense
+  ● rent expense, communications expense, and maintenance and repair costs
+  ● legal fees, accounting fees, consulting fees and insurance expenses.
+  These expenses are not expected to materially increase or decrease directly with changes in total revenue.
+  Depreciation and amortization
+  Depreciation and amortization expenses consist of amortization of intangible assets, depreciation of property, plant and equipment, net of depreciation of hardbanding equipment which is reported in Total cost of revenue
+  Interest expense
+  Interest expense, net consists primary of interest expense and loan fees on borrowings as well as amortization of debt issuance costs and debt discounts associated with our indebtedness.
+  Other (income) expense, net
+  Other (income) expense, net represents costs incurred, net of income, from various non-operating items including costs incurred in conjunction with our debt refinancing and extinguishment transactions, interest income, gain or loss on disposal of fixed assets, as well as non-operational gains and losses unrelated to our core business.
+  Income tax benefit (provision)
+  We are subject to income tax in the various jurisdictions in which we operate. While the extent of our future tax liability is uncertain, our operating results, the availability of any net operating loss carryforwards, any future business combinations, and changes to tax laws and regulations are key factors that will determine our future book and taxable income.
+  16
+  RESULTS OF OPERATIONS
+  The following discussion should be read in conjunction with the information contained in the accompanying unaudited financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q. Our historical results of operations summarized and analyzed below may not necessarily reflect what will occur in the future
+  Three Months Ended March 31, 2022 compared to the Three Months Ended March 31, 2021
+      For the Three
+Months Ended
+March 31,           Percentage  
+($ in thousands)   2022     2021     Change     Change  
+Total revenue   $ 333.1     $ 156.4     $ 176.7       113 %
+                                  Total cost of revenue     171.2       93.6       77.6       83 %
+                                  Gross profit     161.90       62.7       99.1       158 %
+                                  Operating expenses                                
+Selling, general and administrative     227.3       190.0       37.3       20 %
+Depreciation and amortization     5.3       5.1       0.1       3 %
+Total operating expenses     323.6       195.1       37.5       19 %
+Loss from operations     (70.7 )     (132.4 )     61.7       -47 %
+Other income/expense                                
+Interest expense     (10.6 )     (12.3 )     1.7       -14 %
+Total other income/expense     10.6       (12.3 )     1.7       -14 %
+Loss applicable to common stockholders   $ (81.3 )   $ (144.7 )   $ 63.4       -44 %
+  Total Revenue
+  Total revenue increased by $176,746, or 113%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021 due to an increase in the number of drilling rigs driving hardbanding and grinding revenue generated by Pro-Tech.
+  Total Cost of Revenue
+  Total cost of revenue increased by $77,600, or 83%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021 due primarily to increases in materials, direct labor, other direct costs resulting from increases in Pro-Tech’s revenue generating activities. Our gross profit margin increased to 49% during the quarter ended March 31, 2021 as compared to a gross profit margin of 40% during the quarter ended March 31, 2021 as a result of more efficient utilization of our direct labor.
+  Selling, general and administrative
+  Selling, general and administrative expenses increased by $37,300, or 20%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021 due primarily to increases in sales and marketing personnel and insurance costs.
+  Depreciation and amortization
+  Depreciation and amortization increased by 3% in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021 due to fixed asset additions subsequent to March 31, 2021.
+  Loss from Operations
+  We reported a loss from operations for the three months ended March 31, 2022 of $(70,700), which was a decrease of 47% compared to the operating loss of $(132,364) for the three months ended March 31, 2021.
+  Interest expense
+  Interest expense decreased by $1,723, or 14%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021. The overall decrease resulted from decreases related to forgiveness of the First PPP Note as well as a reduction in advances pursuant to the New VPEG Note. See Note 5, Notes Payable, to the consolidated financial statements for more information.
+  Loss Applicable to Common Stockholders
+  As a result of the foregoing, loss applicable to common stockholders for the three months ended March 31, 2022 was $(81,258), or $(0.00) per share, which is a decrease of 44% as compared to a loss applicable to common stockholders of $(144,654), or $(0.01) per share, for the three months ended March 31, 2021 on weighted average shares of 28,037,713 and 28,037,713, respectively.
+  17
+  LIQUIDITY AND CAPITAL RESOURCES
+  Going Concern
+  Historically we have experienced, and we continue to experience, net losses, net losses from operations, negative cash flow from operating activities, and working capital deficits. These conditions raise substantial doubt about our ability to continue as a going concern within one year after the date of issuance of the consolidated financial statements. The consolidated financial statements do not reflect any adjustments that might result if we are unable to continue as a going concern.
+  Management anticipates that operating losses will continue in the near term as we continue efforts to leverage our intellectual property through the platform provided by the acquisition of Pro-Tech and, potentially, other acquisitions. In the near term, we are relying on financing obtained from VPEG through the New VPEG Note to fund operations as we seek to generate positive cash flow from operations. See Note 5 “Notes Payable,” and Note 8 “Related Party Transactions,” to the accompanying consolidated financial statements for additional information regarding the New VPEG Note. In addition to increasing cash flow from operations, we will be required to obtain other liquidity resources in order to support ongoing operations. We are addressing this need by developing additional capital sources which we believe will enable us to execute our recapitalization and growth plan. This plan includes the expansion of Pro-Tech’s core hardbanding business through additional drilling services and the development of additional products and services including wholesale materials, RFID enclosures and mid-pipe coating solutions. 
+  Based upon capital formation activities as well as the ongoing near-term funding provided through the New VPEG Note, we believe we will have enough capital to cover expenses through at least the next twelve months. We will continue to monitor liquidity carefully, and in the event we do not have enough capital to cover expenses, we will make the necessary and appropriate reductions in spending to remain cash flow positive.
+  Material Cash Requirements
+  Our material short-term cash requirements include recurring payroll and benefits obligations for our employees, capital and operating expenditures and other working capital needs. Working capital, defined as total current assets less total current liabilities, fluctuates depending on borrowing as well as effective management of receivables from our purchasers and payables to our vendors. We do not anticipate any material capital expenditures during the twelve months following March 31, 2022. We believe that material cash requirements for operating expenditures in excess of cash provided by operations may range from $0 per month to $20,000 per month during the twelve months following March 31, 2022.
+  Our long-term material cash requirements from currently known obligations consist of repayment of outstanding borrowings and interest payment obligations.
+  The following table summarizes our estimated material cash requirements for known obligations as of May 13, 2022. This table does not include amounts payable under obligations where we cannot forecast with certainty the amount and timing of such payments. The following table does not include any cash requirements related to our office space in Texas or the Pro-Tech facility in Oklahoma because the office space in Texas is leased on a month-to-month basis, and the lease agreement for the Pro-Tech facility in Oklahoma is cancellable at any time by giving notice of 90 days.
+  ($ in thousands)   Payments Due by Period  
+Material Cash Requirements   Total     <1 Year     1-3 Years     3-5 Years     >5 Years  
+Economic Injury Disaster Loan repayment   $ 150.0     $ 8.8     $ 17.5     $ 17.5     $ 106.2  
+Paycheck Protection Program Loan (1)     98.6       -       49.3       49.3       -  
+New VPEG Note     3,550.3       3,550.3                       -  
+    $ 3,798.9     $ 3,559.1     $ 66.8     $ 66.8     $ 106.2  
+  (1) we intend to apply for full forgiveness of this loan
+  We believe it will be necessary to obtain additional liquidity resources satisfy our material cash requirements. We are addressing our liquidity needs by seeking to generate positive cash flows from operations and developing additional backup capital sources.
+  18
+  Capital Resources
+  During the three months ended March 31, 2022, we obtained $77,000 from VPEG through the New VPEG Note. On September 3, 2021, we and VPEG entered into an amendment to the New Debt Agreement (the “Third Amendment”), pursuant to which the parties agreed to increase the loan amount to up to $4,000,000 to cover future working capital needs.
+  As of the date of this Quarterly Report on Form 10-Q and for the foreseeable future, we expect to cover operating shortfalls with funding through the New VPEG Note while we enact our strategy to become a technology-focused oilfield services company and seek additional sources of capital. As of May 13, 2022, the remaining amount available to us for additional borrowings on the New VPEG Note was approximately $350,024.
+  Paycheck Protection Program Loans
+  On April 15, 2020, we received loan proceeds in the amount of $168,800 under the Paycheck Protection Program (the “PPP”). The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act of 2020 (the “CARES Act”) and administered by the U.S. Small Business Administration (the “SBA”), provides for loans to qualifying businesses for amounts up to 2.5 times of the average monthly payroll expenses of the qualifying business. The unsecured loan (the “First PPP Loan”) is evidenced by a promissory note (the “First PPP Note”) issued by us, dated April 14, 2020, in the principal amount of $168,800 with Arvest Bank. As of August 6, 2021, we received notice from Arvest Bank and the SBA that the full amount of the First PPP Loan had been forgiven. The amount forgiven, including principal of $168,800 and accrued interest of $2,373, has been recorded as other income in the accompanying consolidated financial statements. The entire amount of recorded gain on forgiveness of the First PPP Loan will be excluded from income for tax purposes.
+  The foregoing description of the First PPP Note does not purport to be complete and is qualified in its entirety by reference to the full text of the First PPP Note, a copy of which is filed as Exhibit 10.5 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  On February 1, 2021, we received loan proceeds in the amount of $98,622 pursuant to a second draw loan under the PPP. The unsecured loan (the “Second PPP Loan”) is evidenced by a promissory note (the “Second PPP Note”) issued by us, dated January 28, 2021, in the principal amount of $98,622 with Arvest Bank.
+  Under the terms of the Second PPP Note and the PPP, interest accrues on the outstanding principal at the rate of 1.0% per annum with a deferral of payments for the first 10 months. The term of the Second PPP Note is five years, though it may be payable sooner in connection with an event of default under the Second PPP Note. To the extent the amount of the Second PPP Loan is not forgiven under the PPP, we will be obligated to make equal monthly payments of principal and interest beginning after a 10-month deferral period provided in the Second PPP Note and through January 28, 2026.
+  The CARES Act and the PPP provide a mechanism for forgiveness of up to the full amount borrowed. Under the PPP, we may apply for forgiveness for all or a part of the Second PPP Loan. The amount of Second PPP Loan proceeds eligible for forgiveness is based on a formula established by the SBA. Subject to the other requirements and limitations on forgiveness, only that portion of the Second PPP Loan proceeds spent on payroll and other eligible costs during the covered twenty-four-week period will qualify for forgiveness. Although we have used the entire amount of the PPP Loans for qualifying expenses, and although the Company has already obtained forgiveness for the full amount borrowed pursuant to the First PPP Loan, no assurance is provided that we will obtain forgiveness of the Second PPP Loan in whole or in part.
+  The Second PPP Note may be prepaid in part or in full, at any time, without penalty. The Second PPP Note provides for certain customary events of default, including our: (i) failure to make a payment when due; (ii) breach of the note terms; (iii) default on any other loan with the Lender; (iv) filing of a bankruptcy petition by or against us; (v) reorganization merger, consolidation or other change in ownership or business structure without the Lender’s prior written consent; (vi) adverse change in financial condition or business operation that the Lender believes may affect our ability to pay the Second PPP Note; and (vii) default on any loan or agreement with another creditor, if the Lender believes the default may materially affect our ability to pay the Second PPP Note. Upon the occurrence of an event of default, the Lender has customary remedies and may, among other things, require immediate payment of all amounts owed under the Second PPP Note, collect all amounts owing from us and file suit and obtain judgment against us.
+  The foregoing description of the Second PPP Note does not purport to be complete and is qualified in its entirety by reference to the full text of the Second PPP Note, a copy of which is filed as Exhibit 10.7 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  19
+  Economic Injury Disaster Loan
+  Additionally, on June 15, 2020, we received $150,000 in loan funding from the SBA under the Economic Injury Disaster Loan (“EIDL”) program administered by the SBA, which program was expanded pursuant to the CARES Act. The EIDL is evidenced by a promissory note, dated June 11, 2020 (the “EIDL Note”) in the original principal amount of $150,000 with the SBA, the lender.
+  Under the terms of the EIDL Note, interest accrues on the outstanding principal at the rate of 3.75% per annum. The term of the EIDL Note is 30 years, though it may be payable sooner upon an event of default under the EIDL Note. Under the EIDL Note, we will be obligated to make equal monthly payments of principal and interest beginning on July 11, 2021 through the maturity date of June 11, 2050. The EIDL Note may be prepaid in part or in full, at any time, without penalty.
+  We recorded interest expense of $1,406 and $1,406 related to the EIDL Note for the three months ended March 31, 2022 and 2021, respectively.
+  The EIDL Note provides for certain customary events of default, including: (i) a failure to comply with any provision of the EIDL Note, the related Loan Authorization and Agreement, or other EIDL loan documents; (ii) a default on any other SBA loan; (iii) a sale or transfer of, or failure to preserve or account to SBA’s satisfaction for, any of the collateral or its proceeds; (iv) a failure of us or anyone acting on its behalf to disclose any material fact to SBA; (v) the making of a materially false or misleading representation to SBA by us or anyone acting on our behalf; (vi) a default on any loan or agreement with another creditor, if SBA believes the default may materially affect our ability to pay the EIDL Note; (vii) a failure to pay any taxes when due; (viii) if we become the subject of a proceeding under any bankruptcy or insolvency law; (ix) if a receiver or liquidator is appointed for any part of our business or property; (x) the making of an assignment for the benefit of creditors; (xi) has any adverse change in financial condition or business operation that SBA believes may materially affect our ability to pay the EIDL Note; (xii) effects any reorganization, merger, consolidation, or other transaction changing ownership or business structure without SBA’s prior written consent; or (xiii) becomes the subject of a civil or criminal action that SBA believes may materially affect our ability to pay the EIDL Note. The foregoing description of the EIDL Note does not purport to be complete and is qualified in its entirety by reference to the full text of the EIDL Note, a copy of which is filed as Exhibit 10.6 to the Quarterly Report on Form 10-Q for the periods ended June 30, 2020.
+  Cash Flow
+  The following table provides detailed information about our net cash flow for the three months ended March 31, 2022 and 2021:
+      Three Months
+Ended
+March 31,  
+    2022     2021  
+Net cash used in operating activities   $ (95,654 )   $ (152,243 )
+Net cash used in investing activities     -       (32,998 )
+Net cash provided by financing activities     77,000       219,622  
+Net increase (decrease) in cash and cash equivalents     (18,654 )     34,381  
+Cash and cash equivalents at beginning of period     52,908       192,337  
+Cash and cash equivalents at end of period   $ 34,254     $ 226,718  
+  Net cash used in operating activities for the three months ended March 31, 2022 was $95,654. Net loss adjusted for non-cash items (depreciation and amortization) used cash of $27,395. Changes in operating assets and liabilities used cash of $95,654. The most significant uses of cash were increases in accounts receivable due to timing of collections, inventory due to purchases, and prepaids and other current assets. These changes were partially offset by cash provided by increases in accounts payable and accrued and other short-term liabilities.
+  This compares to cash used in operating activities for the three months ended March 31, 2021 of $152,243. Net loss adjusted for non-cash items (including depreciation and amortization) used cash of $94,681. Changes in operating assets and liabilities used cash of $57,562. The most significant drivers were decreases in accounts receivable (due to timing of collections) and decreases in accounts payable and prepaid and other current assets, which were partially offset by an increase in accrued and other short-term liabilities.
+  Net cash used in investing activities for the three months ended March 31, 2022 was $0. This compares to $32,998 used by investing activities for the three months ended March 31, 2021 due to fixed asset purchases.
+  Net cash provided by financing activities for the three months ended March 31, 2022 was $77,000 compared to $219,622 in net cash provided by financing activities during the three months ended March 31, 2021. In the 2022 period, net cash provided by financing activities was primarily due to debt financing proceeds from affiliates. In the 2021 period, net cash provided by financing activities was primarily due to debt financing proceeds from affiliates, in addition to debt financing proceeds from the Second PPP Note.
+  20
+  Critical Accounting Policies and Estimates
+  The preparation of financial statements in conformity with U.S. generally accepted accounting principles, or GAAP, requires our management to make assumptions, estimates and judgments that affect the amounts reported, including the notes thereto, and related disclosures of commitments and contingencies, if any. We have identified certain accounting policies that are significant to the preparation of our financial statements. These accounting policies are important for an understanding of our financial condition and results of operation. Critical accounting policies are those that are most important to the portrayal of our financial condition and results of operations and require management’s difficult, subjective, or complex judgment, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in subsequent periods. Certain accounting estimates are particularly sensitive because of their significance to financial statements and because of the possibility that future events affecting the estimate may differ significantly from management’s current judgments. We believe the following critical accounting policies involve the most significant estimates and judgments used in the preparation of our financial statements:
+   Revenue Recognition
+  We recognize revenue as it satisfies contractual performance obligations by transferring promised goods or services to the customers. The amount of revenue recognized reflects the consideration we expect to be entitled to in exchange for those promised goods or services. A good or service is transferred to a customer when, or as, the customer obtains control of that good or service.
+  We have one revenue stream, which relates to the provision of hardbanding services by its subsidiary Pro-Tech. All performance obligations of our contracts with customers are satisfied over the duration of the contract as customer-owned equipment is serviced and then made available for immediate use as completed during the service period. We have reviewed our contracts with Pro-Tech customers and determined that due to their short-term nature, with durations of several days of service at the customer’s location, it is only those contracts that occur near the end of a financial reporting period that will potentially require allocation to ensure revenue is recognized in the proper period. We have reviewed all such transactions and recorded revenue accordingly.
+  For the three months ended March 31, 2022 and 2021, all of our revenue was recognized from contracts with oilfield operators, and we did not recognize impairment losses on any receivables or contract assets.
+  Because our contracts have an expected duration of one year or less, we have elected the practical expedient in ASC 606-10-50-14(a) to not disclose information about its remaining performance obligations.
+  Concentration of Credit Risk, Accounts Receivable and Allowance for Doubtful Accounts
+  Financial instruments that potentially subject us to concentrations of credit risk primarily consist of cash and cash equivalents placed with high credit quality institutions and accounts receivable due from Pro-Tech’s customers. Management evaluates the collectability of accounts receivable based on a combination of factors. If management becomes aware of a customer’s inability to meet its financial obligations after a sale has occurred, we record an allowance to reduce the net receivable to the amount that it reasonably believes to be collectable from the customer. Accounts receivable are written off at the point they are considered uncollectible. An allowance of $5,002 and $5,002 has been recorded at March 31, 2022 and December 31, 2021, respectively. We suffered no bad debt losses in the three months ended March 31, 2022 and 2021, respectively. If the financial conditions of Pro-Tech’s customers were to deteriorate or if general economic conditions were to worsen, additional allowances may be required in the future. 
+  As of March 31, 2022 and December 31, 2021, four and three customers comprised 43% and 65% of our gross accounts receivables, respectively. For the three months ended March, 2022 and 2021, two and two customers comprised 48% and 54% of our total revenue, respectively.
+  21
+  Property, Plant and Equipment
+  Property, Plant and Equipment is stated at cost. Maintenance and repairs are charged to expense as incurred and the costs of additions and betterments that increase the useful lives of the assets are capitalized. When property, plant and equipment is disposed of, the cost and related accumulated depreciation are removed from the consolidated balance sheets and any gain or loss is included in Other income/(expense) in the consolidated statement of operations.
+  Depreciation is computed using the straight-line method over the estimated useful lives of the related assets, as follows:
+  Asset category   Useful Life
+Welding equipment, Trucks, Machinery and equipment   5 years
+Office equipment   5 - 7 years
+Computer hardware and software   7 years
+  Goodwill and Other Intangible Assets
+  Finite-lived intangible assets are recorded at cost, net of accumulated amortization and, if applicable, impairment charges. Amortization of finite-lived intangible assets is provided over their estimated useful lives on a straight-line basis or the pattern in which economic benefits are consumed, if reliably determinable. We review our finite-lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+  We perform an impairment test of goodwill annually and whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. A goodwill impairment loss is recognized for the amount that the carrying amount of a reporting unit, including goodwill, exceeds its fair value, limited to the total amount of goodwill allocated to that reporting unit. We have determined that the Company is comprised of one reporting unit at March 31, 2022 and December 31, 2021, and the goodwill balances of $145,149 at the end of each period are included in the single reporting unit. To date, an impairment of goodwill has not been recorded. For the year ended December 31, 2021, we bypassed the qualitative assessment, and proceeded directly to the quantitative test for goodwill impairment.
+  Our Goodwill balance consists of the amount recognized in connection with the acquisition of Pro-Tech. Our other intangible assets are comprised of contract-based and marketing-related intangible assets, as well as acquisition-related intangibles. Acquisition-related intangibles include the value of Pro-Tech’s trademark and customer relationships, both of which are being amortized over their expected useful lives of 10 years beginning August 2018.
+  Business Combinations
+  Business combinations are accounted for using the acquisition method of accounting. Under the acquisition method, assets acquired and liabilities assumed are recorded at their respective fair values as of the acquisition date in our consolidated financial statements. The excess of the fair value of consideration transferred over the fair value of the net assets acquired is recorded as goodwill.
+  Share-Based Compensation
+  From time to time we may issue stock options, warrants and restricted stock as compensation to employees, directors, officers and affiliates, as well as to acquire goods or services from third parties. In all cases, we calculate share-based compensation using the Black-Scholes option pricing model and expenses awards based on fair value at the grant date on a straight-line basis over the requisite service period, which in the case of third party suppliers is the shorter of the period over which services are to be received or the vesting period, and for employees, directors, officers and affiliates is typically the vesting period. Share-based compensation is included in general and administrative expenses in the consolidated statements of operations. See Note 6, Stockholder’s Equity, for further information.
+  Income Taxes
+  We account for income taxes in accordance with ASC 740, Income Taxes, which requires an asset and liability approach for financial accounting and reporting of income taxes. Deferred income taxes reflect the impact of temporary differences between the amount of assets and liabilities for financial reporting purposes and such amounts as measured by tax laws and regulations. Deferred tax assets, if any, include tax loss and credit carry forwards and are reduced by a valuation allowance if, based on available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+  22
+  Earnings per Share
+  Basic earnings per share are computed using the weighted average number of common shares outstanding at March 31, 2022 and 2021, respectively. The weighted average number of common shares outstanding was 28,037,713 and 28,037,713, respectively, at March 31, 2022 and March 31, 2021. Diluted earnings per share reflect the potential dilutive effects of common stock equivalents such as options, warrants and convertible securities. Given the historical and projected future losses, all potentially dilutive common stock equivalents are considered anti-dilutive.
+  Recently Adopted Accounting Standards
+  Effective January 1, 2021, we adopted ASU 2019-12, “Simplifying the Accounting for Income Taxes” which simplifies the accounting for income taxes by removing certain exceptions to the general principles in Topic 740. The adoption of ASU 2019-12 did not have a material impact on our financial statements.
+  In May 2021, the FASB issued ASU 2021-04, Earnings Per Share (Topic 260), Debt - Modifications and Extinguishments (Subtopic 470-50), Compensation - Stock Compensation (Topic 718), and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40): Issuer’s Accounting for Certain Modifications or Exchanges of Freestanding Equity-Classified Written Call Options (“ASU 2021-04”). ASU 2021-04 provides guidance as to how an issuer should account for a modification of the terms or conditions or an exchange of a freestanding equity-classified written call option (i.e., a warrant) that remains classified after modification or exchange as an exchange of the original instrument for a new instrument. An issuer should measure the effect of a modification or exchange as the difference between the fair value of the modified or exchanged warrant and the fair value of that warrant immediately before modification or exchange and then apply a recognition model that comprises four categories of transactions and the corresponding accounting treatment for each category (equity issuance, debt origination, debt modification, and modifications unrelated to equity issuance and debt origination or modification). ASU 2021-04 is effective for all entities for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. An entity should apply the guidance provided in ASU 2021-04 prospectively to modifications or exchanges occurring on or after the effective date. We adopted ASU 2021-04 effective January 1, 2022. The adoption of ASU 2021-04 did not have any impact on our consolidated financial statement presentation or disclosures.
+  Recently Issued Accounting Standards
+  In March 2020, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2020-04, Reference Rate Reform (Topic 848) (ASU 2020-04), in response to the risk of cessation of the London Interbank Offered Rate (LIBOR). This amendment provides optional expedients and exceptions for applying generally accepted accounting principles to contracts, hedging arrangements, and other transactions that reference LIBOR. ASU 2020-04 will be in effect through December 31, 2022. We are currently evaluating ASU 2020-04 and the impact it may have on our operating results, financial position and disclosures.
+  Item 3. Qualitative and Quantitative Discussions about Market Risk
+  Not applicable.
+  Item 4. Controls and Procedures
+  Evaluation of Disclosure Controls and Procedures
+  We maintain disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)). Disclosure controls and procedures refer to controls and other procedures designed to ensure that information required to be disclosed in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC and that such information is accumulated and communicated to our management, including our chief executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+  As required by Rule 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, we have evaluated, with the participation of our chief executive officer and principal financial officer, the effectiveness of the design and operation of our disclosure controls and procedures as of March 31, 2022. Based on this evaluation, our chief executive officer and principal financial officer determined that, because of the material weakness described in Item 9A “Controls and Procedures” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021, which we are still in the process of remediating as of March 31, 2022, our disclosure controls and procedures were not effective.
+  Changes in Internal Controls 
+  We regularly review our system of internal control over financial reporting and make changes to our processes and systems to improve controls and increase efficiency, while ensuring that we maintain an effective internal control environment. Changes may include such activities as implementing new, more efficient systems, consolidating activities, and migrating processes.
+  23
+  During its evaluation of the effectiveness of our internal control over financial reporting as of March 31, 2022, our management identified the following material weaknesses:
+  ● We lack sufficient segregation of duties within accounting functions, which is a basic internal control. Due to our size and nature, segregation of all conflicting duties may not always be possible and may not be economically feasible. Management evaluated the impact of our failure to have segregation of duties on our assessment of our disclosure controls and procedures and has concluded that the control deficiency represents a material weakness.
+  ●
+We did not retain adequate records to support a small number of expense transactions. These were typically purchases occurring within the normal course of business, each in amounts less than $2,000 from vendors that offered substantial discounts in exchange for cash payments. In some cases, for the sake of expediency, invoices were not provided by the vendor. This resulted in a risk that could have materially impacted cost of sales and operating expenses. These deficiencies, while not necessarily material on an individual basis, aggregate to a material weakness.
+  ● We believe we lack sufficient training and oversight with respect to potential cyber security risks. We are not aware of any breaches of our information systems, nor any theft, loss, or unwanted exposure of data contained within our information systems; however, due to the risk that a material misstatement of our annual or interim financial statements may not be prevented or detected on a timely basis as a result of this control deficiency, our management has concluded that the control deficiency represents a material weakness.
+  As disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2021, our management has identified the steps necessary to address the material weaknesses, and through the date of this report, we continued to assess and implement remedial procedures. In order to cure the foregoing material weaknesses, the initiation of transactions, the custody of assets and the recording of transactions are performed by separate individuals to the extent possible. In addition, we will look to hire additional personnel with technical accounting expertise to further support our current accounting personnel. As necessary, we will continue to engage consultants or outside accounting firms in order to ensure proper accounting for our consolidated financial statements. We intend to implement additional preventive and detective controls, including establishment of new procedures for oversight over cyber security by our Board of Directors, employee cyber security training, and implementation of new risk assessment and incident response protocols. We also intend to provide training to our operations staff, aimed at preventing transactions for which the prospective vendor fails to provide sufficient documentation relating to such transaction.
+  We intend to complete the remediation of the material weaknesses discussed above as soon as practicable, but we can give no assurance that we will be able to do so. Designing and implementing an effective disclosure controls and procedures is a continuous effort that requires us to anticipate and react to changes in our business and the economic and regulatory environments and to devote significant resources to maintain a financial reporting system that adequately satisfies our reporting obligations. The remedial measures that we have taken and intend to take may not fully address the material weaknesses that we have identified, and material weaknesses in our disclosure controls and procedures may be identified in the future. Should we discover such conditions, we intend to remediate them as soon as practicable. We are committed to taking appropriate steps for remediation, as needed.
+  The lack of full-time accounting personnel and financial constraints resulting in delayed payments to our external professional services providers restricted our ability to gather, analyze and properly review information related to financial reporting in a timely manner during 2019, 2020, and the first six months of 2021. For these reasons, we were unable to timely file our quarterly reports and annual report during 2019 and 2020, and the first and second quarters of 2021.
+  Due to resource constraints, over a period of approximately thirty months we did not have the resources to fund sufficient staff and pay professional fees to ensure that all our reports were filed timely. However, our management has recently obtained, and continues to actively seek, additional sources of capital which allowed us to bring current our obligations to our external professional services providers. We resumed timely public reporting practices as of the third quarter of 2021.
+  All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+  Except for the matters described above, there have been no changes in our internal control over financial reporting during the three months ended March 31, 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+  24
+  Part II – Other Information
+  Item 1. Legal Proceedings
+  There were no material developments during the first three months of fiscal year 2022 to the legal proceedings previously disclosed in Item 3 “Legal Proceedings” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2021.
+  Item 1A. Risk Factors
+  Not applicable.
+  Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+  We have not sold any equity securities during the first three months of fiscal year 2022 that were not previously disclosed in a current report on Form 8-K that was filed during the quarter.  
+  During the three months ended March 31, 2022, we did not repurchase any shares of our common stock. 
+  Item 3. Default Upon Senior Securities
+  None. 
+  Item 4. Mine Safety Disclosures
+  Not Applicable. 
+  Item 5. Other Information
+  We have no information to disclose that was required to be in a report on Form 8-K during the first three months of fiscal year 2022 but was not reported. There have been no material changes to the procedures by which security holders may recommend nominees to our board of directors. 
+  25
+  Item 6. Exhibits
+  Exhibit No.   Description
+      3.1   Amended and Restated Articles of Incorporation of Victory Energy Corporation (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on November 22, 2017)
+      3.2   Certificate of Amendment to Articles of Incorporation (Name Change) (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on June 4, 2018)
+      3.3   Certificate of Designation of Series D Preferred Stock of Victory Energy Corporation (incorporated by reference to Exhibit 3.3 to the Current Report on Form 8-K filed on August 24, 2017)
+      3.4   Amended and Restated Bylaws of Victory Energy Corporation (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed on September 20, 2017)
+      4.1   Form of Common Stock Certificate of Victory Energy Corporation (incorporated by reference to Exhibit 4.1 to the Annual Report on Form 10-K filed on April 8, 2016)
+      4.2   Common Stock Warrant issued by Victory Energy Corporation to Visionary Private Equity Group I, LP on February 3, 2017 (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K filed on February 7, 2017)
+      4.3   Common Stock Warrant issued by Victory Oilfield Tech, Inc. to Visionary Private Equity Group I, LP on April 13, 2018 (incorporated by reference to Exhibit 4.3 to the Quarterly Report on Form 10-Q filed on November 14, 2018)
+      4.4   Common Stock Purchase Warrant issued by Victory Oilfield Tech, Inc. to Kodak Brothers All America Fund, LP on July 31, 2018 (incorporated by reference to Exhibit 4,1 to the Current Report on Form 8-K filed on August 2, 2018)
+      4.5   Common Stock Purchase Warrant issued by Victory Oilfield Tech, Inc. to Kevin DeLeon on October 25, 2019 (incorporated by reference to Exhibit 4.5 to the Annual Report on Form 10-K filed on February 9, 2021). 
+      10.1 †   Victory Energy Corporation 2014 Long Term Incentive Plan (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed on February 28, 2014)
+      10.2 †   Victory Energy Corporation 2017 Equity Incentive Plan (incorporated by reference to Exhibit 10.28 to the Registration Statement on Form S-1 filed on February 5, 2018)
+  26
+  31.1*   Certifications of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+      32.1*   Certification of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+      101.INS++   Inline XBRL Taxonomy Instance Document
+      101.SCH++   Inline XBRL Taxonomy Extension Schema Document
+      101.CAL++   Inline XBRL Taxonomy Calculation Linkbase Document
+      101.DEF++   Inline XBRL Taxonomy Extension Definition Linkbase Document
+      101.LAB++   Inline XBRL Taxonomy Label Linkbase Document
+      101.PRE++   Inline XBRL Taxonomy Presentation Linkbase Document
+      104   Cover Page Interactive Data File (embedded within the Inline XBRL document)
+  * Filed herewith.
+  † Executive Compensation Plan or Agreement.
+  ++XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a report for purposes of sections 11 or 12 of the Securities Act of 1933, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections.
+   27
+  Signature
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+    VICTORY OILFIELD TECH, INC.
+      Date: May 13, 2022 By: /s/ Kevin DeLeon
+    Kevin DeLeon
+    Chief Executive Officer, Principal Financial and Accounting Officer, and Director
+    28
+   
