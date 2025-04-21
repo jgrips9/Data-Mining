@@ -8,6 +8,9 @@ Linkedin Scraping:
   
 [![Extracting CIK Numbers](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hHESXGQoK85RRaHqCNlMbkbvA7w3JyVI?usp=sharing)
 
+Request SEC API Key:  
+https://sec-api.io/  
+
 Schedule Consultation with CCSS:  
 https://outlook.office365.com/book/CCSSConsultationgs@cornellprod.onmicrosoft.com/s/4hZyp0FGKEC1nWQahSz0IA2?ae=true&login_hint  
 
